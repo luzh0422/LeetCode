@@ -1,0 +1,31 @@
+{
+  "version": "2.0.0",
+  "options": {
+      "cwd": "${workspaceRoot}/build"
+  },
+  "tasks": [
+      {
+          "type": "shell",
+          "label": "cmake clean",
+          "command": "rm -rf *"
+      },
+      {
+          "type": "shell",
+          "label": "cmake",
+          "command": "cmake",
+          "args": [".."],
+          "dependsOn":["cmake clean"]
+      },
+      {
+          "label": "make",
+          "group": {
+              "kind": "build",
+              "isDefault": true
+          },
+          "type": "shell",
+          "command": "make -j8",
+          "args": [],
+          "dependsOn": [ "cmake" ],
+      }
+  ]
+}
