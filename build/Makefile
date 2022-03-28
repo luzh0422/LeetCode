@@ -129,6 +129,486 @@ LeetCode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/build
 .PHONY : LeetCode/fast
 
+HUAWEI0.o: HUAWEI0.cpp.o
+.PHONY : HUAWEI0.o
+
+# target to build an object file
+HUAWEI0.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/HUAWEI0.cpp.o
+.PHONY : HUAWEI0.cpp.o
+
+HUAWEI0.i: HUAWEI0.cpp.i
+.PHONY : HUAWEI0.i
+
+# target to preprocess a source file
+HUAWEI0.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/HUAWEI0.cpp.i
+.PHONY : HUAWEI0.cpp.i
+
+HUAWEI0.s: HUAWEI0.cpp.s
+.PHONY : HUAWEI0.s
+
+# target to generate assembly for a file
+HUAWEI0.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/HUAWEI0.cpp.s
+.PHONY : HUAWEI0.cpp.s
+
+HUAWEI1.o: HUAWEI1.cpp.o
+.PHONY : HUAWEI1.o
+
+# target to build an object file
+HUAWEI1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/HUAWEI1.cpp.o
+.PHONY : HUAWEI1.cpp.o
+
+HUAWEI1.i: HUAWEI1.cpp.i
+.PHONY : HUAWEI1.i
+
+# target to preprocess a source file
+HUAWEI1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/HUAWEI1.cpp.i
+.PHONY : HUAWEI1.cpp.i
+
+HUAWEI1.s: HUAWEI1.cpp.s
+.PHONY : HUAWEI1.s
+
+# target to generate assembly for a file
+HUAWEI1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/HUAWEI1.cpp.s
+.PHONY : HUAWEI1.cpp.s
+
+HUAWEI2.o: HUAWEI2.cpp.o
+.PHONY : HUAWEI2.o
+
+# target to build an object file
+HUAWEI2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/HUAWEI2.cpp.o
+.PHONY : HUAWEI2.cpp.o
+
+HUAWEI2.i: HUAWEI2.cpp.i
+.PHONY : HUAWEI2.i
+
+# target to preprocess a source file
+HUAWEI2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/HUAWEI2.cpp.i
+.PHONY : HUAWEI2.cpp.i
+
+HUAWEI2.s: HUAWEI2.cpp.s
+.PHONY : HUAWEI2.s
+
+# target to generate assembly for a file
+HUAWEI2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/HUAWEI2.cpp.s
+.PHONY : HUAWEI2.cpp.s
+
+HUAWEI3.o: HUAWEI3.cpp.o
+.PHONY : HUAWEI3.o
+
+# target to build an object file
+HUAWEI3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/HUAWEI3.cpp.o
+.PHONY : HUAWEI3.cpp.o
+
+HUAWEI3.i: HUAWEI3.cpp.i
+.PHONY : HUAWEI3.i
+
+# target to preprocess a source file
+HUAWEI3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/HUAWEI3.cpp.i
+.PHONY : HUAWEI3.cpp.i
+
+HUAWEI3.s: HUAWEI3.cpp.s
+.PHONY : HUAWEI3.s
+
+# target to generate assembly for a file
+HUAWEI3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/HUAWEI3.cpp.s
+.PHONY : HUAWEI3.cpp.s
+
+HUAWEI4.o: HUAWEI4.cpp.o
+.PHONY : HUAWEI4.o
+
+# target to build an object file
+HUAWEI4.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/HUAWEI4.cpp.o
+.PHONY : HUAWEI4.cpp.o
+
+HUAWEI4.i: HUAWEI4.cpp.i
+.PHONY : HUAWEI4.i
+
+# target to preprocess a source file
+HUAWEI4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/HUAWEI4.cpp.i
+.PHONY : HUAWEI4.cpp.i
+
+HUAWEI4.s: HUAWEI4.cpp.s
+.PHONY : HUAWEI4.s
+
+# target to generate assembly for a file
+HUAWEI4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/HUAWEI4.cpp.s
+.PHONY : HUAWEI4.cpp.s
+
+LeetCode121.o: LeetCode121.cpp.o
+.PHONY : LeetCode121.o
+
+# target to build an object file
+LeetCode121.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode121.cpp.o
+.PHONY : LeetCode121.cpp.o
+
+LeetCode121.i: LeetCode121.cpp.i
+.PHONY : LeetCode121.i
+
+# target to preprocess a source file
+LeetCode121.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode121.cpp.i
+.PHONY : LeetCode121.cpp.i
+
+LeetCode121.s: LeetCode121.cpp.s
+.PHONY : LeetCode121.s
+
+# target to generate assembly for a file
+LeetCode121.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode121.cpp.s
+.PHONY : LeetCode121.cpp.s
+
+LeetCode172.o: LeetCode172.cpp.o
+.PHONY : LeetCode172.o
+
+# target to build an object file
+LeetCode172.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode172.cpp.o
+.PHONY : LeetCode172.cpp.o
+
+LeetCode172.i: LeetCode172.cpp.i
+.PHONY : LeetCode172.i
+
+# target to preprocess a source file
+LeetCode172.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode172.cpp.i
+.PHONY : LeetCode172.cpp.i
+
+LeetCode172.s: LeetCode172.cpp.s
+.PHONY : LeetCode172.s
+
+# target to generate assembly for a file
+LeetCode172.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode172.cpp.s
+.PHONY : LeetCode172.cpp.s
+
+LeetCode2038.o: LeetCode2038.cpp.o
+.PHONY : LeetCode2038.o
+
+# target to build an object file
+LeetCode2038.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode2038.cpp.o
+.PHONY : LeetCode2038.cpp.o
+
+LeetCode2038.i: LeetCode2038.cpp.i
+.PHONY : LeetCode2038.i
+
+# target to preprocess a source file
+LeetCode2038.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode2038.cpp.i
+.PHONY : LeetCode2038.cpp.i
+
+LeetCode2038.s: LeetCode2038.cpp.s
+.PHONY : LeetCode2038.s
+
+# target to generate assembly for a file
+LeetCode2038.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode2038.cpp.s
+.PHONY : LeetCode2038.cpp.s
+
+LeetCode2043.o: LeetCode2043.cpp.o
+.PHONY : LeetCode2043.o
+
+# target to build an object file
+LeetCode2043.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode2043.cpp.o
+.PHONY : LeetCode2043.cpp.o
+
+LeetCode2043.i: LeetCode2043.cpp.i
+.PHONY : LeetCode2043.i
+
+# target to preprocess a source file
+LeetCode2043.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode2043.cpp.i
+.PHONY : LeetCode2043.cpp.i
+
+LeetCode2043.s: LeetCode2043.cpp.s
+.PHONY : LeetCode2043.s
+
+# target to generate assembly for a file
+LeetCode2043.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode2043.cpp.s
+.PHONY : LeetCode2043.cpp.s
+
+LeetCode2044.o: LeetCode2044.cpp.o
+.PHONY : LeetCode2044.o
+
+# target to build an object file
+LeetCode2044.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode2044.cpp.o
+.PHONY : LeetCode2044.cpp.o
+
+LeetCode2044.i: LeetCode2044.cpp.i
+.PHONY : LeetCode2044.i
+
+# target to preprocess a source file
+LeetCode2044.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode2044.cpp.i
+.PHONY : LeetCode2044.cpp.i
+
+LeetCode2044.s: LeetCode2044.cpp.s
+.PHONY : LeetCode2044.s
+
+# target to generate assembly for a file
+LeetCode2044.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode2044.cpp.s
+.PHONY : LeetCode2044.cpp.s
+
+LeetCode2049.o: LeetCode2049.cpp.o
+.PHONY : LeetCode2049.o
+
+# target to build an object file
+LeetCode2049.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode2049.cpp.o
+.PHONY : LeetCode2049.cpp.o
+
+LeetCode2049.i: LeetCode2049.cpp.i
+.PHONY : LeetCode2049.i
+
+# target to preprocess a source file
+LeetCode2049.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode2049.cpp.i
+.PHONY : LeetCode2049.cpp.i
+
+LeetCode2049.s: LeetCode2049.cpp.s
+.PHONY : LeetCode2049.s
+
+# target to generate assembly for a file
+LeetCode2049.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode2049.cpp.s
+.PHONY : LeetCode2049.cpp.s
+
+LeetCode432.o: LeetCode432.cpp.o
+.PHONY : LeetCode432.o
+
+# target to build an object file
+LeetCode432.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode432.cpp.o
+.PHONY : LeetCode432.cpp.o
+
+LeetCode432.i: LeetCode432.cpp.i
+.PHONY : LeetCode432.i
+
+# target to preprocess a source file
+LeetCode432.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode432.cpp.i
+.PHONY : LeetCode432.cpp.i
+
+LeetCode432.s: LeetCode432.cpp.s
+.PHONY : LeetCode432.s
+
+# target to generate assembly for a file
+LeetCode432.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode432.cpp.s
+.PHONY : LeetCode432.cpp.s
+
+LeetCode589.o: LeetCode589.cpp.o
+.PHONY : LeetCode589.o
+
+# target to build an object file
+LeetCode589.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode589.cpp.o
+.PHONY : LeetCode589.cpp.o
+
+LeetCode589.i: LeetCode589.cpp.i
+.PHONY : LeetCode589.i
+
+# target to preprocess a source file
+LeetCode589.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode589.cpp.i
+.PHONY : LeetCode589.cpp.i
+
+LeetCode589.s: LeetCode589.cpp.s
+.PHONY : LeetCode589.s
+
+# target to generate assembly for a file
+LeetCode589.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode589.cpp.s
+.PHONY : LeetCode589.cpp.s
+
+LeetCode590.o: LeetCode590.cpp.o
+.PHONY : LeetCode590.o
+
+# target to build an object file
+LeetCode590.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode590.cpp.o
+.PHONY : LeetCode590.cpp.o
+
+LeetCode590.i: LeetCode590.cpp.i
+.PHONY : LeetCode590.i
+
+# target to preprocess a source file
+LeetCode590.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode590.cpp.i
+.PHONY : LeetCode590.cpp.i
+
+LeetCode590.s: LeetCode590.cpp.s
+.PHONY : LeetCode590.s
+
+# target to generate assembly for a file
+LeetCode590.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode590.cpp.s
+.PHONY : LeetCode590.cpp.s
+
+LeetCode599.o: LeetCode599.cpp.o
+.PHONY : LeetCode599.o
+
+# target to build an object file
+LeetCode599.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode599.cpp.o
+.PHONY : LeetCode599.cpp.o
+
+LeetCode599.i: LeetCode599.cpp.i
+.PHONY : LeetCode599.i
+
+# target to preprocess a source file
+LeetCode599.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode599.cpp.i
+.PHONY : LeetCode599.cpp.i
+
+LeetCode599.s: LeetCode599.cpp.s
+.PHONY : LeetCode599.s
+
+# target to generate assembly for a file
+LeetCode599.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode599.cpp.s
+.PHONY : LeetCode599.cpp.s
+
+LeetCode653.o: LeetCode653.cpp.o
+.PHONY : LeetCode653.o
+
+# target to build an object file
+LeetCode653.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode653.cpp.o
+.PHONY : LeetCode653.cpp.o
+
+LeetCode653.i: LeetCode653.cpp.i
+.PHONY : LeetCode653.i
+
+# target to preprocess a source file
+LeetCode653.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode653.cpp.i
+.PHONY : LeetCode653.cpp.i
+
+LeetCode653.s: LeetCode653.cpp.s
+.PHONY : LeetCode653.s
+
+# target to generate assembly for a file
+LeetCode653.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode653.cpp.s
+.PHONY : LeetCode653.cpp.s
+
+LeetCode661.o: LeetCode661.cpp.o
+.PHONY : LeetCode661.o
+
+# target to build an object file
+LeetCode661.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode661.cpp.o
+.PHONY : LeetCode661.cpp.o
+
+LeetCode661.i: LeetCode661.cpp.i
+.PHONY : LeetCode661.i
+
+# target to preprocess a source file
+LeetCode661.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode661.cpp.i
+.PHONY : LeetCode661.cpp.i
+
+LeetCode661.s: LeetCode661.cpp.s
+.PHONY : LeetCode661.s
+
+# target to generate assembly for a file
+LeetCode661.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode661.cpp.s
+.PHONY : LeetCode661.cpp.s
+
+LeetCode693.o: LeetCode693.cpp.o
+.PHONY : LeetCode693.o
+
+# target to build an object file
+LeetCode693.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode693.cpp.o
+.PHONY : LeetCode693.cpp.o
+
+LeetCode693.i: LeetCode693.cpp.i
+.PHONY : LeetCode693.i
+
+# target to preprocess a source file
+LeetCode693.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode693.cpp.i
+.PHONY : LeetCode693.cpp.i
+
+LeetCode693.s: LeetCode693.cpp.s
+.PHONY : LeetCode693.s
+
+# target to generate assembly for a file
+LeetCode693.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode693.cpp.s
+.PHONY : LeetCode693.cpp.s
+
+LeetCode720.o: LeetCode720.cpp.o
+.PHONY : LeetCode720.o
+
+# target to build an object file
+LeetCode720.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode720.cpp.o
+.PHONY : LeetCode720.cpp.o
+
+LeetCode720.i: LeetCode720.cpp.i
+.PHONY : LeetCode720.i
+
+# target to preprocess a source file
+LeetCode720.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode720.cpp.i
+.PHONY : LeetCode720.cpp.i
+
+LeetCode720.s: LeetCode720.cpp.s
+.PHONY : LeetCode720.s
+
+# target to generate assembly for a file
+LeetCode720.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode720.cpp.s
+.PHONY : LeetCode720.cpp.s
+
+LeetCode798.o: LeetCode798.cpp.o
+.PHONY : LeetCode798.o
+
+# target to build an object file
+LeetCode798.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode798.cpp.o
+.PHONY : LeetCode798.cpp.o
+
+LeetCode798.i: LeetCode798.cpp.i
+.PHONY : LeetCode798.i
+
+# target to preprocess a source file
+LeetCode798.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode798.cpp.i
+.PHONY : LeetCode798.cpp.i
+
+LeetCode798.s: LeetCode798.cpp.s
+.PHONY : LeetCode798.s
+
+# target to generate assembly for a file
+LeetCode798.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LeetCode798.cpp.s
+.PHONY : LeetCode798.cpp.s
+
 Solution.o: Solution.cpp.o
 .PHONY : Solution.o
 
@@ -152,6 +632,294 @@ Solution.s: Solution.cpp.s
 Solution.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution.cpp.s
 .PHONY : Solution.cpp.s
+
+Solution1001.o: Solution1001.cpp.o
+.PHONY : Solution1001.o
+
+# target to build an object file
+Solution1001.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1001.cpp.o
+.PHONY : Solution1001.cpp.o
+
+Solution1001.i: Solution1001.cpp.i
+.PHONY : Solution1001.i
+
+# target to preprocess a source file
+Solution1001.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1001.cpp.i
+.PHONY : Solution1001.cpp.i
+
+Solution1001.s: Solution1001.cpp.s
+.PHONY : Solution1001.s
+
+# target to generate assembly for a file
+Solution1001.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1001.cpp.s
+.PHONY : Solution1001.cpp.s
+
+Solution1005.o: Solution1005.cpp.o
+.PHONY : Solution1005.o
+
+# target to build an object file
+Solution1005.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1005.cpp.o
+.PHONY : Solution1005.cpp.o
+
+Solution1005.i: Solution1005.cpp.i
+.PHONY : Solution1005.i
+
+# target to preprocess a source file
+Solution1005.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1005.cpp.i
+.PHONY : Solution1005.cpp.i
+
+Solution1005.s: Solution1005.cpp.s
+.PHONY : Solution1005.s
+
+# target to generate assembly for a file
+Solution1005.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1005.cpp.s
+.PHONY : Solution1005.cpp.s
+
+Solution1006.o: Solution1006.cpp.o
+.PHONY : Solution1006.o
+
+# target to build an object file
+Solution1006.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1006.cpp.o
+.PHONY : Solution1006.cpp.o
+
+Solution1006.i: Solution1006.cpp.i
+.PHONY : Solution1006.i
+
+# target to preprocess a source file
+Solution1006.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1006.cpp.i
+.PHONY : Solution1006.cpp.i
+
+Solution1006.s: Solution1006.cpp.s
+.PHONY : Solution1006.s
+
+# target to generate assembly for a file
+Solution1006.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1006.cpp.s
+.PHONY : Solution1006.cpp.s
+
+Solution1011.o: Solution1011.cpp.o
+.PHONY : Solution1011.o
+
+# target to build an object file
+Solution1011.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1011.cpp.o
+.PHONY : Solution1011.cpp.o
+
+Solution1011.i: Solution1011.cpp.i
+.PHONY : Solution1011.i
+
+# target to preprocess a source file
+Solution1011.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1011.cpp.i
+.PHONY : Solution1011.cpp.i
+
+Solution1011.s: Solution1011.cpp.s
+.PHONY : Solution1011.s
+
+# target to generate assembly for a file
+Solution1011.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1011.cpp.s
+.PHONY : Solution1011.cpp.s
+
+Solution1020.o: Solution1020.cpp.o
+.PHONY : Solution1020.o
+
+# target to build an object file
+Solution1020.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1020.cpp.o
+.PHONY : Solution1020.cpp.o
+
+Solution1020.i: Solution1020.cpp.i
+.PHONY : Solution1020.i
+
+# target to preprocess a source file
+Solution1020.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1020.cpp.i
+.PHONY : Solution1020.cpp.i
+
+Solution1020.s: Solution1020.cpp.s
+.PHONY : Solution1020.s
+
+# target to generate assembly for a file
+Solution1020.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1020.cpp.s
+.PHONY : Solution1020.cpp.s
+
+Solution1034.o: Solution1034.cpp.o
+.PHONY : Solution1034.o
+
+# target to build an object file
+Solution1034.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1034.cpp.o
+.PHONY : Solution1034.cpp.o
+
+Solution1034.i: Solution1034.cpp.i
+.PHONY : Solution1034.i
+
+# target to preprocess a source file
+Solution1034.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1034.cpp.i
+.PHONY : Solution1034.cpp.i
+
+Solution1034.s: Solution1034.cpp.s
+.PHONY : Solution1034.s
+
+# target to generate assembly for a file
+Solution1034.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1034.cpp.s
+.PHONY : Solution1034.cpp.s
+
+Solution1035.o: Solution1035.cpp.o
+.PHONY : Solution1035.o
+
+# target to build an object file
+Solution1035.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1035.cpp.o
+.PHONY : Solution1035.cpp.o
+
+Solution1035.i: Solution1035.cpp.i
+.PHONY : Solution1035.i
+
+# target to preprocess a source file
+Solution1035.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1035.cpp.i
+.PHONY : Solution1035.cpp.i
+
+Solution1035.s: Solution1035.cpp.s
+.PHONY : Solution1035.s
+
+# target to generate assembly for a file
+Solution1035.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1035.cpp.s
+.PHONY : Solution1035.cpp.s
+
+Solution1036.o: Solution1036.cpp.o
+.PHONY : Solution1036.o
+
+# target to build an object file
+Solution1036.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1036.cpp.o
+.PHONY : Solution1036.cpp.o
+
+Solution1036.i: Solution1036.cpp.i
+.PHONY : Solution1036.i
+
+# target to preprocess a source file
+Solution1036.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1036.cpp.i
+.PHONY : Solution1036.cpp.i
+
+Solution1036.s: Solution1036.cpp.s
+.PHONY : Solution1036.s
+
+# target to generate assembly for a file
+Solution1036.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1036.cpp.s
+.PHONY : Solution1036.cpp.s
+
+Solution1078.o: Solution1078.cpp.o
+.PHONY : Solution1078.o
+
+# target to build an object file
+Solution1078.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1078.cpp.o
+.PHONY : Solution1078.cpp.o
+
+Solution1078.i: Solution1078.cpp.i
+.PHONY : Solution1078.i
+
+# target to preprocess a source file
+Solution1078.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1078.cpp.i
+.PHONY : Solution1078.cpp.i
+
+Solution1078.s: Solution1078.cpp.s
+.PHONY : Solution1078.s
+
+# target to generate assembly for a file
+Solution1078.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1078.cpp.s
+.PHONY : Solution1078.cpp.s
+
+Solution1104.o: Solution1104.cpp.o
+.PHONY : Solution1104.o
+
+# target to build an object file
+Solution1104.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1104.cpp.o
+.PHONY : Solution1104.cpp.o
+
+Solution1104.i: Solution1104.cpp.i
+.PHONY : Solution1104.i
+
+# target to preprocess a source file
+Solution1104.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1104.cpp.i
+.PHONY : Solution1104.cpp.i
+
+Solution1104.s: Solution1104.cpp.s
+.PHONY : Solution1104.s
+
+# target to generate assembly for a file
+Solution1104.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1104.cpp.s
+.PHONY : Solution1104.cpp.s
+
+Solution1137.o: Solution1137.cpp.o
+.PHONY : Solution1137.o
+
+# target to build an object file
+Solution1137.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1137.cpp.o
+.PHONY : Solution1137.cpp.o
+
+Solution1137.i: Solution1137.cpp.i
+.PHONY : Solution1137.i
+
+# target to preprocess a source file
+Solution1137.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1137.cpp.i
+.PHONY : Solution1137.cpp.i
+
+Solution1137.s: Solution1137.cpp.s
+.PHONY : Solution1137.s
+
+# target to generate assembly for a file
+Solution1137.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1137.cpp.s
+.PHONY : Solution1137.cpp.s
+
+Solution1143.o: Solution1143.cpp.o
+.PHONY : Solution1143.o
+
+# target to build an object file
+Solution1143.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1143.cpp.o
+.PHONY : Solution1143.cpp.o
+
+Solution1143.i: Solution1143.cpp.i
+.PHONY : Solution1143.i
+
+# target to preprocess a source file
+Solution1143.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1143.cpp.i
+.PHONY : Solution1143.cpp.i
+
+Solution1143.s: Solution1143.cpp.s
+.PHONY : Solution1143.s
+
+# target to generate assembly for a file
+Solution1143.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1143.cpp.s
+.PHONY : Solution1143.cpp.s
 
 Solution115.o: Solution115.cpp.o
 .PHONY : Solution115.o
@@ -177,6 +945,582 @@ Solution115.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution115.cpp.s
 .PHONY : Solution115.cpp.s
 
+Solution1154.o: Solution1154.cpp.o
+.PHONY : Solution1154.o
+
+# target to build an object file
+Solution1154.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1154.cpp.o
+.PHONY : Solution1154.cpp.o
+
+Solution1154.i: Solution1154.cpp.i
+.PHONY : Solution1154.i
+
+# target to preprocess a source file
+Solution1154.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1154.cpp.i
+.PHONY : Solution1154.cpp.i
+
+Solution1154.s: Solution1154.cpp.s
+.PHONY : Solution1154.s
+
+# target to generate assembly for a file
+Solution1154.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1154.cpp.s
+.PHONY : Solution1154.cpp.s
+
+Solution1185.o: Solution1185.cpp.o
+.PHONY : Solution1185.o
+
+# target to build an object file
+Solution1185.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1185.cpp.o
+.PHONY : Solution1185.cpp.o
+
+Solution1185.i: Solution1185.cpp.i
+.PHONY : Solution1185.i
+
+# target to preprocess a source file
+Solution1185.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1185.cpp.i
+.PHONY : Solution1185.cpp.i
+
+Solution1185.s: Solution1185.cpp.s
+.PHONY : Solution1185.s
+
+# target to generate assembly for a file
+Solution1185.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1185.cpp.s
+.PHONY : Solution1185.cpp.s
+
+Solution1190.o: Solution1190.cpp.o
+.PHONY : Solution1190.o
+
+# target to build an object file
+Solution1190.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1190.cpp.o
+.PHONY : Solution1190.cpp.o
+
+Solution1190.i: Solution1190.cpp.i
+.PHONY : Solution1190.i
+
+# target to preprocess a source file
+Solution1190.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1190.cpp.i
+.PHONY : Solution1190.cpp.i
+
+Solution1190.s: Solution1190.cpp.s
+.PHONY : Solution1190.s
+
+# target to generate assembly for a file
+Solution1190.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1190.cpp.s
+.PHONY : Solution1190.cpp.s
+
+Solution12.o: Solution12.cpp.o
+.PHONY : Solution12.o
+
+# target to build an object file
+Solution12.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution12.cpp.o
+.PHONY : Solution12.cpp.o
+
+Solution12.i: Solution12.cpp.i
+.PHONY : Solution12.i
+
+# target to preprocess a source file
+Solution12.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution12.cpp.i
+.PHONY : Solution12.cpp.i
+
+Solution12.s: Solution12.cpp.s
+.PHONY : Solution12.s
+
+# target to generate assembly for a file
+Solution12.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution12.cpp.s
+.PHONY : Solution12.cpp.s
+
+Solution1218.o: Solution1218.cpp.o
+.PHONY : Solution1218.o
+
+# target to build an object file
+Solution1218.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1218.cpp.o
+.PHONY : Solution1218.cpp.o
+
+Solution1218.i: Solution1218.cpp.i
+.PHONY : Solution1218.i
+
+# target to preprocess a source file
+Solution1218.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1218.cpp.i
+.PHONY : Solution1218.cpp.i
+
+Solution1218.s: Solution1218.cpp.s
+.PHONY : Solution1218.s
+
+# target to generate assembly for a file
+Solution1218.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1218.cpp.s
+.PHONY : Solution1218.cpp.s
+
+Solution1221.o: Solution1221.cpp.o
+.PHONY : Solution1221.o
+
+# target to build an object file
+Solution1221.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1221.cpp.o
+.PHONY : Solution1221.cpp.o
+
+Solution1221.i: Solution1221.cpp.i
+.PHONY : Solution1221.i
+
+# target to preprocess a source file
+Solution1221.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1221.cpp.i
+.PHONY : Solution1221.cpp.i
+
+Solution1221.s: Solution1221.cpp.s
+.PHONY : Solution1221.s
+
+# target to generate assembly for a file
+Solution1221.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1221.cpp.s
+.PHONY : Solution1221.cpp.s
+
+Solution1239.o: Solution1239.cpp.o
+.PHONY : Solution1239.o
+
+# target to build an object file
+Solution1239.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1239.cpp.o
+.PHONY : Solution1239.cpp.o
+
+Solution1239.i: Solution1239.cpp.i
+.PHONY : Solution1239.i
+
+# target to preprocess a source file
+Solution1239.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1239.cpp.i
+.PHONY : Solution1239.cpp.i
+
+Solution1239.s: Solution1239.cpp.s
+.PHONY : Solution1239.s
+
+# target to generate assembly for a file
+Solution1239.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1239.cpp.s
+.PHONY : Solution1239.cpp.s
+
+Solution1269.o: Solution1269.cpp.o
+.PHONY : Solution1269.o
+
+# target to build an object file
+Solution1269.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1269.cpp.o
+.PHONY : Solution1269.cpp.o
+
+Solution1269.i: Solution1269.cpp.i
+.PHONY : Solution1269.i
+
+# target to preprocess a source file
+Solution1269.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1269.cpp.i
+.PHONY : Solution1269.cpp.i
+
+Solution1269.s: Solution1269.cpp.s
+.PHONY : Solution1269.s
+
+# target to generate assembly for a file
+Solution1269.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1269.cpp.s
+.PHONY : Solution1269.cpp.s
+
+Solution13.o: Solution13.cpp.o
+.PHONY : Solution13.o
+
+# target to build an object file
+Solution13.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution13.cpp.o
+.PHONY : Solution13.cpp.o
+
+Solution13.i: Solution13.cpp.i
+.PHONY : Solution13.i
+
+# target to preprocess a source file
+Solution13.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution13.cpp.i
+.PHONY : Solution13.cpp.i
+
+Solution13.s: Solution13.cpp.s
+.PHONY : Solution13.s
+
+# target to generate assembly for a file
+Solution13.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution13.cpp.s
+.PHONY : Solution13.cpp.s
+
+Solution1310.o: Solution1310.cpp.o
+.PHONY : Solution1310.o
+
+# target to build an object file
+Solution1310.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1310.cpp.o
+.PHONY : Solution1310.cpp.o
+
+Solution1310.i: Solution1310.cpp.i
+.PHONY : Solution1310.i
+
+# target to preprocess a source file
+Solution1310.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1310.cpp.i
+.PHONY : Solution1310.cpp.i
+
+Solution1310.s: Solution1310.cpp.s
+.PHONY : Solution1310.s
+
+# target to generate assembly for a file
+Solution1310.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1310.cpp.s
+.PHONY : Solution1310.cpp.s
+
+Solution1337.o: Solution1337.cpp.o
+.PHONY : Solution1337.o
+
+# target to build an object file
+Solution1337.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1337.cpp.o
+.PHONY : Solution1337.cpp.o
+
+Solution1337.i: Solution1337.cpp.i
+.PHONY : Solution1337.i
+
+# target to preprocess a source file
+Solution1337.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1337.cpp.i
+.PHONY : Solution1337.cpp.i
+
+Solution1337.s: Solution1337.cpp.s
+.PHONY : Solution1337.s
+
+# target to generate assembly for a file
+Solution1337.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1337.cpp.s
+.PHONY : Solution1337.cpp.s
+
+Solution1342.o: Solution1342.cpp.o
+.PHONY : Solution1342.o
+
+# target to build an object file
+Solution1342.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1342.cpp.o
+.PHONY : Solution1342.cpp.o
+
+Solution1342.i: Solution1342.cpp.i
+.PHONY : Solution1342.i
+
+# target to preprocess a source file
+Solution1342.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1342.cpp.i
+.PHONY : Solution1342.cpp.i
+
+Solution1342.s: Solution1342.cpp.s
+.PHONY : Solution1342.s
+
+# target to generate assembly for a file
+Solution1342.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1342.cpp.s
+.PHONY : Solution1342.cpp.s
+
+Solution1345.o: Solution1345.cpp.o
+.PHONY : Solution1345.o
+
+# target to build an object file
+Solution1345.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1345.cpp.o
+.PHONY : Solution1345.cpp.o
+
+Solution1345.i: Solution1345.cpp.i
+.PHONY : Solution1345.i
+
+# target to preprocess a source file
+Solution1345.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1345.cpp.i
+.PHONY : Solution1345.cpp.i
+
+Solution1345.s: Solution1345.cpp.s
+.PHONY : Solution1345.s
+
+# target to generate assembly for a file
+Solution1345.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1345.cpp.s
+.PHONY : Solution1345.cpp.s
+
+Solution137.o: Solution137.cpp.o
+.PHONY : Solution137.o
+
+# target to build an object file
+Solution137.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution137.cpp.o
+.PHONY : Solution137.cpp.o
+
+Solution137.i: Solution137.cpp.i
+.PHONY : Solution137.i
+
+# target to preprocess a source file
+Solution137.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution137.cpp.i
+.PHONY : Solution137.cpp.i
+
+Solution137.s: Solution137.cpp.s
+.PHONY : Solution137.s
+
+# target to generate assembly for a file
+Solution137.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution137.cpp.s
+.PHONY : Solution137.cpp.s
+
+Solution138.o: Solution138.cpp.o
+.PHONY : Solution138.o
+
+# target to build an object file
+Solution138.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution138.cpp.o
+.PHONY : Solution138.cpp.o
+
+Solution138.i: Solution138.cpp.i
+.PHONY : Solution138.i
+
+# target to preprocess a source file
+Solution138.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution138.cpp.i
+.PHONY : Solution138.cpp.i
+
+Solution138.s: Solution138.cpp.s
+.PHONY : Solution138.s
+
+# target to generate assembly for a file
+Solution138.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution138.cpp.s
+.PHONY : Solution138.cpp.s
+
+Solution1380.o: Solution1380.cpp.o
+.PHONY : Solution1380.o
+
+# target to build an object file
+Solution1380.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1380.cpp.o
+.PHONY : Solution1380.cpp.o
+
+Solution1380.i: Solution1380.cpp.i
+.PHONY : Solution1380.i
+
+# target to preprocess a source file
+Solution1380.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1380.cpp.i
+.PHONY : Solution1380.cpp.i
+
+Solution1380.s: Solution1380.cpp.s
+.PHONY : Solution1380.s
+
+# target to generate assembly for a file
+Solution1380.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1380.cpp.s
+.PHONY : Solution1380.cpp.s
+
+Solution1405.o: Solution1405.cpp.o
+.PHONY : Solution1405.o
+
+# target to build an object file
+Solution1405.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1405.cpp.o
+.PHONY : Solution1405.cpp.o
+
+Solution1405.i: Solution1405.cpp.i
+.PHONY : Solution1405.i
+
+# target to preprocess a source file
+Solution1405.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1405.cpp.i
+.PHONY : Solution1405.cpp.i
+
+Solution1405.s: Solution1405.cpp.s
+.PHONY : Solution1405.s
+
+# target to generate assembly for a file
+Solution1405.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1405.cpp.s
+.PHONY : Solution1405.cpp.s
+
+Solution1418.o: Solution1418.cpp.o
+.PHONY : Solution1418.o
+
+# target to build an object file
+Solution1418.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1418.cpp.o
+.PHONY : Solution1418.cpp.o
+
+Solution1418.i: Solution1418.cpp.i
+.PHONY : Solution1418.i
+
+# target to preprocess a source file
+Solution1418.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1418.cpp.i
+.PHONY : Solution1418.cpp.i
+
+Solution1418.s: Solution1418.cpp.s
+.PHONY : Solution1418.s
+
+# target to generate assembly for a file
+Solution1418.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1418.cpp.s
+.PHONY : Solution1418.cpp.s
+
+Solution1442.o: Solution1442.cpp.o
+.PHONY : Solution1442.o
+
+# target to build an object file
+Solution1442.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1442.cpp.o
+.PHONY : Solution1442.cpp.o
+
+Solution1442.i: Solution1442.cpp.i
+.PHONY : Solution1442.i
+
+# target to preprocess a source file
+Solution1442.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1442.cpp.i
+.PHONY : Solution1442.cpp.i
+
+Solution1442.s: Solution1442.cpp.s
+.PHONY : Solution1442.s
+
+# target to generate assembly for a file
+Solution1442.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1442.cpp.s
+.PHONY : Solution1442.cpp.s
+
+Solution1446.o: Solution1446.cpp.o
+.PHONY : Solution1446.o
+
+# target to build an object file
+Solution1446.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1446.cpp.o
+.PHONY : Solution1446.cpp.o
+
+Solution1446.i: Solution1446.cpp.i
+.PHONY : Solution1446.i
+
+# target to preprocess a source file
+Solution1446.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1446.cpp.i
+.PHONY : Solution1446.cpp.i
+
+Solution1446.s: Solution1446.cpp.s
+.PHONY : Solution1446.s
+
+# target to generate assembly for a file
+Solution1446.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1446.cpp.s
+.PHONY : Solution1446.cpp.s
+
+Solution1447.o: Solution1447.cpp.o
+.PHONY : Solution1447.o
+
+# target to build an object file
+Solution1447.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1447.cpp.o
+.PHONY : Solution1447.cpp.o
+
+Solution1447.i: Solution1447.cpp.i
+.PHONY : Solution1447.i
+
+# target to preprocess a source file
+Solution1447.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1447.cpp.i
+.PHONY : Solution1447.cpp.i
+
+Solution1447.s: Solution1447.cpp.s
+.PHONY : Solution1447.s
+
+# target to generate assembly for a file
+Solution1447.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1447.cpp.s
+.PHONY : Solution1447.cpp.s
+
+Solution1480.o: Solution1480.cpp.o
+.PHONY : Solution1480.o
+
+# target to build an object file
+Solution1480.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1480.cpp.o
+.PHONY : Solution1480.cpp.o
+
+Solution1480.i: Solution1480.cpp.i
+.PHONY : Solution1480.i
+
+# target to preprocess a source file
+Solution1480.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1480.cpp.i
+.PHONY : Solution1480.cpp.i
+
+Solution1480.s: Solution1480.cpp.s
+.PHONY : Solution1480.s
+
+# target to generate assembly for a file
+Solution1480.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1480.cpp.s
+.PHONY : Solution1480.cpp.s
+
+Solution1486.o: Solution1486.cpp.o
+.PHONY : Solution1486.o
+
+# target to build an object file
+Solution1486.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1486.cpp.o
+.PHONY : Solution1486.cpp.o
+
+Solution1486.i: Solution1486.cpp.i
+.PHONY : Solution1486.i
+
+# target to preprocess a source file
+Solution1486.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1486.cpp.i
+.PHONY : Solution1486.cpp.i
+
+Solution1486.s: Solution1486.cpp.s
+.PHONY : Solution1486.s
+
+# target to generate assembly for a file
+Solution1486.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1486.cpp.s
+.PHONY : Solution1486.cpp.s
+
+Solution149.o: Solution149.cpp.o
+.PHONY : Solution149.o
+
+# target to build an object file
+Solution149.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution149.cpp.o
+.PHONY : Solution149.cpp.o
+
+Solution149.i: Solution149.cpp.i
+.PHONY : Solution149.i
+
+# target to preprocess a source file
+Solution149.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution149.cpp.i
+.PHONY : Solution149.cpp.i
+
+Solution149.s: Solution149.cpp.s
+.PHONY : Solution149.s
+
+# target to generate assembly for a file
+Solution149.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution149.cpp.s
+.PHONY : Solution149.cpp.s
+
 Solution150.o: Solution150.cpp.o
 .PHONY : Solution150.o
 
@@ -200,6 +1544,174 @@ Solution150.s: Solution150.cpp.s
 Solution150.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution150.cpp.s
 .PHONY : Solution150.cpp.s
+
+Solution1518.o: Solution1518.cpp.o
+.PHONY : Solution1518.o
+
+# target to build an object file
+Solution1518.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1518.cpp.o
+.PHONY : Solution1518.cpp.o
+
+Solution1518.i: Solution1518.cpp.i
+.PHONY : Solution1518.i
+
+# target to preprocess a source file
+Solution1518.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1518.cpp.i
+.PHONY : Solution1518.cpp.i
+
+Solution1518.s: Solution1518.cpp.s
+.PHONY : Solution1518.s
+
+# target to generate assembly for a file
+Solution1518.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1518.cpp.s
+.PHONY : Solution1518.cpp.s
+
+Solution153.o: Solution153.cpp.o
+.PHONY : Solution153.o
+
+# target to build an object file
+Solution153.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution153.cpp.o
+.PHONY : Solution153.cpp.o
+
+Solution153.i: Solution153.cpp.i
+.PHONY : Solution153.i
+
+# target to preprocess a source file
+Solution153.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution153.cpp.i
+.PHONY : Solution153.cpp.i
+
+Solution153.s: Solution153.cpp.s
+.PHONY : Solution153.s
+
+# target to generate assembly for a file
+Solution153.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution153.cpp.s
+.PHONY : Solution153.cpp.s
+
+Solution1576.o: Solution1576.cpp.o
+.PHONY : Solution1576.o
+
+# target to build an object file
+Solution1576.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1576.cpp.o
+.PHONY : Solution1576.cpp.o
+
+Solution1576.i: Solution1576.cpp.i
+.PHONY : Solution1576.i
+
+# target to preprocess a source file
+Solution1576.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1576.cpp.i
+.PHONY : Solution1576.cpp.i
+
+Solution1576.s: Solution1576.cpp.s
+.PHONY : Solution1576.s
+
+# target to generate assembly for a file
+Solution1576.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1576.cpp.s
+.PHONY : Solution1576.cpp.s
+
+Solution1583.o: Solution1583.cpp.o
+.PHONY : Solution1583.o
+
+# target to build an object file
+Solution1583.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1583.cpp.o
+.PHONY : Solution1583.cpp.o
+
+Solution1583.i: Solution1583.cpp.i
+.PHONY : Solution1583.i
+
+# target to preprocess a source file
+Solution1583.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1583.cpp.i
+.PHONY : Solution1583.cpp.i
+
+Solution1583.s: Solution1583.cpp.s
+.PHONY : Solution1583.s
+
+# target to generate assembly for a file
+Solution1583.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1583.cpp.s
+.PHONY : Solution1583.cpp.s
+
+Solution1588.o: Solution1588.cpp.o
+.PHONY : Solution1588.o
+
+# target to build an object file
+Solution1588.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1588.cpp.o
+.PHONY : Solution1588.cpp.o
+
+Solution1588.i: Solution1588.cpp.i
+.PHONY : Solution1588.i
+
+# target to preprocess a source file
+Solution1588.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1588.cpp.i
+.PHONY : Solution1588.cpp.i
+
+Solution1588.s: Solution1588.cpp.s
+.PHONY : Solution1588.s
+
+# target to generate assembly for a file
+Solution1588.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1588.cpp.s
+.PHONY : Solution1588.cpp.s
+
+Solution160.o: Solution160.cpp.o
+.PHONY : Solution160.o
+
+# target to build an object file
+Solution160.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution160.cpp.o
+.PHONY : Solution160.cpp.o
+
+Solution160.i: Solution160.cpp.i
+.PHONY : Solution160.i
+
+# target to preprocess a source file
+Solution160.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution160.cpp.i
+.PHONY : Solution160.cpp.i
+
+Solution160.s: Solution160.cpp.s
+.PHONY : Solution160.s
+
+# target to generate assembly for a file
+Solution160.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution160.cpp.s
+.PHONY : Solution160.cpp.s
+
+Solution1600.o: Solution1600.cpp.o
+.PHONY : Solution1600.o
+
+# target to build an object file
+Solution1600.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1600.cpp.o
+.PHONY : Solution1600.cpp.o
+
+Solution1600.i: Solution1600.cpp.i
+.PHONY : Solution1600.i
+
+# target to preprocess a source file
+Solution1600.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1600.cpp.i
+.PHONY : Solution1600.cpp.i
+
+Solution1600.s: Solution1600.cpp.s
+.PHONY : Solution1600.s
+
+# target to generate assembly for a file
+Solution1600.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1600.cpp.s
+.PHONY : Solution1600.cpp.s
 
 Solution1603.o: Solution1603.cpp.o
 .PHONY : Solution1603.o
@@ -225,6 +1737,414 @@ Solution1603.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1603.cpp.s
 .PHONY : Solution1603.cpp.s
 
+Solution1609.o: Solution1609.cpp.o
+.PHONY : Solution1609.o
+
+# target to build an object file
+Solution1609.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1609.cpp.o
+.PHONY : Solution1609.cpp.o
+
+Solution1609.i: Solution1609.cpp.i
+.PHONY : Solution1609.i
+
+# target to preprocess a source file
+Solution1609.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1609.cpp.i
+.PHONY : Solution1609.cpp.i
+
+Solution1609.s: Solution1609.cpp.s
+.PHONY : Solution1609.s
+
+# target to generate assembly for a file
+Solution1609.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1609.cpp.s
+.PHONY : Solution1609.cpp.s
+
+Solution1614.o: Solution1614.cpp.o
+.PHONY : Solution1614.o
+
+# target to build an object file
+Solution1614.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1614.cpp.o
+.PHONY : Solution1614.cpp.o
+
+Solution1614.i: Solution1614.cpp.i
+.PHONY : Solution1614.i
+
+# target to preprocess a source file
+Solution1614.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1614.cpp.i
+.PHONY : Solution1614.cpp.i
+
+Solution1614.s: Solution1614.cpp.s
+.PHONY : Solution1614.s
+
+# target to generate assembly for a file
+Solution1614.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1614.cpp.s
+.PHONY : Solution1614.cpp.s
+
+Solution162.o: Solution162.cpp.o
+.PHONY : Solution162.o
+
+# target to build an object file
+Solution162.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution162.cpp.o
+.PHONY : Solution162.cpp.o
+
+Solution162.i: Solution162.cpp.i
+.PHONY : Solution162.i
+
+# target to preprocess a source file
+Solution162.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution162.cpp.i
+.PHONY : Solution162.cpp.i
+
+Solution162.s: Solution162.cpp.s
+.PHONY : Solution162.s
+
+# target to generate assembly for a file
+Solution162.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution162.cpp.s
+.PHONY : Solution162.cpp.s
+
+Solution1629.o: Solution1629.cpp.o
+.PHONY : Solution1629.o
+
+# target to build an object file
+Solution1629.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1629.cpp.o
+.PHONY : Solution1629.cpp.o
+
+Solution1629.i: Solution1629.cpp.i
+.PHONY : Solution1629.i
+
+# target to preprocess a source file
+Solution1629.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1629.cpp.i
+.PHONY : Solution1629.cpp.i
+
+Solution1629.s: Solution1629.cpp.s
+.PHONY : Solution1629.s
+
+# target to generate assembly for a file
+Solution1629.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1629.cpp.s
+.PHONY : Solution1629.cpp.s
+
+Solution1646.o: Solution1646.cpp.o
+.PHONY : Solution1646.o
+
+# target to build an object file
+Solution1646.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1646.cpp.o
+.PHONY : Solution1646.cpp.o
+
+Solution1646.i: Solution1646.cpp.i
+.PHONY : Solution1646.i
+
+# target to preprocess a source file
+Solution1646.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1646.cpp.i
+.PHONY : Solution1646.cpp.i
+
+Solution1646.s: Solution1646.cpp.s
+.PHONY : Solution1646.s
+
+# target to generate assembly for a file
+Solution1646.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1646.cpp.s
+.PHONY : Solution1646.cpp.s
+
+Solution165.o: Solution165.cpp.o
+.PHONY : Solution165.o
+
+# target to build an object file
+Solution165.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution165.cpp.o
+.PHONY : Solution165.cpp.o
+
+Solution165.i: Solution165.cpp.i
+.PHONY : Solution165.i
+
+# target to preprocess a source file
+Solution165.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution165.cpp.i
+.PHONY : Solution165.cpp.i
+
+Solution165.s: Solution165.cpp.s
+.PHONY : Solution165.s
+
+# target to generate assembly for a file
+Solution165.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution165.cpp.s
+.PHONY : Solution165.cpp.s
+
+Solution168.o: Solution168.cpp.o
+.PHONY : Solution168.o
+
+# target to build an object file
+Solution168.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution168.cpp.o
+.PHONY : Solution168.cpp.o
+
+Solution168.i: Solution168.cpp.i
+.PHONY : Solution168.i
+
+# target to preprocess a source file
+Solution168.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution168.cpp.i
+.PHONY : Solution168.cpp.i
+
+Solution168.s: Solution168.cpp.s
+.PHONY : Solution168.s
+
+# target to generate assembly for a file
+Solution168.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution168.cpp.s
+.PHONY : Solution168.cpp.s
+
+Solution1688.o: Solution1688.cpp.o
+.PHONY : Solution1688.o
+
+# target to build an object file
+Solution1688.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1688.cpp.o
+.PHONY : Solution1688.cpp.o
+
+Solution1688.i: Solution1688.cpp.i
+.PHONY : Solution1688.i
+
+# target to preprocess a source file
+Solution1688.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1688.cpp.i
+.PHONY : Solution1688.cpp.i
+
+Solution1688.s: Solution1688.cpp.s
+.PHONY : Solution1688.s
+
+# target to generate assembly for a file
+Solution1688.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1688.cpp.s
+.PHONY : Solution1688.cpp.s
+
+Solution1705.o: Solution1705.cpp.o
+.PHONY : Solution1705.o
+
+# target to build an object file
+Solution1705.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1705.cpp.o
+.PHONY : Solution1705.cpp.o
+
+Solution1705.i: Solution1705.cpp.i
+.PHONY : Solution1705.i
+
+# target to preprocess a source file
+Solution1705.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1705.cpp.i
+.PHONY : Solution1705.cpp.i
+
+Solution1705.s: Solution1705.cpp.s
+.PHONY : Solution1705.s
+
+# target to generate assembly for a file
+Solution1705.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1705.cpp.s
+.PHONY : Solution1705.cpp.s
+
+Solution1706.o: Solution1706.cpp.o
+.PHONY : Solution1706.o
+
+# target to build an object file
+Solution1706.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1706.cpp.o
+.PHONY : Solution1706.cpp.o
+
+Solution1706.i: Solution1706.cpp.i
+.PHONY : Solution1706.i
+
+# target to preprocess a source file
+Solution1706.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1706.cpp.i
+.PHONY : Solution1706.cpp.i
+
+Solution1706.s: Solution1706.cpp.s
+.PHONY : Solution1706.s
+
+# target to generate assembly for a file
+Solution1706.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1706.cpp.s
+.PHONY : Solution1706.cpp.s
+
+Solution1707.o: Solution1707.cpp.o
+.PHONY : Solution1707.o
+
+# target to build an object file
+Solution1707.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1707.cpp.o
+.PHONY : Solution1707.cpp.o
+
+Solution1707.i: Solution1707.cpp.i
+.PHONY : Solution1707.i
+
+# target to preprocess a source file
+Solution1707.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1707.cpp.i
+.PHONY : Solution1707.cpp.i
+
+Solution1707.s: Solution1707.cpp.s
+.PHONY : Solution1707.s
+
+# target to generate assembly for a file
+Solution1707.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1707.cpp.s
+.PHONY : Solution1707.cpp.s
+
+Solution171.o: Solution171.cpp.o
+.PHONY : Solution171.o
+
+# target to build an object file
+Solution171.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution171.cpp.o
+.PHONY : Solution171.cpp.o
+
+Solution171.i: Solution171.cpp.i
+.PHONY : Solution171.i
+
+# target to preprocess a source file
+Solution171.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution171.cpp.i
+.PHONY : Solution171.cpp.i
+
+Solution171.s: Solution171.cpp.s
+.PHONY : Solution171.s
+
+# target to generate assembly for a file
+Solution171.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution171.cpp.s
+.PHONY : Solution171.cpp.s
+
+Solution1711.o: Solution1711.cpp.o
+.PHONY : Solution1711.o
+
+# target to build an object file
+Solution1711.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1711.cpp.o
+.PHONY : Solution1711.cpp.o
+
+Solution1711.i: Solution1711.cpp.i
+.PHONY : Solution1711.i
+
+# target to preprocess a source file
+Solution1711.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1711.cpp.i
+.PHONY : Solution1711.cpp.i
+
+Solution1711.s: Solution1711.cpp.s
+.PHONY : Solution1711.s
+
+# target to generate assembly for a file
+Solution1711.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1711.cpp.s
+.PHONY : Solution1711.cpp.s
+
+Solution1713.o: Solution1713.cpp.o
+.PHONY : Solution1713.o
+
+# target to build an object file
+Solution1713.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1713.cpp.o
+.PHONY : Solution1713.cpp.o
+
+Solution1713.i: Solution1713.cpp.i
+.PHONY : Solution1713.i
+
+# target to preprocess a source file
+Solution1713.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1713.cpp.i
+.PHONY : Solution1713.cpp.i
+
+Solution1713.s: Solution1713.cpp.s
+.PHONY : Solution1713.s
+
+# target to generate assembly for a file
+Solution1713.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1713.cpp.s
+.PHONY : Solution1713.cpp.s
+
+Solution1716.o: Solution1716.cpp.o
+.PHONY : Solution1716.o
+
+# target to build an object file
+Solution1716.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1716.cpp.o
+.PHONY : Solution1716.cpp.o
+
+Solution1716.i: Solution1716.cpp.i
+.PHONY : Solution1716.i
+
+# target to preprocess a source file
+Solution1716.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1716.cpp.i
+.PHONY : Solution1716.cpp.i
+
+Solution1716.s: Solution1716.cpp.s
+.PHONY : Solution1716.s
+
+# target to generate assembly for a file
+Solution1716.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1716.cpp.s
+.PHONY : Solution1716.cpp.s
+
+Solution1720.o: Solution1720.cpp.o
+.PHONY : Solution1720.o
+
+# target to build an object file
+Solution1720.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1720.cpp.o
+.PHONY : Solution1720.cpp.o
+
+Solution1720.i: Solution1720.cpp.i
+.PHONY : Solution1720.i
+
+# target to preprocess a source file
+Solution1720.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1720.cpp.i
+.PHONY : Solution1720.cpp.i
+
+Solution1720.s: Solution1720.cpp.s
+.PHONY : Solution1720.s
+
+# target to generate assembly for a file
+Solution1720.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1720.cpp.s
+.PHONY : Solution1720.cpp.s
+
+Solution1725.o: Solution1725.cpp.o
+.PHONY : Solution1725.o
+
+# target to build an object file
+Solution1725.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1725.cpp.o
+.PHONY : Solution1725.cpp.o
+
+Solution1725.i: Solution1725.cpp.i
+.PHONY : Solution1725.i
+
+# target to preprocess a source file
+Solution1725.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1725.cpp.i
+.PHONY : Solution1725.cpp.i
+
+Solution1725.s: Solution1725.cpp.s
+.PHONY : Solution1725.s
+
+# target to generate assembly for a file
+Solution1725.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1725.cpp.s
+.PHONY : Solution1725.cpp.s
+
 Solution173.o: Solution173.cpp.o
 .PHONY : Solution173.o
 
@@ -248,6 +2168,534 @@ Solution173.s: Solution173.cpp.s
 Solution173.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution173.cpp.s
 .PHONY : Solution173.cpp.s
+
+Solution1734.o: Solution1734.cpp.o
+.PHONY : Solution1734.o
+
+# target to build an object file
+Solution1734.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1734.cpp.o
+.PHONY : Solution1734.cpp.o
+
+Solution1734.i: Solution1734.cpp.i
+.PHONY : Solution1734.i
+
+# target to preprocess a source file
+Solution1734.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1734.cpp.i
+.PHONY : Solution1734.cpp.i
+
+Solution1734.s: Solution1734.cpp.s
+.PHONY : Solution1734.s
+
+# target to generate assembly for a file
+Solution1734.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1734.cpp.s
+.PHONY : Solution1734.cpp.s
+
+Solution1736.o: Solution1736.cpp.o
+.PHONY : Solution1736.o
+
+# target to build an object file
+Solution1736.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1736.cpp.o
+.PHONY : Solution1736.cpp.o
+
+Solution1736.i: Solution1736.cpp.i
+.PHONY : Solution1736.i
+
+# target to preprocess a source file
+Solution1736.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1736.cpp.i
+.PHONY : Solution1736.cpp.i
+
+Solution1736.s: Solution1736.cpp.s
+.PHONY : Solution1736.s
+
+# target to generate assembly for a file
+Solution1736.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1736.cpp.s
+.PHONY : Solution1736.cpp.s
+
+Solution1738.o: Solution1738.cpp.o
+.PHONY : Solution1738.o
+
+# target to build an object file
+Solution1738.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1738.cpp.o
+.PHONY : Solution1738.cpp.o
+
+Solution1738.i: Solution1738.cpp.i
+.PHONY : Solution1738.i
+
+# target to preprocess a source file
+Solution1738.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1738.cpp.i
+.PHONY : Solution1738.cpp.i
+
+Solution1738.s: Solution1738.cpp.s
+.PHONY : Solution1738.s
+
+# target to generate assembly for a file
+Solution1738.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1738.cpp.s
+.PHONY : Solution1738.cpp.s
+
+Solution1743.o: Solution1743.cpp.o
+.PHONY : Solution1743.o
+
+# target to build an object file
+Solution1743.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1743.cpp.o
+.PHONY : Solution1743.cpp.o
+
+Solution1743.i: Solution1743.cpp.i
+.PHONY : Solution1743.i
+
+# target to preprocess a source file
+Solution1743.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1743.cpp.i
+.PHONY : Solution1743.cpp.i
+
+Solution1743.s: Solution1743.cpp.s
+.PHONY : Solution1743.s
+
+# target to generate assembly for a file
+Solution1743.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1743.cpp.s
+.PHONY : Solution1743.cpp.s
+
+Solution1744.o: Solution1744.cpp.o
+.PHONY : Solution1744.o
+
+# target to build an object file
+Solution1744.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1744.cpp.o
+.PHONY : Solution1744.cpp.o
+
+Solution1744.i: Solution1744.cpp.i
+.PHONY : Solution1744.i
+
+# target to preprocess a source file
+Solution1744.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1744.cpp.i
+.PHONY : Solution1744.cpp.i
+
+Solution1744.s: Solution1744.cpp.s
+.PHONY : Solution1744.s
+
+# target to generate assembly for a file
+Solution1744.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1744.cpp.s
+.PHONY : Solution1744.cpp.s
+
+Solution1748.o: Solution1748.cpp.o
+.PHONY : Solution1748.o
+
+# target to build an object file
+Solution1748.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1748.cpp.o
+.PHONY : Solution1748.cpp.o
+
+Solution1748.i: Solution1748.cpp.i
+.PHONY : Solution1748.i
+
+# target to preprocess a source file
+Solution1748.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1748.cpp.i
+.PHONY : Solution1748.cpp.i
+
+Solution1748.s: Solution1748.cpp.s
+.PHONY : Solution1748.s
+
+# target to generate assembly for a file
+Solution1748.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1748.cpp.s
+.PHONY : Solution1748.cpp.s
+
+Solution1763.o: Solution1763.cpp.o
+.PHONY : Solution1763.o
+
+# target to build an object file
+Solution1763.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1763.cpp.o
+.PHONY : Solution1763.cpp.o
+
+Solution1763.i: Solution1763.cpp.i
+.PHONY : Solution1763.i
+
+# target to preprocess a source file
+Solution1763.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1763.cpp.i
+.PHONY : Solution1763.cpp.i
+
+Solution1763.s: Solution1763.cpp.s
+.PHONY : Solution1763.s
+
+# target to generate assembly for a file
+Solution1763.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1763.cpp.s
+.PHONY : Solution1763.cpp.s
+
+Solution1765.o: Solution1765.cpp.o
+.PHONY : Solution1765.o
+
+# target to build an object file
+Solution1765.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1765.cpp.o
+.PHONY : Solution1765.cpp.o
+
+Solution1765.i: Solution1765.cpp.i
+.PHONY : Solution1765.i
+
+# target to preprocess a source file
+Solution1765.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1765.cpp.i
+.PHONY : Solution1765.cpp.i
+
+Solution1765.s: Solution1765.cpp.s
+.PHONY : Solution1765.s
+
+# target to generate assembly for a file
+Solution1765.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1765.cpp.s
+.PHONY : Solution1765.cpp.s
+
+Solution179.o: Solution179.cpp.o
+.PHONY : Solution179.o
+
+# target to build an object file
+Solution179.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution179.cpp.o
+.PHONY : Solution179.cpp.o
+
+Solution179.i: Solution179.cpp.i
+.PHONY : Solution179.i
+
+# target to preprocess a source file
+Solution179.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution179.cpp.i
+.PHONY : Solution179.cpp.i
+
+Solution179.s: Solution179.cpp.s
+.PHONY : Solution179.s
+
+# target to generate assembly for a file
+Solution179.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution179.cpp.s
+.PHONY : Solution179.cpp.s
+
+Solution1791.o: Solution1791.cpp.o
+.PHONY : Solution1791.o
+
+# target to build an object file
+Solution1791.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1791.cpp.o
+.PHONY : Solution1791.cpp.o
+
+Solution1791.i: Solution1791.cpp.i
+.PHONY : Solution1791.i
+
+# target to preprocess a source file
+Solution1791.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1791.cpp.i
+.PHONY : Solution1791.cpp.i
+
+Solution1791.s: Solution1791.cpp.s
+.PHONY : Solution1791.s
+
+# target to generate assembly for a file
+Solution1791.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1791.cpp.s
+.PHONY : Solution1791.cpp.s
+
+Solution17_10.o: Solution17_10.cpp.o
+.PHONY : Solution17_10.o
+
+# target to build an object file
+Solution17_10.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution17_10.cpp.o
+.PHONY : Solution17_10.cpp.o
+
+Solution17_10.i: Solution17_10.cpp.i
+.PHONY : Solution17_10.i
+
+# target to preprocess a source file
+Solution17_10.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution17_10.cpp.i
+.PHONY : Solution17_10.cpp.i
+
+Solution17_10.s: Solution17_10.cpp.s
+.PHONY : Solution17_10.s
+
+# target to generate assembly for a file
+Solution17_10.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution17_10.cpp.s
+.PHONY : Solution17_10.cpp.s
+
+Solution17_21.o: Solution17_21.cpp.o
+.PHONY : Solution17_21.o
+
+# target to build an object file
+Solution17_21.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution17_21.cpp.o
+.PHONY : Solution17_21.cpp.o
+
+Solution17_21.i: Solution17_21.cpp.i
+.PHONY : Solution17_21.i
+
+# target to preprocess a source file
+Solution17_21.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution17_21.cpp.i
+.PHONY : Solution17_21.cpp.i
+
+Solution17_21.s: Solution17_21.cpp.s
+.PHONY : Solution17_21.s
+
+# target to generate assembly for a file
+Solution17_21.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution17_21.cpp.s
+.PHONY : Solution17_21.cpp.s
+
+Solution1816.o: Solution1816.cpp.o
+.PHONY : Solution1816.o
+
+# target to build an object file
+Solution1816.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1816.cpp.o
+.PHONY : Solution1816.cpp.o
+
+Solution1816.i: Solution1816.cpp.i
+.PHONY : Solution1816.i
+
+# target to preprocess a source file
+Solution1816.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1816.cpp.i
+.PHONY : Solution1816.cpp.i
+
+Solution1816.s: Solution1816.cpp.s
+.PHONY : Solution1816.s
+
+# target to generate assembly for a file
+Solution1816.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1816.cpp.s
+.PHONY : Solution1816.cpp.s
+
+Solution1818.o: Solution1818.cpp.o
+.PHONY : Solution1818.o
+
+# target to build an object file
+Solution1818.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1818.cpp.o
+.PHONY : Solution1818.cpp.o
+
+Solution1818.i: Solution1818.cpp.i
+.PHONY : Solution1818.i
+
+# target to preprocess a source file
+Solution1818.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1818.cpp.i
+.PHONY : Solution1818.cpp.i
+
+Solution1818.s: Solution1818.cpp.s
+.PHONY : Solution1818.s
+
+# target to generate assembly for a file
+Solution1818.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1818.cpp.s
+.PHONY : Solution1818.cpp.s
+
+Solution1833.o: Solution1833.cpp.o
+.PHONY : Solution1833.o
+
+# target to build an object file
+Solution1833.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1833.cpp.o
+.PHONY : Solution1833.cpp.o
+
+Solution1833.i: Solution1833.cpp.i
+.PHONY : Solution1833.i
+
+# target to preprocess a source file
+Solution1833.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1833.cpp.i
+.PHONY : Solution1833.cpp.i
+
+Solution1833.s: Solution1833.cpp.s
+.PHONY : Solution1833.s
+
+# target to generate assembly for a file
+Solution1833.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1833.cpp.s
+.PHONY : Solution1833.cpp.s
+
+Solution1838.o: Solution1838.cpp.o
+.PHONY : Solution1838.o
+
+# target to build an object file
+Solution1838.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1838.cpp.o
+.PHONY : Solution1838.cpp.o
+
+Solution1838.i: Solution1838.cpp.i
+.PHONY : Solution1838.i
+
+# target to preprocess a source file
+Solution1838.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1838.cpp.i
+.PHONY : Solution1838.cpp.i
+
+Solution1838.s: Solution1838.cpp.s
+.PHONY : Solution1838.s
+
+# target to generate assembly for a file
+Solution1838.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1838.cpp.s
+.PHONY : Solution1838.cpp.s
+
+Solution1842.o: Solution1842.cpp.o
+.PHONY : Solution1842.o
+
+# target to build an object file
+Solution1842.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1842.cpp.o
+.PHONY : Solution1842.cpp.o
+
+Solution1842.i: Solution1842.cpp.i
+.PHONY : Solution1842.i
+
+# target to preprocess a source file
+Solution1842.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1842.cpp.i
+.PHONY : Solution1842.cpp.i
+
+Solution1842.s: Solution1842.cpp.s
+.PHONY : Solution1842.s
+
+# target to generate assembly for a file
+Solution1842.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1842.cpp.s
+.PHONY : Solution1842.cpp.s
+
+Solution1846.o: Solution1846.cpp.o
+.PHONY : Solution1846.o
+
+# target to build an object file
+Solution1846.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1846.cpp.o
+.PHONY : Solution1846.cpp.o
+
+Solution1846.i: Solution1846.cpp.i
+.PHONY : Solution1846.i
+
+# target to preprocess a source file
+Solution1846.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1846.cpp.i
+.PHONY : Solution1846.cpp.i
+
+Solution1846.s: Solution1846.cpp.s
+.PHONY : Solution1846.s
+
+# target to generate assembly for a file
+Solution1846.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1846.cpp.s
+.PHONY : Solution1846.cpp.s
+
+Solution187.o: Solution187.cpp.o
+.PHONY : Solution187.o
+
+# target to build an object file
+Solution187.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution187.cpp.o
+.PHONY : Solution187.cpp.o
+
+Solution187.i: Solution187.cpp.i
+.PHONY : Solution187.i
+
+# target to preprocess a source file
+Solution187.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution187.cpp.i
+.PHONY : Solution187.cpp.i
+
+Solution187.s: Solution187.cpp.s
+.PHONY : Solution187.s
+
+# target to generate assembly for a file
+Solution187.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution187.cpp.s
+.PHONY : Solution187.cpp.s
+
+Solution1877.o: Solution1877.cpp.o
+.PHONY : Solution1877.o
+
+# target to build an object file
+Solution1877.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1877.cpp.o
+.PHONY : Solution1877.cpp.o
+
+Solution1877.i: Solution1877.cpp.i
+.PHONY : Solution1877.i
+
+# target to preprocess a source file
+Solution1877.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1877.cpp.i
+.PHONY : Solution1877.cpp.i
+
+Solution1877.s: Solution1877.cpp.s
+.PHONY : Solution1877.s
+
+# target to generate assembly for a file
+Solution1877.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1877.cpp.s
+.PHONY : Solution1877.cpp.s
+
+Solution1893.o: Solution1893.cpp.o
+.PHONY : Solution1893.o
+
+# target to build an object file
+Solution1893.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1893.cpp.o
+.PHONY : Solution1893.cpp.o
+
+Solution1893.i: Solution1893.cpp.i
+.PHONY : Solution1893.i
+
+# target to preprocess a source file
+Solution1893.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1893.cpp.i
+.PHONY : Solution1893.cpp.i
+
+Solution1893.s: Solution1893.cpp.s
+.PHONY : Solution1893.s
+
+# target to generate assembly for a file
+Solution1893.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1893.cpp.s
+.PHONY : Solution1893.cpp.s
+
+Solution1894.o: Solution1894.cpp.o
+.PHONY : Solution1894.o
+
+# target to build an object file
+Solution1894.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1894.cpp.o
+.PHONY : Solution1894.cpp.o
+
+Solution1894.i: Solution1894.cpp.i
+.PHONY : Solution1894.i
+
+# target to preprocess a source file
+Solution1894.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1894.cpp.i
+.PHONY : Solution1894.cpp.i
+
+Solution1894.s: Solution1894.cpp.s
+.PHONY : Solution1894.s
+
+# target to generate assembly for a file
+Solution1894.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1894.cpp.s
+.PHONY : Solution1894.cpp.s
 
 Solution191.o: Solution191.cpp.o
 .PHONY : Solution191.o
@@ -273,6 +2721,1038 @@ Solution191.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution191.cpp.s
 .PHONY : Solution191.cpp.s
 
+Solution1984.o: Solution1984.cpp.o
+.PHONY : Solution1984.o
+
+# target to build an object file
+Solution1984.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1984.cpp.o
+.PHONY : Solution1984.cpp.o
+
+Solution1984.i: Solution1984.cpp.i
+.PHONY : Solution1984.i
+
+# target to preprocess a source file
+Solution1984.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1984.cpp.i
+.PHONY : Solution1984.cpp.i
+
+Solution1984.s: Solution1984.cpp.s
+.PHONY : Solution1984.s
+
+# target to generate assembly for a file
+Solution1984.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1984.cpp.s
+.PHONY : Solution1984.cpp.s
+
+Solution1995.o: Solution1995.cpp.o
+.PHONY : Solution1995.o
+
+# target to build an object file
+Solution1995.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1995.cpp.o
+.PHONY : Solution1995.cpp.o
+
+Solution1995.i: Solution1995.cpp.i
+.PHONY : Solution1995.i
+
+# target to preprocess a source file
+Solution1995.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1995.cpp.i
+.PHONY : Solution1995.cpp.i
+
+Solution1995.s: Solution1995.cpp.s
+.PHONY : Solution1995.s
+
+# target to generate assembly for a file
+Solution1995.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1995.cpp.s
+.PHONY : Solution1995.cpp.s
+
+Solution1996.o: Solution1996.cpp.o
+.PHONY : Solution1996.o
+
+# target to build an object file
+Solution1996.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1996.cpp.o
+.PHONY : Solution1996.cpp.o
+
+Solution1996.i: Solution1996.cpp.i
+.PHONY : Solution1996.i
+
+# target to preprocess a source file
+Solution1996.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1996.cpp.i
+.PHONY : Solution1996.cpp.i
+
+Solution1996.s: Solution1996.cpp.s
+.PHONY : Solution1996.s
+
+# target to generate assembly for a file
+Solution1996.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution1996.cpp.s
+.PHONY : Solution1996.cpp.s
+
+Solution2000.o: Solution2000.cpp.o
+.PHONY : Solution2000.o
+
+# target to build an object file
+Solution2000.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2000.cpp.o
+.PHONY : Solution2000.cpp.o
+
+Solution2000.i: Solution2000.cpp.i
+.PHONY : Solution2000.i
+
+# target to preprocess a source file
+Solution2000.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2000.cpp.i
+.PHONY : Solution2000.cpp.i
+
+Solution2000.s: Solution2000.cpp.s
+.PHONY : Solution2000.s
+
+# target to generate assembly for a file
+Solution2000.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2000.cpp.s
+.PHONY : Solution2000.cpp.s
+
+Solution2006.o: Solution2006.cpp.o
+.PHONY : Solution2006.o
+
+# target to build an object file
+Solution2006.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2006.cpp.o
+.PHONY : Solution2006.cpp.o
+
+Solution2006.i: Solution2006.cpp.i
+.PHONY : Solution2006.i
+
+# target to preprocess a source file
+Solution2006.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2006.cpp.i
+.PHONY : Solution2006.cpp.i
+
+Solution2006.s: Solution2006.cpp.s
+.PHONY : Solution2006.s
+
+# target to generate assembly for a file
+Solution2006.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2006.cpp.s
+.PHONY : Solution2006.cpp.s
+
+Solution2013.o: Solution2013.cpp.o
+.PHONY : Solution2013.o
+
+# target to build an object file
+Solution2013.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2013.cpp.o
+.PHONY : Solution2013.cpp.o
+
+Solution2013.i: Solution2013.cpp.i
+.PHONY : Solution2013.i
+
+# target to preprocess a source file
+Solution2013.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2013.cpp.i
+.PHONY : Solution2013.cpp.i
+
+Solution2013.s: Solution2013.cpp.s
+.PHONY : Solution2013.s
+
+# target to generate assembly for a file
+Solution2013.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2013.cpp.s
+.PHONY : Solution2013.cpp.s
+
+Solution2022.o: Solution2022.cpp.o
+.PHONY : Solution2022.o
+
+# target to build an object file
+Solution2022.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2022.cpp.o
+.PHONY : Solution2022.cpp.o
+
+Solution2022.i: Solution2022.cpp.i
+.PHONY : Solution2022.i
+
+# target to preprocess a source file
+Solution2022.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2022.cpp.i
+.PHONY : Solution2022.cpp.i
+
+Solution2022.s: Solution2022.cpp.s
+.PHONY : Solution2022.s
+
+# target to generate assembly for a file
+Solution2022.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2022.cpp.s
+.PHONY : Solution2022.cpp.s
+
+Solution2029.o: Solution2029.cpp.o
+.PHONY : Solution2029.o
+
+# target to build an object file
+Solution2029.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2029.cpp.o
+.PHONY : Solution2029.cpp.o
+
+Solution2029.i: Solution2029.cpp.i
+.PHONY : Solution2029.i
+
+# target to preprocess a source file
+Solution2029.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2029.cpp.i
+.PHONY : Solution2029.cpp.i
+
+Solution2029.s: Solution2029.cpp.s
+.PHONY : Solution2029.s
+
+# target to generate assembly for a file
+Solution2029.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2029.cpp.s
+.PHONY : Solution2029.cpp.s
+
+Solution203.o: Solution203.cpp.o
+.PHONY : Solution203.o
+
+# target to build an object file
+Solution203.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution203.cpp.o
+.PHONY : Solution203.cpp.o
+
+Solution203.i: Solution203.cpp.i
+.PHONY : Solution203.i
+
+# target to preprocess a source file
+Solution203.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution203.cpp.i
+.PHONY : Solution203.cpp.i
+
+Solution203.s: Solution203.cpp.s
+.PHONY : Solution203.s
+
+# target to generate assembly for a file
+Solution203.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution203.cpp.s
+.PHONY : Solution203.cpp.s
+
+Solution2047.o: Solution2047.cpp.o
+.PHONY : Solution2047.o
+
+# target to build an object file
+Solution2047.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2047.cpp.o
+.PHONY : Solution2047.cpp.o
+
+Solution2047.i: Solution2047.cpp.i
+.PHONY : Solution2047.i
+
+# target to preprocess a source file
+Solution2047.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2047.cpp.i
+.PHONY : Solution2047.cpp.i
+
+Solution2047.s: Solution2047.cpp.s
+.PHONY : Solution2047.s
+
+# target to generate assembly for a file
+Solution2047.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2047.cpp.s
+.PHONY : Solution2047.cpp.s
+
+Solution2055.o: Solution2055.cpp.o
+.PHONY : Solution2055.o
+
+# target to build an object file
+Solution2055.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2055.cpp.o
+.PHONY : Solution2055.cpp.o
+
+Solution2055.i: Solution2055.cpp.i
+.PHONY : Solution2055.i
+
+# target to preprocess a source file
+Solution2055.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2055.cpp.i
+.PHONY : Solution2055.cpp.i
+
+Solution2055.s: Solution2055.cpp.s
+.PHONY : Solution2055.s
+
+# target to generate assembly for a file
+Solution2055.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2055.cpp.s
+.PHONY : Solution2055.cpp.s
+
+Solution208.o: Solution208.cpp.o
+.PHONY : Solution208.o
+
+# target to build an object file
+Solution208.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution208.cpp.o
+.PHONY : Solution208.cpp.o
+
+Solution208.i: Solution208.cpp.i
+.PHONY : Solution208.i
+
+# target to preprocess a source file
+Solution208.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution208.cpp.i
+.PHONY : Solution208.cpp.i
+
+Solution208.s: Solution208.cpp.s
+.PHONY : Solution208.s
+
+# target to generate assembly for a file
+Solution208.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution208.cpp.s
+.PHONY : Solution208.cpp.s
+
+Solution2100.o: Solution2100.cpp.o
+.PHONY : Solution2100.o
+
+# target to build an object file
+Solution2100.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2100.cpp.o
+.PHONY : Solution2100.cpp.o
+
+Solution2100.i: Solution2100.cpp.i
+.PHONY : Solution2100.i
+
+# target to preprocess a source file
+Solution2100.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2100.cpp.i
+.PHONY : Solution2100.cpp.i
+
+Solution2100.s: Solution2100.cpp.s
+.PHONY : Solution2100.s
+
+# target to generate assembly for a file
+Solution2100.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution2100.cpp.s
+.PHONY : Solution2100.cpp.s
+
+Solution211.o: Solution211.cpp.o
+.PHONY : Solution211.o
+
+# target to build an object file
+Solution211.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution211.cpp.o
+.PHONY : Solution211.cpp.o
+
+Solution211.i: Solution211.cpp.i
+.PHONY : Solution211.i
+
+# target to preprocess a source file
+Solution211.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution211.cpp.i
+.PHONY : Solution211.cpp.i
+
+Solution211.s: Solution211.cpp.s
+.PHONY : Solution211.s
+
+# target to generate assembly for a file
+Solution211.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution211.cpp.s
+.PHONY : Solution211.cpp.s
+
+Solution213.o: Solution213.cpp.o
+.PHONY : Solution213.o
+
+# target to build an object file
+Solution213.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution213.cpp.o
+.PHONY : Solution213.cpp.o
+
+Solution213.i: Solution213.cpp.i
+.PHONY : Solution213.i
+
+# target to preprocess a source file
+Solution213.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution213.cpp.i
+.PHONY : Solution213.cpp.i
+
+Solution213.s: Solution213.cpp.s
+.PHONY : Solution213.s
+
+# target to generate assembly for a file
+Solution213.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution213.cpp.s
+.PHONY : Solution213.cpp.s
+
+Solution219.o: Solution219.cpp.o
+.PHONY : Solution219.o
+
+# target to build an object file
+Solution219.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution219.cpp.o
+.PHONY : Solution219.cpp.o
+
+Solution219.i: Solution219.cpp.i
+.PHONY : Solution219.i
+
+# target to preprocess a source file
+Solution219.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution219.cpp.i
+.PHONY : Solution219.cpp.i
+
+Solution219.s: Solution219.cpp.s
+.PHONY : Solution219.s
+
+# target to generate assembly for a file
+Solution219.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution219.cpp.s
+.PHONY : Solution219.cpp.s
+
+Solution220.o: Solution220.cpp.o
+.PHONY : Solution220.o
+
+# target to build an object file
+Solution220.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution220.cpp.o
+.PHONY : Solution220.cpp.o
+
+Solution220.i: Solution220.cpp.i
+.PHONY : Solution220.i
+
+# target to preprocess a source file
+Solution220.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution220.cpp.i
+.PHONY : Solution220.cpp.i
+
+Solution220.s: Solution220.cpp.s
+.PHONY : Solution220.s
+
+# target to generate assembly for a file
+Solution220.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution220.cpp.s
+.PHONY : Solution220.cpp.s
+
+Solution223.o: Solution223.cpp.o
+.PHONY : Solution223.o
+
+# target to build an object file
+Solution223.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution223.cpp.o
+.PHONY : Solution223.cpp.o
+
+Solution223.i: Solution223.cpp.i
+.PHONY : Solution223.i
+
+# target to preprocess a source file
+Solution223.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution223.cpp.i
+.PHONY : Solution223.cpp.i
+
+Solution223.s: Solution223.cpp.s
+.PHONY : Solution223.s
+
+# target to generate assembly for a file
+Solution223.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution223.cpp.s
+.PHONY : Solution223.cpp.s
+
+Solution229.o: Solution229.cpp.o
+.PHONY : Solution229.o
+
+# target to build an object file
+Solution229.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution229.cpp.o
+.PHONY : Solution229.cpp.o
+
+Solution229.i: Solution229.cpp.i
+.PHONY : Solution229.i
+
+# target to preprocess a source file
+Solution229.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution229.cpp.i
+.PHONY : Solution229.cpp.i
+
+Solution229.s: Solution229.cpp.s
+.PHONY : Solution229.s
+
+# target to generate assembly for a file
+Solution229.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution229.cpp.s
+.PHONY : Solution229.cpp.s
+
+Solution230.o: Solution230.cpp.o
+.PHONY : Solution230.o
+
+# target to build an object file
+Solution230.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution230.cpp.o
+.PHONY : Solution230.cpp.o
+
+Solution230.i: Solution230.cpp.i
+.PHONY : Solution230.i
+
+# target to preprocess a source file
+Solution230.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution230.cpp.i
+.PHONY : Solution230.cpp.i
+
+Solution230.s: Solution230.cpp.s
+.PHONY : Solution230.s
+
+# target to generate assembly for a file
+Solution230.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution230.cpp.s
+.PHONY : Solution230.cpp.s
+
+Solution231_2.o: Solution231_2.cpp.o
+.PHONY : Solution231_2.o
+
+# target to build an object file
+Solution231_2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution231_2.cpp.o
+.PHONY : Solution231_2.cpp.o
+
+Solution231_2.i: Solution231_2.cpp.i
+.PHONY : Solution231_2.i
+
+# target to preprocess a source file
+Solution231_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution231_2.cpp.i
+.PHONY : Solution231_2.cpp.i
+
+Solution231_2.s: Solution231_2.cpp.s
+.PHONY : Solution231_2.s
+
+# target to generate assembly for a file
+Solution231_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution231_2.cpp.s
+.PHONY : Solution231_2.cpp.s
+
+Solution237.o: Solution237.cpp.o
+.PHONY : Solution237.o
+
+# target to build an object file
+Solution237.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution237.cpp.o
+.PHONY : Solution237.cpp.o
+
+Solution237.i: Solution237.cpp.i
+.PHONY : Solution237.i
+
+# target to preprocess a source file
+Solution237.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution237.cpp.i
+.PHONY : Solution237.cpp.i
+
+Solution237.s: Solution237.cpp.s
+.PHONY : Solution237.s
+
+# target to generate assembly for a file
+Solution237.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution237.cpp.s
+.PHONY : Solution237.cpp.s
+
+Solution26.o: Solution26.cpp.o
+.PHONY : Solution26.o
+
+# target to build an object file
+Solution26.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution26.cpp.o
+.PHONY : Solution26.cpp.o
+
+Solution26.i: Solution26.cpp.i
+.PHONY : Solution26.i
+
+# target to preprocess a source file
+Solution26.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution26.cpp.i
+.PHONY : Solution26.cpp.i
+
+Solution26.s: Solution26.cpp.s
+.PHONY : Solution26.s
+
+# target to generate assembly for a file
+Solution26.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution26.cpp.s
+.PHONY : Solution26.cpp.s
+
+Solution260.o: Solution260.cpp.o
+.PHONY : Solution260.o
+
+# target to build an object file
+Solution260.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution260.cpp.o
+.PHONY : Solution260.cpp.o
+
+Solution260.i: Solution260.cpp.i
+.PHONY : Solution260.i
+
+# target to preprocess a source file
+Solution260.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution260.cpp.i
+.PHONY : Solution260.cpp.i
+
+Solution260.s: Solution260.cpp.s
+.PHONY : Solution260.s
+
+# target to generate assembly for a file
+Solution260.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution260.cpp.s
+.PHONY : Solution260.cpp.s
+
+Solution264.o: Solution264.cpp.o
+.PHONY : Solution264.o
+
+# target to build an object file
+Solution264.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution264.cpp.o
+.PHONY : Solution264.cpp.o
+
+Solution264.i: Solution264.cpp.i
+.PHONY : Solution264.i
+
+# target to preprocess a source file
+Solution264.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution264.cpp.i
+.PHONY : Solution264.cpp.i
+
+Solution264.s: Solution264.cpp.s
+.PHONY : Solution264.s
+
+# target to generate assembly for a file
+Solution264.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution264.cpp.s
+.PHONY : Solution264.cpp.s
+
+Solution268.o: Solution268.cpp.o
+.PHONY : Solution268.o
+
+# target to build an object file
+Solution268.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution268.cpp.o
+.PHONY : Solution268.cpp.o
+
+Solution268.i: Solution268.cpp.i
+.PHONY : Solution268.i
+
+# target to preprocess a source file
+Solution268.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution268.cpp.i
+.PHONY : Solution268.cpp.i
+
+Solution268.s: Solution268.cpp.s
+.PHONY : Solution268.s
+
+# target to generate assembly for a file
+Solution268.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution268.cpp.s
+.PHONY : Solution268.cpp.s
+
+Solution27.o: Solution27.cpp.o
+.PHONY : Solution27.o
+
+# target to build an object file
+Solution27.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution27.cpp.o
+.PHONY : Solution27.cpp.o
+
+Solution27.i: Solution27.cpp.i
+.PHONY : Solution27.i
+
+# target to preprocess a source file
+Solution27.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution27.cpp.i
+.PHONY : Solution27.cpp.i
+
+Solution27.s: Solution27.cpp.s
+.PHONY : Solution27.s
+
+# target to generate assembly for a file
+Solution27.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution27.cpp.s
+.PHONY : Solution27.cpp.s
+
+Solution273.o: Solution273.cpp.o
+.PHONY : Solution273.o
+
+# target to build an object file
+Solution273.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution273.cpp.o
+.PHONY : Solution273.cpp.o
+
+Solution273.i: Solution273.cpp.i
+.PHONY : Solution273.i
+
+# target to preprocess a source file
+Solution273.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution273.cpp.i
+.PHONY : Solution273.cpp.i
+
+Solution273.s: Solution273.cpp.s
+.PHONY : Solution273.s
+
+# target to generate assembly for a file
+Solution273.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution273.cpp.s
+.PHONY : Solution273.cpp.s
+
+Solution274.o: Solution274.cpp.o
+.PHONY : Solution274.o
+
+# target to build an object file
+Solution274.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution274.cpp.o
+.PHONY : Solution274.cpp.o
+
+Solution274.i: Solution274.cpp.i
+.PHONY : Solution274.i
+
+# target to preprocess a source file
+Solution274.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution274.cpp.i
+.PHONY : Solution274.cpp.i
+
+Solution274.s: Solution274.cpp.s
+.PHONY : Solution274.s
+
+# target to generate assembly for a file
+Solution274.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution274.cpp.s
+.PHONY : Solution274.cpp.s
+
+Solution278.o: Solution278.cpp.o
+.PHONY : Solution278.o
+
+# target to build an object file
+Solution278.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution278.cpp.o
+.PHONY : Solution278.cpp.o
+
+Solution278.i: Solution278.cpp.i
+.PHONY : Solution278.i
+
+# target to preprocess a source file
+Solution278.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution278.cpp.i
+.PHONY : Solution278.cpp.i
+
+Solution278.s: Solution278.cpp.s
+.PHONY : Solution278.s
+
+# target to generate assembly for a file
+Solution278.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution278.cpp.s
+.PHONY : Solution278.cpp.s
+
+Solution28.o: Solution28.cpp.o
+.PHONY : Solution28.o
+
+# target to build an object file
+Solution28.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution28.cpp.o
+.PHONY : Solution28.cpp.o
+
+Solution28.i: Solution28.cpp.i
+.PHONY : Solution28.i
+
+# target to preprocess a source file
+Solution28.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution28.cpp.i
+.PHONY : Solution28.cpp.i
+
+Solution28.s: Solution28.cpp.s
+.PHONY : Solution28.s
+
+# target to generate assembly for a file
+Solution28.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution28.cpp.s
+.PHONY : Solution28.cpp.s
+
+Solution284.o: Solution284.cpp.o
+.PHONY : Solution284.o
+
+# target to build an object file
+Solution284.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution284.cpp.o
+.PHONY : Solution284.cpp.o
+
+Solution284.i: Solution284.cpp.i
+.PHONY : Solution284.i
+
+# target to preprocess a source file
+Solution284.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution284.cpp.i
+.PHONY : Solution284.cpp.i
+
+Solution284.s: Solution284.cpp.s
+.PHONY : Solution284.s
+
+# target to generate assembly for a file
+Solution284.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution284.cpp.s
+.PHONY : Solution284.cpp.s
+
+Solution292.o: Solution292.cpp.o
+.PHONY : Solution292.o
+
+# target to build an object file
+Solution292.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution292.cpp.o
+.PHONY : Solution292.cpp.o
+
+Solution292.i: Solution292.cpp.i
+.PHONY : Solution292.i
+
+# target to preprocess a source file
+Solution292.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution292.cpp.i
+.PHONY : Solution292.cpp.i
+
+Solution292.s: Solution292.cpp.s
+.PHONY : Solution292.s
+
+# target to generate assembly for a file
+Solution292.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution292.cpp.s
+.PHONY : Solution292.cpp.s
+
+Solution295.o: Solution295.cpp.o
+.PHONY : Solution295.o
+
+# target to build an object file
+Solution295.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution295.cpp.o
+.PHONY : Solution295.cpp.o
+
+Solution295.i: Solution295.cpp.i
+.PHONY : Solution295.i
+
+# target to preprocess a source file
+Solution295.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution295.cpp.i
+.PHONY : Solution295.cpp.i
+
+Solution295.s: Solution295.cpp.s
+.PHONY : Solution295.s
+
+# target to generate assembly for a file
+Solution295.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution295.cpp.s
+.PHONY : Solution295.cpp.s
+
+Solution299.o: Solution299.cpp.o
+.PHONY : Solution299.o
+
+# target to build an object file
+Solution299.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution299.cpp.o
+.PHONY : Solution299.cpp.o
+
+Solution299.i: Solution299.cpp.i
+.PHONY : Solution299.i
+
+# target to preprocess a source file
+Solution299.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution299.cpp.i
+.PHONY : Solution299.cpp.i
+
+Solution299.s: Solution299.cpp.s
+.PHONY : Solution299.s
+
+# target to generate assembly for a file
+Solution299.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution299.cpp.s
+.PHONY : Solution299.cpp.s
+
+Solution301.o: Solution301.cpp.o
+.PHONY : Solution301.o
+
+# target to build an object file
+Solution301.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution301.cpp.o
+.PHONY : Solution301.cpp.o
+
+Solution301.i: Solution301.cpp.i
+.PHONY : Solution301.i
+
+# target to preprocess a source file
+Solution301.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution301.cpp.i
+.PHONY : Solution301.cpp.i
+
+Solution301.s: Solution301.cpp.s
+.PHONY : Solution301.s
+
+# target to generate assembly for a file
+Solution301.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution301.cpp.s
+.PHONY : Solution301.cpp.s
+
+Solution306.o: Solution306.cpp.o
+.PHONY : Solution306.o
+
+# target to build an object file
+Solution306.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution306.cpp.o
+.PHONY : Solution306.cpp.o
+
+Solution306.i: Solution306.cpp.i
+.PHONY : Solution306.i
+
+# target to preprocess a source file
+Solution306.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution306.cpp.i
+.PHONY : Solution306.cpp.i
+
+Solution306.s: Solution306.cpp.s
+.PHONY : Solution306.s
+
+# target to generate assembly for a file
+Solution306.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution306.cpp.s
+.PHONY : Solution306.cpp.s
+
+Solution313.o: Solution313.cpp.o
+.PHONY : Solution313.o
+
+# target to build an object file
+Solution313.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution313.cpp.o
+.PHONY : Solution313.cpp.o
+
+Solution313.i: Solution313.cpp.i
+.PHONY : Solution313.i
+
+# target to preprocess a source file
+Solution313.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution313.cpp.i
+.PHONY : Solution313.cpp.i
+
+Solution313.s: Solution313.cpp.s
+.PHONY : Solution313.s
+
+# target to generate assembly for a file
+Solution313.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution313.cpp.s
+.PHONY : Solution313.cpp.s
+
+Solution318.o: Solution318.cpp.o
+.PHONY : Solution318.o
+
+# target to build an object file
+Solution318.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution318.cpp.o
+.PHONY : Solution318.cpp.o
+
+Solution318.i: Solution318.cpp.i
+.PHONY : Solution318.i
+
+# target to preprocess a source file
+Solution318.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution318.cpp.i
+.PHONY : Solution318.cpp.i
+
+Solution318.s: Solution318.cpp.s
+.PHONY : Solution318.s
+
+# target to generate assembly for a file
+Solution318.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution318.cpp.s
+.PHONY : Solution318.cpp.s
+
+Solution319.o: Solution319.cpp.o
+.PHONY : Solution319.o
+
+# target to build an object file
+Solution319.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution319.cpp.o
+.PHONY : Solution319.cpp.o
+
+Solution319.i: Solution319.cpp.i
+.PHONY : Solution319.i
+
+# target to preprocess a source file
+Solution319.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution319.cpp.i
+.PHONY : Solution319.cpp.i
+
+Solution319.s: Solution319.cpp.s
+.PHONY : Solution319.s
+
+# target to generate assembly for a file
+Solution319.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution319.cpp.s
+.PHONY : Solution319.cpp.s
+
+Solution326.o: Solution326.cpp.o
+.PHONY : Solution326.o
+
+# target to build an object file
+Solution326.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution326.cpp.o
+.PHONY : Solution326.cpp.o
+
+Solution326.i: Solution326.cpp.i
+.PHONY : Solution326.i
+
+# target to preprocess a source file
+Solution326.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution326.cpp.i
+.PHONY : Solution326.cpp.i
+
+Solution326.s: Solution326.cpp.s
+.PHONY : Solution326.s
+
+# target to generate assembly for a file
+Solution326.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution326.cpp.s
+.PHONY : Solution326.cpp.s
+
+Solution334.o: Solution334.cpp.o
+.PHONY : Solution334.o
+
+# target to build an object file
+Solution334.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution334.cpp.o
+.PHONY : Solution334.cpp.o
+
+Solution334.i: Solution334.cpp.i
+.PHONY : Solution334.i
+
+# target to preprocess a source file
+Solution334.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution334.cpp.i
+.PHONY : Solution334.cpp.i
+
+Solution334.s: Solution334.cpp.s
+.PHONY : Solution334.s
+
+# target to generate assembly for a file
+Solution334.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution334.cpp.s
+.PHONY : Solution334.cpp.s
+
+Solution335.o: Solution335.cpp.o
+.PHONY : Solution335.o
+
+# target to build an object file
+Solution335.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution335.cpp.o
+.PHONY : Solution335.cpp.o
+
+Solution335.i: Solution335.cpp.i
+.PHONY : Solution335.i
+
+# target to preprocess a source file
+Solution335.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution335.cpp.i
+.PHONY : Solution335.cpp.i
+
+Solution335.s: Solution335.cpp.s
+.PHONY : Solution335.s
+
+# target to generate assembly for a file
+Solution335.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution335.cpp.s
+.PHONY : Solution335.cpp.s
+
 Solution341.o: Solution341.cpp.o
 .PHONY : Solution341.o
 
@@ -296,6 +3776,654 @@ Solution341.s: Solution341.cpp.s
 Solution341.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution341.cpp.s
 .PHONY : Solution341.cpp.s
+
+Solution342_4.o: Solution342_4.cpp.o
+.PHONY : Solution342_4.o
+
+# target to build an object file
+Solution342_4.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution342_4.cpp.o
+.PHONY : Solution342_4.cpp.o
+
+Solution342_4.i: Solution342_4.cpp.i
+.PHONY : Solution342_4.i
+
+# target to preprocess a source file
+Solution342_4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution342_4.cpp.i
+.PHONY : Solution342_4.cpp.i
+
+Solution342_4.s: Solution342_4.cpp.s
+.PHONY : Solution342_4.s
+
+# target to generate assembly for a file
+Solution342_4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution342_4.cpp.s
+.PHONY : Solution342_4.cpp.s
+
+Solution345.o: Solution345.cpp.o
+.PHONY : Solution345.o
+
+# target to build an object file
+Solution345.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution345.cpp.o
+.PHONY : Solution345.cpp.o
+
+Solution345.i: Solution345.cpp.i
+.PHONY : Solution345.i
+
+# target to preprocess a source file
+Solution345.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution345.cpp.i
+.PHONY : Solution345.cpp.i
+
+Solution345.s: Solution345.cpp.s
+.PHONY : Solution345.s
+
+# target to generate assembly for a file
+Solution345.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution345.cpp.s
+.PHONY : Solution345.cpp.s
+
+Solution352.o: Solution352.cpp.o
+.PHONY : Solution352.o
+
+# target to build an object file
+Solution352.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution352.cpp.o
+.PHONY : Solution352.cpp.o
+
+Solution352.i: Solution352.cpp.i
+.PHONY : Solution352.i
+
+# target to preprocess a source file
+Solution352.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution352.cpp.i
+.PHONY : Solution352.cpp.i
+
+Solution352.s: Solution352.cpp.s
+.PHONY : Solution352.s
+
+# target to generate assembly for a file
+Solution352.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution352.cpp.s
+.PHONY : Solution352.cpp.s
+
+Solution36.o: Solution36.cpp.o
+.PHONY : Solution36.o
+
+# target to build an object file
+Solution36.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution36.cpp.o
+.PHONY : Solution36.cpp.o
+
+Solution36.i: Solution36.cpp.i
+.PHONY : Solution36.i
+
+# target to preprocess a source file
+Solution36.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution36.cpp.i
+.PHONY : Solution36.cpp.i
+
+Solution36.s: Solution36.cpp.s
+.PHONY : Solution36.s
+
+# target to generate assembly for a file
+Solution36.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution36.cpp.s
+.PHONY : Solution36.cpp.s
+
+Solution363.o: Solution363.cpp.o
+.PHONY : Solution363.o
+
+# target to build an object file
+Solution363.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution363.cpp.o
+.PHONY : Solution363.cpp.o
+
+Solution363.i: Solution363.cpp.i
+.PHONY : Solution363.i
+
+# target to preprocess a source file
+Solution363.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution363.cpp.i
+.PHONY : Solution363.cpp.i
+
+Solution363.s: Solution363.cpp.s
+.PHONY : Solution363.s
+
+# target to generate assembly for a file
+Solution363.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution363.cpp.s
+.PHONY : Solution363.cpp.s
+
+Solution367.o: Solution367.cpp.o
+.PHONY : Solution367.o
+
+# target to build an object file
+Solution367.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution367.cpp.o
+.PHONY : Solution367.cpp.o
+
+Solution367.i: Solution367.cpp.i
+.PHONY : Solution367.i
+
+# target to preprocess a source file
+Solution367.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution367.cpp.i
+.PHONY : Solution367.cpp.i
+
+Solution367.s: Solution367.cpp.s
+.PHONY : Solution367.s
+
+# target to generate assembly for a file
+Solution367.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution367.cpp.s
+.PHONY : Solution367.cpp.s
+
+Solution371.o: Solution371.cpp.o
+.PHONY : Solution371.o
+
+# target to build an object file
+Solution371.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution371.cpp.o
+.PHONY : Solution371.cpp.o
+
+Solution371.i: Solution371.cpp.i
+.PHONY : Solution371.i
+
+# target to preprocess a source file
+Solution371.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution371.cpp.i
+.PHONY : Solution371.cpp.i
+
+Solution371.s: Solution371.cpp.s
+.PHONY : Solution371.s
+
+# target to generate assembly for a file
+Solution371.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution371.cpp.s
+.PHONY : Solution371.cpp.s
+
+Solution372.o: Solution372.cpp.o
+.PHONY : Solution372.o
+
+# target to build an object file
+Solution372.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution372.cpp.o
+.PHONY : Solution372.cpp.o
+
+Solution372.i: Solution372.cpp.i
+.PHONY : Solution372.i
+
+# target to preprocess a source file
+Solution372.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution372.cpp.i
+.PHONY : Solution372.cpp.i
+
+Solution372.s: Solution372.cpp.s
+.PHONY : Solution372.s
+
+# target to generate assembly for a file
+Solution372.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution372.cpp.s
+.PHONY : Solution372.cpp.s
+
+Solution374.o: Solution374.cpp.o
+.PHONY : Solution374.o
+
+# target to build an object file
+Solution374.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution374.cpp.o
+.PHONY : Solution374.cpp.o
+
+Solution374.i: Solution374.cpp.i
+.PHONY : Solution374.i
+
+# target to preprocess a source file
+Solution374.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution374.cpp.i
+.PHONY : Solution374.cpp.i
+
+Solution374.s: Solution374.cpp.s
+.PHONY : Solution374.s
+
+# target to generate assembly for a file
+Solution374.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution374.cpp.s
+.PHONY : Solution374.cpp.s
+
+Solution375.o: Solution375.cpp.o
+.PHONY : Solution375.o
+
+# target to build an object file
+Solution375.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution375.cpp.o
+.PHONY : Solution375.cpp.o
+
+Solution375.i: Solution375.cpp.i
+.PHONY : Solution375.i
+
+# target to preprocess a source file
+Solution375.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution375.cpp.i
+.PHONY : Solution375.cpp.i
+
+Solution375.s: Solution375.cpp.s
+.PHONY : Solution375.s
+
+# target to generate assembly for a file
+Solution375.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution375.cpp.s
+.PHONY : Solution375.cpp.s
+
+Solution378.o: Solution378.cpp.o
+.PHONY : Solution378.o
+
+# target to build an object file
+Solution378.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution378.cpp.o
+.PHONY : Solution378.cpp.o
+
+Solution378.i: Solution378.cpp.i
+.PHONY : Solution378.i
+
+# target to preprocess a source file
+Solution378.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution378.cpp.i
+.PHONY : Solution378.cpp.i
+
+Solution378.s: Solution378.cpp.s
+.PHONY : Solution378.s
+
+# target to generate assembly for a file
+Solution378.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution378.cpp.s
+.PHONY : Solution378.cpp.s
+
+Solution38.o: Solution38.cpp.o
+.PHONY : Solution38.o
+
+# target to build an object file
+Solution38.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution38.cpp.o
+.PHONY : Solution38.cpp.o
+
+Solution38.i: Solution38.cpp.i
+.PHONY : Solution38.i
+
+# target to preprocess a source file
+Solution38.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution38.cpp.i
+.PHONY : Solution38.cpp.i
+
+Solution38.s: Solution38.cpp.s
+.PHONY : Solution38.s
+
+# target to generate assembly for a file
+Solution38.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution38.cpp.s
+.PHONY : Solution38.cpp.s
+
+Solution382.o: Solution382.cpp.o
+.PHONY : Solution382.o
+
+# target to build an object file
+Solution382.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution382.cpp.o
+.PHONY : Solution382.cpp.o
+
+Solution382.i: Solution382.cpp.i
+.PHONY : Solution382.i
+
+# target to preprocess a source file
+Solution382.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution382.cpp.i
+.PHONY : Solution382.cpp.i
+
+Solution382.s: Solution382.cpp.s
+.PHONY : Solution382.s
+
+# target to generate assembly for a file
+Solution382.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution382.cpp.s
+.PHONY : Solution382.cpp.s
+
+Solution383.o: Solution383.cpp.o
+.PHONY : Solution383.o
+
+# target to build an object file
+Solution383.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution383.cpp.o
+.PHONY : Solution383.cpp.o
+
+Solution383.i: Solution383.cpp.i
+.PHONY : Solution383.i
+
+# target to preprocess a source file
+Solution383.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution383.cpp.i
+.PHONY : Solution383.cpp.i
+
+Solution383.s: Solution383.cpp.s
+.PHONY : Solution383.s
+
+# target to generate assembly for a file
+Solution383.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution383.cpp.s
+.PHONY : Solution383.cpp.s
+
+Solution384.o: Solution384.cpp.o
+.PHONY : Solution384.o
+
+# target to build an object file
+Solution384.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution384.cpp.o
+.PHONY : Solution384.cpp.o
+
+Solution384.i: Solution384.cpp.i
+.PHONY : Solution384.i
+
+# target to preprocess a source file
+Solution384.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution384.cpp.i
+.PHONY : Solution384.cpp.i
+
+Solution384.s: Solution384.cpp.s
+.PHONY : Solution384.s
+
+# target to generate assembly for a file
+Solution384.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution384.cpp.s
+.PHONY : Solution384.cpp.s
+
+Solution390.o: Solution390.cpp.o
+.PHONY : Solution390.o
+
+# target to build an object file
+Solution390.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution390.cpp.o
+.PHONY : Solution390.cpp.o
+
+Solution390.i: Solution390.cpp.i
+.PHONY : Solution390.i
+
+# target to preprocess a source file
+Solution390.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution390.cpp.i
+.PHONY : Solution390.cpp.i
+
+Solution390.s: Solution390.cpp.s
+.PHONY : Solution390.s
+
+# target to generate assembly for a file
+Solution390.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution390.cpp.s
+.PHONY : Solution390.cpp.s
+
+Solution391.o: Solution391.cpp.o
+.PHONY : Solution391.o
+
+# target to build an object file
+Solution391.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution391.cpp.o
+.PHONY : Solution391.cpp.o
+
+Solution391.i: Solution391.cpp.i
+.PHONY : Solution391.i
+
+# target to preprocess a source file
+Solution391.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution391.cpp.i
+.PHONY : Solution391.cpp.i
+
+Solution391.s: Solution391.cpp.s
+.PHONY : Solution391.s
+
+# target to generate assembly for a file
+Solution391.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution391.cpp.s
+.PHONY : Solution391.cpp.s
+
+Solution397.o: Solution397.cpp.o
+.PHONY : Solution397.o
+
+# target to build an object file
+Solution397.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution397.cpp.o
+.PHONY : Solution397.cpp.o
+
+Solution397.i: Solution397.cpp.i
+.PHONY : Solution397.i
+
+# target to preprocess a source file
+Solution397.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution397.cpp.i
+.PHONY : Solution397.cpp.i
+
+Solution397.s: Solution397.cpp.s
+.PHONY : Solution397.s
+
+# target to generate assembly for a file
+Solution397.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution397.cpp.s
+.PHONY : Solution397.cpp.s
+
+Solution400.o: Solution400.cpp.o
+.PHONY : Solution400.o
+
+# target to build an object file
+Solution400.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution400.cpp.o
+.PHONY : Solution400.cpp.o
+
+Solution400.i: Solution400.cpp.i
+.PHONY : Solution400.i
+
+# target to preprocess a source file
+Solution400.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution400.cpp.i
+.PHONY : Solution400.cpp.i
+
+Solution400.s: Solution400.cpp.s
+.PHONY : Solution400.s
+
+# target to generate assembly for a file
+Solution400.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution400.cpp.s
+.PHONY : Solution400.cpp.s
+
+Solution401.o: Solution401.cpp.o
+.PHONY : Solution401.o
+
+# target to build an object file
+Solution401.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution401.cpp.o
+.PHONY : Solution401.cpp.o
+
+Solution401.i: Solution401.cpp.i
+.PHONY : Solution401.i
+
+# target to preprocess a source file
+Solution401.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution401.cpp.i
+.PHONY : Solution401.cpp.i
+
+Solution401.s: Solution401.cpp.s
+.PHONY : Solution401.s
+
+# target to generate assembly for a file
+Solution401.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution401.cpp.s
+.PHONY : Solution401.cpp.s
+
+Solution403.o: Solution403.cpp.o
+.PHONY : Solution403.o
+
+# target to build an object file
+Solution403.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution403.cpp.o
+.PHONY : Solution403.cpp.o
+
+Solution403.i: Solution403.cpp.i
+.PHONY : Solution403.i
+
+# target to preprocess a source file
+Solution403.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution403.cpp.i
+.PHONY : Solution403.cpp.i
+
+Solution403.s: Solution403.cpp.s
+.PHONY : Solution403.s
+
+# target to generate assembly for a file
+Solution403.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution403.cpp.s
+.PHONY : Solution403.cpp.s
+
+Solution405.o: Solution405.cpp.o
+.PHONY : Solution405.o
+
+# target to build an object file
+Solution405.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution405.cpp.o
+.PHONY : Solution405.cpp.o
+
+Solution405.i: Solution405.cpp.i
+.PHONY : Solution405.i
+
+# target to preprocess a source file
+Solution405.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution405.cpp.i
+.PHONY : Solution405.cpp.i
+
+Solution405.s: Solution405.cpp.s
+.PHONY : Solution405.s
+
+# target to generate assembly for a file
+Solution405.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution405.cpp.s
+.PHONY : Solution405.cpp.s
+
+Solution407.o: Solution407.cpp.o
+.PHONY : Solution407.o
+
+# target to build an object file
+Solution407.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution407.cpp.o
+.PHONY : Solution407.cpp.o
+
+Solution407.i: Solution407.cpp.i
+.PHONY : Solution407.i
+
+# target to preprocess a source file
+Solution407.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution407.cpp.i
+.PHONY : Solution407.cpp.i
+
+Solution407.s: Solution407.cpp.s
+.PHONY : Solution407.s
+
+# target to generate assembly for a file
+Solution407.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution407.cpp.s
+.PHONY : Solution407.cpp.s
+
+Solution412.o: Solution412.cpp.o
+.PHONY : Solution412.o
+
+# target to build an object file
+Solution412.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution412.cpp.o
+.PHONY : Solution412.cpp.o
+
+Solution412.i: Solution412.cpp.i
+.PHONY : Solution412.i
+
+# target to preprocess a source file
+Solution412.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution412.cpp.i
+.PHONY : Solution412.cpp.i
+
+Solution412.s: Solution412.cpp.s
+.PHONY : Solution412.s
+
+# target to generate assembly for a file
+Solution412.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution412.cpp.s
+.PHONY : Solution412.cpp.s
+
+Solution413.o: Solution413.cpp.o
+.PHONY : Solution413.o
+
+# target to build an object file
+Solution413.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution413.cpp.o
+.PHONY : Solution413.cpp.o
+
+Solution413.i: Solution413.cpp.i
+.PHONY : Solution413.i
+
+# target to preprocess a source file
+Solution413.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution413.cpp.i
+.PHONY : Solution413.cpp.i
+
+Solution413.s: Solution413.cpp.s
+.PHONY : Solution413.s
+
+# target to generate assembly for a file
+Solution413.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution413.cpp.s
+.PHONY : Solution413.cpp.s
+
+Solution414.o: Solution414.cpp.o
+.PHONY : Solution414.o
+
+# target to build an object file
+Solution414.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution414.cpp.o
+.PHONY : Solution414.cpp.o
+
+Solution414.i: Solution414.cpp.i
+.PHONY : Solution414.i
+
+# target to preprocess a source file
+Solution414.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution414.cpp.i
+.PHONY : Solution414.cpp.i
+
+Solution414.s: Solution414.cpp.s
+.PHONY : Solution414.s
+
+# target to generate assembly for a file
+Solution414.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution414.cpp.s
+.PHONY : Solution414.cpp.s
+
+Solution419.o: Solution419.cpp.o
+.PHONY : Solution419.o
+
+# target to build an object file
+Solution419.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution419.cpp.o
+.PHONY : Solution419.cpp.o
+
+Solution419.i: Solution419.cpp.i
+.PHONY : Solution419.i
+
+# target to preprocess a source file
+Solution419.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution419.cpp.i
+.PHONY : Solution419.cpp.i
+
+Solution419.s: Solution419.cpp.s
+.PHONY : Solution419.s
+
+# target to generate assembly for a file
+Solution419.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution419.cpp.s
+.PHONY : Solution419.cpp.s
 
 Solution42.o: Solution42.cpp.o
 .PHONY : Solution42.o
@@ -321,6 +4449,198 @@ Solution42.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution42.cpp.s
 .PHONY : Solution42.cpp.s
 
+Solution421.o: Solution421.cpp.o
+.PHONY : Solution421.o
+
+# target to build an object file
+Solution421.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution421.cpp.o
+.PHONY : Solution421.cpp.o
+
+Solution421.i: Solution421.cpp.i
+.PHONY : Solution421.i
+
+# target to preprocess a source file
+Solution421.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution421.cpp.i
+.PHONY : Solution421.cpp.i
+
+Solution421.s: Solution421.cpp.s
+.PHONY : Solution421.s
+
+# target to generate assembly for a file
+Solution421.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution421.cpp.s
+.PHONY : Solution421.cpp.s
+
+Solution430.o: Solution430.cpp.o
+.PHONY : Solution430.o
+
+# target to build an object file
+Solution430.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution430.cpp.o
+.PHONY : Solution430.cpp.o
+
+Solution430.i: Solution430.cpp.i
+.PHONY : Solution430.i
+
+# target to preprocess a source file
+Solution430.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution430.cpp.i
+.PHONY : Solution430.cpp.i
+
+Solution430.s: Solution430.cpp.s
+.PHONY : Solution430.s
+
+# target to generate assembly for a file
+Solution430.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution430.cpp.s
+.PHONY : Solution430.cpp.s
+
+Solution434.o: Solution434.cpp.o
+.PHONY : Solution434.o
+
+# target to build an object file
+Solution434.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution434.cpp.o
+.PHONY : Solution434.cpp.o
+
+Solution434.i: Solution434.cpp.i
+.PHONY : Solution434.i
+
+# target to preprocess a source file
+Solution434.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution434.cpp.i
+.PHONY : Solution434.cpp.i
+
+Solution434.s: Solution434.cpp.s
+.PHONY : Solution434.s
+
+# target to generate assembly for a file
+Solution434.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution434.cpp.s
+.PHONY : Solution434.cpp.s
+
+Solution437.o: Solution437.cpp.o
+.PHONY : Solution437.o
+
+# target to build an object file
+Solution437.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution437.cpp.o
+.PHONY : Solution437.cpp.o
+
+Solution437.i: Solution437.cpp.i
+.PHONY : Solution437.i
+
+# target to preprocess a source file
+Solution437.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution437.cpp.i
+.PHONY : Solution437.cpp.i
+
+Solution437.s: Solution437.cpp.s
+.PHONY : Solution437.s
+
+# target to generate assembly for a file
+Solution437.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution437.cpp.s
+.PHONY : Solution437.cpp.s
+
+Solution441.o: Solution441.cpp.o
+.PHONY : Solution441.o
+
+# target to build an object file
+Solution441.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution441.cpp.o
+.PHONY : Solution441.cpp.o
+
+Solution441.i: Solution441.cpp.i
+.PHONY : Solution441.i
+
+# target to preprocess a source file
+Solution441.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution441.cpp.i
+.PHONY : Solution441.cpp.i
+
+Solution441.s: Solution441.cpp.s
+.PHONY : Solution441.s
+
+# target to generate assembly for a file
+Solution441.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution441.cpp.s
+.PHONY : Solution441.cpp.s
+
+Solution446.o: Solution446.cpp.o
+.PHONY : Solution446.o
+
+# target to build an object file
+Solution446.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution446.cpp.o
+.PHONY : Solution446.cpp.o
+
+Solution446.i: Solution446.cpp.i
+.PHONY : Solution446.i
+
+# target to preprocess a source file
+Solution446.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution446.cpp.i
+.PHONY : Solution446.cpp.i
+
+Solution446.s: Solution446.cpp.s
+.PHONY : Solution446.s
+
+# target to generate assembly for a file
+Solution446.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution446.cpp.s
+.PHONY : Solution446.cpp.s
+
+Solution447.o: Solution447.cpp.o
+.PHONY : Solution447.o
+
+# target to build an object file
+Solution447.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution447.cpp.o
+.PHONY : Solution447.cpp.o
+
+Solution447.i: Solution447.cpp.i
+.PHONY : Solution447.i
+
+# target to preprocess a source file
+Solution447.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution447.cpp.i
+.PHONY : Solution447.cpp.i
+
+Solution447.s: Solution447.cpp.s
+.PHONY : Solution447.s
+
+# target to generate assembly for a file
+Solution447.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution447.cpp.s
+.PHONY : Solution447.cpp.s
+
+Solution451.o: Solution451.cpp.o
+.PHONY : Solution451.o
+
+# target to build an object file
+Solution451.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution451.cpp.o
+.PHONY : Solution451.cpp.o
+
+Solution451.i: Solution451.cpp.i
+.PHONY : Solution451.i
+
+# target to preprocess a source file
+Solution451.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution451.cpp.i
+.PHONY : Solution451.cpp.i
+
+Solution451.s: Solution451.cpp.s
+.PHONY : Solution451.s
+
+# target to generate assembly for a file
+Solution451.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution451.cpp.s
+.PHONY : Solution451.cpp.s
+
 Solution456.o: Solution456.cpp.o
 .PHONY : Solution456.o
 
@@ -344,6 +4664,1062 @@ Solution456.s: Solution456.cpp.s
 Solution456.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution456.cpp.s
 .PHONY : Solution456.cpp.s
+
+Solution457.o: Solution457.cpp.o
+.PHONY : Solution457.o
+
+# target to build an object file
+Solution457.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution457.cpp.o
+.PHONY : Solution457.cpp.o
+
+Solution457.i: Solution457.cpp.i
+.PHONY : Solution457.i
+
+# target to preprocess a source file
+Solution457.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution457.cpp.i
+.PHONY : Solution457.cpp.i
+
+Solution457.s: Solution457.cpp.s
+.PHONY : Solution457.s
+
+# target to generate assembly for a file
+Solution457.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution457.cpp.s
+.PHONY : Solution457.cpp.s
+
+Solution458.o: Solution458.cpp.o
+.PHONY : Solution458.o
+
+# target to build an object file
+Solution458.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution458.cpp.o
+.PHONY : Solution458.cpp.o
+
+Solution458.i: Solution458.cpp.i
+.PHONY : Solution458.i
+
+# target to preprocess a source file
+Solution458.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution458.cpp.i
+.PHONY : Solution458.cpp.i
+
+Solution458.s: Solution458.cpp.s
+.PHONY : Solution458.s
+
+# target to generate assembly for a file
+Solution458.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution458.cpp.s
+.PHONY : Solution458.cpp.s
+
+Solution461.o: Solution461.cpp.o
+.PHONY : Solution461.o
+
+# target to build an object file
+Solution461.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution461.cpp.o
+.PHONY : Solution461.cpp.o
+
+Solution461.i: Solution461.cpp.i
+.PHONY : Solution461.i
+
+# target to preprocess a source file
+Solution461.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution461.cpp.i
+.PHONY : Solution461.cpp.i
+
+Solution461.s: Solution461.cpp.s
+.PHONY : Solution461.s
+
+# target to generate assembly for a file
+Solution461.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution461.cpp.s
+.PHONY : Solution461.cpp.s
+
+Solution470.o: Solution470.cpp.o
+.PHONY : Solution470.o
+
+# target to build an object file
+Solution470.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution470.cpp.o
+.PHONY : Solution470.cpp.o
+
+Solution470.i: Solution470.cpp.i
+.PHONY : Solution470.i
+
+# target to preprocess a source file
+Solution470.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution470.cpp.i
+.PHONY : Solution470.cpp.i
+
+Solution470.s: Solution470.cpp.s
+.PHONY : Solution470.s
+
+# target to generate assembly for a file
+Solution470.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution470.cpp.s
+.PHONY : Solution470.cpp.s
+
+Solution472.o: Solution472.cpp.o
+.PHONY : Solution472.o
+
+# target to build an object file
+Solution472.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution472.cpp.o
+.PHONY : Solution472.cpp.o
+
+Solution472.i: Solution472.cpp.i
+.PHONY : Solution472.i
+
+# target to preprocess a source file
+Solution472.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution472.cpp.i
+.PHONY : Solution472.cpp.i
+
+Solution472.s: Solution472.cpp.s
+.PHONY : Solution472.s
+
+# target to generate assembly for a file
+Solution472.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution472.cpp.s
+.PHONY : Solution472.cpp.s
+
+Solution474.o: Solution474.cpp.o
+.PHONY : Solution474.o
+
+# target to build an object file
+Solution474.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution474.cpp.o
+.PHONY : Solution474.cpp.o
+
+Solution474.i: Solution474.cpp.i
+.PHONY : Solution474.i
+
+# target to preprocess a source file
+Solution474.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution474.cpp.i
+.PHONY : Solution474.cpp.i
+
+Solution474.s: Solution474.cpp.s
+.PHONY : Solution474.s
+
+# target to generate assembly for a file
+Solution474.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution474.cpp.s
+.PHONY : Solution474.cpp.s
+
+Solution475.o: Solution475.cpp.o
+.PHONY : Solution475.o
+
+# target to build an object file
+Solution475.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution475.cpp.o
+.PHONY : Solution475.cpp.o
+
+Solution475.i: Solution475.cpp.i
+.PHONY : Solution475.i
+
+# target to preprocess a source file
+Solution475.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution475.cpp.i
+.PHONY : Solution475.cpp.i
+
+Solution475.s: Solution475.cpp.s
+.PHONY : Solution475.s
+
+# target to generate assembly for a file
+Solution475.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution475.cpp.s
+.PHONY : Solution475.cpp.s
+
+Solution476.o: Solution476.cpp.o
+.PHONY : Solution476.o
+
+# target to build an object file
+Solution476.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution476.cpp.o
+.PHONY : Solution476.cpp.o
+
+Solution476.i: Solution476.cpp.i
+.PHONY : Solution476.i
+
+# target to preprocess a source file
+Solution476.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution476.cpp.i
+.PHONY : Solution476.cpp.i
+
+Solution476.s: Solution476.cpp.s
+.PHONY : Solution476.s
+
+# target to generate assembly for a file
+Solution476.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution476.cpp.s
+.PHONY : Solution476.cpp.s
+
+Solution477.o: Solution477.cpp.o
+.PHONY : Solution477.o
+
+# target to build an object file
+Solution477.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution477.cpp.o
+.PHONY : Solution477.cpp.o
+
+Solution477.i: Solution477.cpp.i
+.PHONY : Solution477.i
+
+# target to preprocess a source file
+Solution477.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution477.cpp.i
+.PHONY : Solution477.cpp.i
+
+Solution477.s: Solution477.cpp.s
+.PHONY : Solution477.s
+
+# target to generate assembly for a file
+Solution477.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution477.cpp.s
+.PHONY : Solution477.cpp.s
+
+Solution482.o: Solution482.cpp.o
+.PHONY : Solution482.o
+
+# target to build an object file
+Solution482.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution482.cpp.o
+.PHONY : Solution482.cpp.o
+
+Solution482.i: Solution482.cpp.i
+.PHONY : Solution482.i
+
+# target to preprocess a source file
+Solution482.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution482.cpp.i
+.PHONY : Solution482.cpp.i
+
+Solution482.s: Solution482.cpp.s
+.PHONY : Solution482.s
+
+# target to generate assembly for a file
+Solution482.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution482.cpp.s
+.PHONY : Solution482.cpp.s
+
+Solution483.o: Solution483.cpp.o
+.PHONY : Solution483.o
+
+# target to build an object file
+Solution483.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution483.cpp.o
+.PHONY : Solution483.cpp.o
+
+Solution483.i: Solution483.cpp.i
+.PHONY : Solution483.i
+
+# target to preprocess a source file
+Solution483.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution483.cpp.i
+.PHONY : Solution483.cpp.i
+
+Solution483.s: Solution483.cpp.s
+.PHONY : Solution483.s
+
+# target to generate assembly for a file
+Solution483.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution483.cpp.s
+.PHONY : Solution483.cpp.s
+
+Solution485.o: Solution485.cpp.o
+.PHONY : Solution485.o
+
+# target to build an object file
+Solution485.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution485.cpp.o
+.PHONY : Solution485.cpp.o
+
+Solution485.i: Solution485.cpp.i
+.PHONY : Solution485.i
+
+# target to preprocess a source file
+Solution485.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution485.cpp.i
+.PHONY : Solution485.cpp.i
+
+Solution485.s: Solution485.cpp.s
+.PHONY : Solution485.s
+
+# target to generate assembly for a file
+Solution485.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution485.cpp.s
+.PHONY : Solution485.cpp.s
+
+Solution492.o: Solution492.cpp.o
+.PHONY : Solution492.o
+
+# target to build an object file
+Solution492.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution492.cpp.o
+.PHONY : Solution492.cpp.o
+
+Solution492.i: Solution492.cpp.i
+.PHONY : Solution492.i
+
+# target to preprocess a source file
+Solution492.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution492.cpp.i
+.PHONY : Solution492.cpp.i
+
+Solution492.s: Solution492.cpp.s
+.PHONY : Solution492.s
+
+# target to generate assembly for a file
+Solution492.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution492.cpp.s
+.PHONY : Solution492.cpp.s
+
+Solution494.o: Solution494.cpp.o
+.PHONY : Solution494.o
+
+# target to build an object file
+Solution494.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution494.cpp.o
+.PHONY : Solution494.cpp.o
+
+Solution494.i: Solution494.cpp.i
+.PHONY : Solution494.i
+
+# target to preprocess a source file
+Solution494.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution494.cpp.i
+.PHONY : Solution494.cpp.i
+
+Solution494.s: Solution494.cpp.s
+.PHONY : Solution494.s
+
+# target to generate assembly for a file
+Solution494.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution494.cpp.s
+.PHONY : Solution494.cpp.s
+
+Solution495.o: Solution495.cpp.o
+.PHONY : Solution495.o
+
+# target to build an object file
+Solution495.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution495.cpp.o
+.PHONY : Solution495.cpp.o
+
+Solution495.i: Solution495.cpp.i
+.PHONY : Solution495.i
+
+# target to preprocess a source file
+Solution495.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution495.cpp.i
+.PHONY : Solution495.cpp.i
+
+Solution495.s: Solution495.cpp.s
+.PHONY : Solution495.s
+
+# target to generate assembly for a file
+Solution495.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution495.cpp.s
+.PHONY : Solution495.cpp.s
+
+Solution496.o: Solution496.cpp.o
+.PHONY : Solution496.o
+
+# target to build an object file
+Solution496.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution496.cpp.o
+.PHONY : Solution496.cpp.o
+
+Solution496.i: Solution496.cpp.i
+.PHONY : Solution496.i
+
+# target to preprocess a source file
+Solution496.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution496.cpp.i
+.PHONY : Solution496.cpp.i
+
+Solution496.s: Solution496.cpp.s
+.PHONY : Solution496.s
+
+# target to generate assembly for a file
+Solution496.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution496.cpp.s
+.PHONY : Solution496.cpp.s
+
+Solution500.o: Solution500.cpp.o
+.PHONY : Solution500.o
+
+# target to build an object file
+Solution500.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution500.cpp.o
+.PHONY : Solution500.cpp.o
+
+Solution500.i: Solution500.cpp.i
+.PHONY : Solution500.i
+
+# target to preprocess a source file
+Solution500.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution500.cpp.i
+.PHONY : Solution500.cpp.i
+
+Solution500.s: Solution500.cpp.s
+.PHONY : Solution500.s
+
+# target to generate assembly for a file
+Solution500.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution500.cpp.s
+.PHONY : Solution500.cpp.s
+
+Solution502.o: Solution502.cpp.o
+.PHONY : Solution502.o
+
+# target to build an object file
+Solution502.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution502.cpp.o
+.PHONY : Solution502.cpp.o
+
+Solution502.i: Solution502.cpp.i
+.PHONY : Solution502.i
+
+# target to preprocess a source file
+Solution502.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution502.cpp.i
+.PHONY : Solution502.cpp.i
+
+Solution502.s: Solution502.cpp.s
+.PHONY : Solution502.s
+
+# target to generate assembly for a file
+Solution502.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution502.cpp.s
+.PHONY : Solution502.cpp.s
+
+Solution504.o: Solution504.cpp.o
+.PHONY : Solution504.o
+
+# target to build an object file
+Solution504.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution504.cpp.o
+.PHONY : Solution504.cpp.o
+
+Solution504.i: Solution504.cpp.i
+.PHONY : Solution504.i
+
+# target to preprocess a source file
+Solution504.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution504.cpp.i
+.PHONY : Solution504.cpp.i
+
+Solution504.s: Solution504.cpp.s
+.PHONY : Solution504.s
+
+# target to generate assembly for a file
+Solution504.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution504.cpp.s
+.PHONY : Solution504.cpp.s
+
+Solution506.o: Solution506.cpp.o
+.PHONY : Solution506.o
+
+# target to build an object file
+Solution506.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution506.cpp.o
+.PHONY : Solution506.cpp.o
+
+Solution506.i: Solution506.cpp.i
+.PHONY : Solution506.i
+
+# target to preprocess a source file
+Solution506.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution506.cpp.i
+.PHONY : Solution506.cpp.i
+
+Solution506.s: Solution506.cpp.s
+.PHONY : Solution506.s
+
+# target to generate assembly for a file
+Solution506.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution506.cpp.s
+.PHONY : Solution506.cpp.s
+
+Solution507.o: Solution507.cpp.o
+.PHONY : Solution507.o
+
+# target to build an object file
+Solution507.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution507.cpp.o
+.PHONY : Solution507.cpp.o
+
+Solution507.i: Solution507.cpp.i
+.PHONY : Solution507.i
+
+# target to preprocess a source file
+Solution507.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution507.cpp.i
+.PHONY : Solution507.cpp.i
+
+Solution507.s: Solution507.cpp.s
+.PHONY : Solution507.s
+
+# target to generate assembly for a file
+Solution507.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution507.cpp.s
+.PHONY : Solution507.cpp.s
+
+Solution508.o: Solution508.cpp.o
+.PHONY : Solution508.o
+
+# target to build an object file
+Solution508.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution508.cpp.o
+.PHONY : Solution508.cpp.o
+
+Solution508.i: Solution508.cpp.i
+.PHONY : Solution508.i
+
+# target to preprocess a source file
+Solution508.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution508.cpp.i
+.PHONY : Solution508.cpp.i
+
+Solution508.s: Solution508.cpp.s
+.PHONY : Solution508.s
+
+# target to generate assembly for a file
+Solution508.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution508.cpp.s
+.PHONY : Solution508.cpp.s
+
+Solution516.o: Solution516.cpp.o
+.PHONY : Solution516.o
+
+# target to build an object file
+Solution516.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution516.cpp.o
+.PHONY : Solution516.cpp.o
+
+Solution516.i: Solution516.cpp.i
+.PHONY : Solution516.i
+
+# target to preprocess a source file
+Solution516.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution516.cpp.i
+.PHONY : Solution516.cpp.i
+
+Solution516.s: Solution516.cpp.s
+.PHONY : Solution516.s
+
+# target to generate assembly for a file
+Solution516.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution516.cpp.s
+.PHONY : Solution516.cpp.s
+
+Solution520.o: Solution520.cpp.o
+.PHONY : Solution520.o
+
+# target to build an object file
+Solution520.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution520.cpp.o
+.PHONY : Solution520.cpp.o
+
+Solution520.i: Solution520.cpp.i
+.PHONY : Solution520.i
+
+# target to preprocess a source file
+Solution520.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution520.cpp.i
+.PHONY : Solution520.cpp.i
+
+Solution520.s: Solution520.cpp.s
+.PHONY : Solution520.s
+
+# target to generate assembly for a file
+Solution520.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution520.cpp.s
+.PHONY : Solution520.cpp.s
+
+Solution521.o: Solution521.cpp.o
+.PHONY : Solution521.o
+
+# target to build an object file
+Solution521.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution521.cpp.o
+.PHONY : Solution521.cpp.o
+
+Solution521.i: Solution521.cpp.i
+.PHONY : Solution521.i
+
+# target to preprocess a source file
+Solution521.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution521.cpp.i
+.PHONY : Solution521.cpp.i
+
+Solution521.s: Solution521.cpp.s
+.PHONY : Solution521.s
+
+# target to generate assembly for a file
+Solution521.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution521.cpp.s
+.PHONY : Solution521.cpp.s
+
+Solution523.o: Solution523.cpp.o
+.PHONY : Solution523.o
+
+# target to build an object file
+Solution523.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution523.cpp.o
+.PHONY : Solution523.cpp.o
+
+Solution523.i: Solution523.cpp.i
+.PHONY : Solution523.i
+
+# target to preprocess a source file
+Solution523.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution523.cpp.i
+.PHONY : Solution523.cpp.i
+
+Solution523.s: Solution523.cpp.s
+.PHONY : Solution523.s
+
+# target to generate assembly for a file
+Solution523.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution523.cpp.s
+.PHONY : Solution523.cpp.s
+
+Solution524.o: Solution524.cpp.o
+.PHONY : Solution524.o
+
+# target to build an object file
+Solution524.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution524.cpp.o
+.PHONY : Solution524.cpp.o
+
+Solution524.i: Solution524.cpp.i
+.PHONY : Solution524.i
+
+# target to preprocess a source file
+Solution524.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution524.cpp.i
+.PHONY : Solution524.cpp.i
+
+Solution524.s: Solution524.cpp.s
+.PHONY : Solution524.s
+
+# target to generate assembly for a file
+Solution524.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution524.cpp.s
+.PHONY : Solution524.cpp.s
+
+Solution525.o: Solution525.cpp.o
+.PHONY : Solution525.o
+
+# target to build an object file
+Solution525.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution525.cpp.o
+.PHONY : Solution525.cpp.o
+
+Solution525.i: Solution525.cpp.i
+.PHONY : Solution525.i
+
+# target to preprocess a source file
+Solution525.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution525.cpp.i
+.PHONY : Solution525.cpp.i
+
+Solution525.s: Solution525.cpp.s
+.PHONY : Solution525.s
+
+# target to generate assembly for a file
+Solution525.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution525.cpp.s
+.PHONY : Solution525.cpp.s
+
+Solution526.o: Solution526.cpp.o
+.PHONY : Solution526.o
+
+# target to build an object file
+Solution526.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution526.cpp.o
+.PHONY : Solution526.cpp.o
+
+Solution526.i: Solution526.cpp.i
+.PHONY : Solution526.i
+
+# target to preprocess a source file
+Solution526.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution526.cpp.i
+.PHONY : Solution526.cpp.i
+
+Solution526.s: Solution526.cpp.s
+.PHONY : Solution526.s
+
+# target to generate assembly for a file
+Solution526.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution526.cpp.s
+.PHONY : Solution526.cpp.s
+
+Solution528.o: Solution528.cpp.o
+.PHONY : Solution528.o
+
+# target to build an object file
+Solution528.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution528.cpp.o
+.PHONY : Solution528.cpp.o
+
+Solution528.i: Solution528.cpp.i
+.PHONY : Solution528.i
+
+# target to preprocess a source file
+Solution528.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution528.cpp.i
+.PHONY : Solution528.cpp.i
+
+Solution528.s: Solution528.cpp.s
+.PHONY : Solution528.s
+
+# target to generate assembly for a file
+Solution528.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution528.cpp.s
+.PHONY : Solution528.cpp.s
+
+Solution539.o: Solution539.cpp.o
+.PHONY : Solution539.o
+
+# target to build an object file
+Solution539.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution539.cpp.o
+.PHONY : Solution539.cpp.o
+
+Solution539.i: Solution539.cpp.i
+.PHONY : Solution539.i
+
+# target to preprocess a source file
+Solution539.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution539.cpp.i
+.PHONY : Solution539.cpp.i
+
+Solution539.s: Solution539.cpp.s
+.PHONY : Solution539.s
+
+# target to generate assembly for a file
+Solution539.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution539.cpp.s
+.PHONY : Solution539.cpp.s
+
+Solution540.o: Solution540.cpp.o
+.PHONY : Solution540.o
+
+# target to build an object file
+Solution540.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution540.cpp.o
+.PHONY : Solution540.cpp.o
+
+Solution540.i: Solution540.cpp.i
+.PHONY : Solution540.i
+
+# target to preprocess a source file
+Solution540.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution540.cpp.i
+.PHONY : Solution540.cpp.i
+
+Solution540.s: Solution540.cpp.s
+.PHONY : Solution540.s
+
+# target to generate assembly for a file
+Solution540.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution540.cpp.s
+.PHONY : Solution540.cpp.s
+
+Solution541.o: Solution541.cpp.o
+.PHONY : Solution541.o
+
+# target to build an object file
+Solution541.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution541.cpp.o
+.PHONY : Solution541.cpp.o
+
+Solution541.i: Solution541.cpp.i
+.PHONY : Solution541.i
+
+# target to preprocess a source file
+Solution541.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution541.cpp.i
+.PHONY : Solution541.cpp.i
+
+Solution541.s: Solution541.cpp.s
+.PHONY : Solution541.s
+
+# target to generate assembly for a file
+Solution541.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution541.cpp.s
+.PHONY : Solution541.cpp.s
+
+Solution551.o: Solution551.cpp.o
+.PHONY : Solution551.o
+
+# target to build an object file
+Solution551.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution551.cpp.o
+.PHONY : Solution551.cpp.o
+
+Solution551.i: Solution551.cpp.i
+.PHONY : Solution551.i
+
+# target to preprocess a source file
+Solution551.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution551.cpp.i
+.PHONY : Solution551.cpp.i
+
+Solution551.s: Solution551.cpp.s
+.PHONY : Solution551.s
+
+# target to generate assembly for a file
+Solution551.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution551.cpp.s
+.PHONY : Solution551.cpp.s
+
+Solution552.o: Solution552.cpp.o
+.PHONY : Solution552.o
+
+# target to build an object file
+Solution552.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution552.cpp.o
+.PHONY : Solution552.cpp.o
+
+Solution552.i: Solution552.cpp.i
+.PHONY : Solution552.i
+
+# target to preprocess a source file
+Solution552.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution552.cpp.i
+.PHONY : Solution552.cpp.i
+
+Solution552.s: Solution552.cpp.s
+.PHONY : Solution552.s
+
+# target to generate assembly for a file
+Solution552.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution552.cpp.s
+.PHONY : Solution552.cpp.s
+
+Solution559.o: Solution559.cpp.o
+.PHONY : Solution559.o
+
+# target to build an object file
+Solution559.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution559.cpp.o
+.PHONY : Solution559.cpp.o
+
+Solution559.i: Solution559.cpp.i
+.PHONY : Solution559.i
+
+# target to preprocess a source file
+Solution559.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution559.cpp.i
+.PHONY : Solution559.cpp.i
+
+Solution559.s: Solution559.cpp.s
+.PHONY : Solution559.s
+
+# target to generate assembly for a file
+Solution559.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution559.cpp.s
+.PHONY : Solution559.cpp.s
+
+Solution563.o: Solution563.cpp.o
+.PHONY : Solution563.o
+
+# target to build an object file
+Solution563.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution563.cpp.o
+.PHONY : Solution563.cpp.o
+
+Solution563.i: Solution563.cpp.i
+.PHONY : Solution563.i
+
+# target to preprocess a source file
+Solution563.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution563.cpp.i
+.PHONY : Solution563.cpp.i
+
+Solution563.s: Solution563.cpp.s
+.PHONY : Solution563.s
+
+# target to generate assembly for a file
+Solution563.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution563.cpp.s
+.PHONY : Solution563.cpp.s
+
+Solution575.o: Solution575.cpp.o
+.PHONY : Solution575.o
+
+# target to build an object file
+Solution575.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution575.cpp.o
+.PHONY : Solution575.cpp.o
+
+Solution575.i: Solution575.cpp.i
+.PHONY : Solution575.i
+
+# target to preprocess a source file
+Solution575.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution575.cpp.i
+.PHONY : Solution575.cpp.i
+
+Solution575.s: Solution575.cpp.s
+.PHONY : Solution575.s
+
+# target to generate assembly for a file
+Solution575.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution575.cpp.s
+.PHONY : Solution575.cpp.s
+
+Solution576.o: Solution576.cpp.o
+.PHONY : Solution576.o
+
+# target to build an object file
+Solution576.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution576.cpp.o
+.PHONY : Solution576.cpp.o
+
+Solution576.i: Solution576.cpp.i
+.PHONY : Solution576.i
+
+# target to preprocess a source file
+Solution576.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution576.cpp.i
+.PHONY : Solution576.cpp.i
+
+Solution576.s: Solution576.cpp.s
+.PHONY : Solution576.s
+
+# target to generate assembly for a file
+Solution576.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution576.cpp.s
+.PHONY : Solution576.cpp.s
+
+Solution58.o: Solution58.cpp.o
+.PHONY : Solution58.o
+
+# target to build an object file
+Solution58.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution58.cpp.o
+.PHONY : Solution58.cpp.o
+
+Solution58.i: Solution58.cpp.i
+.PHONY : Solution58.i
+
+# target to preprocess a source file
+Solution58.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution58.cpp.i
+.PHONY : Solution58.cpp.i
+
+Solution58.s: Solution58.cpp.s
+.PHONY : Solution58.s
+
+# target to generate assembly for a file
+Solution58.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution58.cpp.s
+.PHONY : Solution58.cpp.s
+
+Solution581.o: Solution581.cpp.o
+.PHONY : Solution581.o
+
+# target to build an object file
+Solution581.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution581.cpp.o
+.PHONY : Solution581.cpp.o
+
+Solution581.i: Solution581.cpp.i
+.PHONY : Solution581.i
+
+# target to preprocess a source file
+Solution581.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution581.cpp.i
+.PHONY : Solution581.cpp.i
+
+Solution581.s: Solution581.cpp.s
+.PHONY : Solution581.s
+
+# target to generate assembly for a file
+Solution581.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution581.cpp.s
+.PHONY : Solution581.cpp.s
+
+Solution583.o: Solution583.cpp.o
+.PHONY : Solution583.o
+
+# target to build an object file
+Solution583.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution583.cpp.o
+.PHONY : Solution583.cpp.o
+
+Solution583.i: Solution583.cpp.i
+.PHONY : Solution583.i
+
+# target to preprocess a source file
+Solution583.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution583.cpp.i
+.PHONY : Solution583.cpp.i
+
+Solution583.s: Solution583.cpp.s
+.PHONY : Solution583.s
+
+# target to generate assembly for a file
+Solution583.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution583.cpp.s
+.PHONY : Solution583.cpp.s
+
+Solution594.o: Solution594.cpp.o
+.PHONY : Solution594.o
+
+# target to build an object file
+Solution594.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution594.cpp.o
+.PHONY : Solution594.cpp.o
+
+Solution594.i: Solution594.cpp.i
+.PHONY : Solution594.i
+
+# target to preprocess a source file
+Solution594.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution594.cpp.i
+.PHONY : Solution594.cpp.i
+
+Solution594.s: Solution594.cpp.s
+.PHONY : Solution594.s
+
+# target to generate assembly for a file
+Solution594.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution594.cpp.s
+.PHONY : Solution594.cpp.s
+
+Solution599.o: Solution599.cpp.o
+.PHONY : Solution599.o
+
+# target to build an object file
+Solution599.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution599.cpp.o
+.PHONY : Solution599.cpp.o
+
+Solution599.i: Solution599.cpp.i
+.PHONY : Solution599.i
+
+# target to preprocess a source file
+Solution599.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution599.cpp.i
+.PHONY : Solution599.cpp.i
+
+Solution599.s: Solution599.cpp.s
+.PHONY : Solution599.s
+
+# target to generate assembly for a file
+Solution599.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution599.cpp.s
+.PHONY : Solution599.cpp.s
 
 Solution61.o: Solution61.cpp.o
 .PHONY : Solution61.o
@@ -369,6 +5745,606 @@ Solution61.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution61.cpp.s
 .PHONY : Solution61.cpp.s
 
+Solution611.o: Solution611.cpp.o
+.PHONY : Solution611.o
+
+# target to build an object file
+Solution611.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution611.cpp.o
+.PHONY : Solution611.cpp.o
+
+Solution611.i: Solution611.cpp.i
+.PHONY : Solution611.i
+
+# target to preprocess a source file
+Solution611.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution611.cpp.i
+.PHONY : Solution611.cpp.i
+
+Solution611.s: Solution611.cpp.s
+.PHONY : Solution611.s
+
+# target to generate assembly for a file
+Solution611.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution611.cpp.s
+.PHONY : Solution611.cpp.s
+
+Solution629.o: Solution629.cpp.o
+.PHONY : Solution629.o
+
+# target to build an object file
+Solution629.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution629.cpp.o
+.PHONY : Solution629.cpp.o
+
+Solution629.i: Solution629.cpp.i
+.PHONY : Solution629.i
+
+# target to preprocess a source file
+Solution629.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution629.cpp.i
+.PHONY : Solution629.cpp.i
+
+Solution629.s: Solution629.cpp.s
+.PHONY : Solution629.s
+
+# target to generate assembly for a file
+Solution629.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution629.cpp.s
+.PHONY : Solution629.cpp.s
+
+Solution630.o: Solution630.cpp.o
+.PHONY : Solution630.o
+
+# target to build an object file
+Solution630.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution630.cpp.o
+.PHONY : Solution630.cpp.o
+
+Solution630.i: Solution630.cpp.i
+.PHONY : Solution630.i
+
+# target to preprocess a source file
+Solution630.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution630.cpp.i
+.PHONY : Solution630.cpp.i
+
+Solution630.s: Solution630.cpp.s
+.PHONY : Solution630.s
+
+# target to generate assembly for a file
+Solution630.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution630.cpp.s
+.PHONY : Solution630.cpp.s
+
+Solution633.o: Solution633.cpp.o
+.PHONY : Solution633.o
+
+# target to build an object file
+Solution633.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution633.cpp.o
+.PHONY : Solution633.cpp.o
+
+Solution633.i: Solution633.cpp.i
+.PHONY : Solution633.i
+
+# target to preprocess a source file
+Solution633.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution633.cpp.i
+.PHONY : Solution633.cpp.i
+
+Solution633.s: Solution633.cpp.s
+.PHONY : Solution633.s
+
+# target to generate assembly for a file
+Solution633.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution633.cpp.s
+.PHONY : Solution633.cpp.s
+
+Solution638.o: Solution638.cpp.o
+.PHONY : Solution638.o
+
+# target to build an object file
+Solution638.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution638.cpp.o
+.PHONY : Solution638.cpp.o
+
+Solution638.i: Solution638.cpp.i
+.PHONY : Solution638.i
+
+# target to preprocess a source file
+Solution638.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution638.cpp.i
+.PHONY : Solution638.cpp.i
+
+Solution638.s: Solution638.cpp.s
+.PHONY : Solution638.s
+
+# target to generate assembly for a file
+Solution638.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution638.cpp.s
+.PHONY : Solution638.cpp.s
+
+Solution645.o: Solution645.cpp.o
+.PHONY : Solution645.o
+
+# target to build an object file
+Solution645.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution645.cpp.o
+.PHONY : Solution645.cpp.o
+
+Solution645.i: Solution645.cpp.i
+.PHONY : Solution645.i
+
+# target to preprocess a source file
+Solution645.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution645.cpp.i
+.PHONY : Solution645.cpp.i
+
+Solution645.s: Solution645.cpp.s
+.PHONY : Solution645.s
+
+# target to generate assembly for a file
+Solution645.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution645.cpp.s
+.PHONY : Solution645.cpp.s
+
+Solution65.o: Solution65.cpp.o
+.PHONY : Solution65.o
+
+# target to build an object file
+Solution65.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution65.cpp.o
+.PHONY : Solution65.cpp.o
+
+Solution65.i: Solution65.cpp.i
+.PHONY : Solution65.i
+
+# target to preprocess a source file
+Solution65.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution65.cpp.i
+.PHONY : Solution65.cpp.i
+
+Solution65.s: Solution65.cpp.s
+.PHONY : Solution65.s
+
+# target to generate assembly for a file
+Solution65.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution65.cpp.s
+.PHONY : Solution65.cpp.s
+
+Solution650.o: Solution650.cpp.o
+.PHONY : Solution650.o
+
+# target to build an object file
+Solution650.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution650.cpp.o
+.PHONY : Solution650.cpp.o
+
+Solution650.i: Solution650.cpp.i
+.PHONY : Solution650.i
+
+# target to preprocess a source file
+Solution650.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution650.cpp.i
+.PHONY : Solution650.cpp.i
+
+Solution650.s: Solution650.cpp.s
+.PHONY : Solution650.s
+
+# target to generate assembly for a file
+Solution650.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution650.cpp.s
+.PHONY : Solution650.cpp.s
+
+Solution66.o: Solution66.cpp.o
+.PHONY : Solution66.o
+
+# target to build an object file
+Solution66.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution66.cpp.o
+.PHONY : Solution66.cpp.o
+
+Solution66.i: Solution66.cpp.i
+.PHONY : Solution66.i
+
+# target to preprocess a source file
+Solution66.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution66.cpp.i
+.PHONY : Solution66.cpp.i
+
+Solution66.s: Solution66.cpp.s
+.PHONY : Solution66.s
+
+# target to generate assembly for a file
+Solution66.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution66.cpp.s
+.PHONY : Solution66.cpp.s
+
+Solution664.o: Solution664.cpp.o
+.PHONY : Solution664.o
+
+# target to build an object file
+Solution664.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution664.cpp.o
+.PHONY : Solution664.cpp.o
+
+Solution664.i: Solution664.cpp.i
+.PHONY : Solution664.i
+
+# target to preprocess a source file
+Solution664.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution664.cpp.i
+.PHONY : Solution664.cpp.i
+
+Solution664.s: Solution664.cpp.s
+.PHONY : Solution664.s
+
+# target to generate assembly for a file
+Solution664.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution664.cpp.s
+.PHONY : Solution664.cpp.s
+
+Solution671.o: Solution671.cpp.o
+.PHONY : Solution671.o
+
+# target to build an object file
+Solution671.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution671.cpp.o
+.PHONY : Solution671.cpp.o
+
+Solution671.i: Solution671.cpp.i
+.PHONY : Solution671.i
+
+# target to preprocess a source file
+Solution671.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution671.cpp.i
+.PHONY : Solution671.cpp.i
+
+Solution671.s: Solution671.cpp.s
+.PHONY : Solution671.s
+
+# target to generate assembly for a file
+Solution671.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution671.cpp.s
+.PHONY : Solution671.cpp.s
+
+Solution673.o: Solution673.cpp.o
+.PHONY : Solution673.o
+
+# target to build an object file
+Solution673.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution673.cpp.o
+.PHONY : Solution673.cpp.o
+
+Solution673.i: Solution673.cpp.i
+.PHONY : Solution673.i
+
+# target to preprocess a source file
+Solution673.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution673.cpp.i
+.PHONY : Solution673.cpp.i
+
+Solution673.s: Solution673.cpp.s
+.PHONY : Solution673.s
+
+# target to generate assembly for a file
+Solution673.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution673.cpp.s
+.PHONY : Solution673.cpp.s
+
+Solution677.o: Solution677.cpp.o
+.PHONY : Solution677.o
+
+# target to build an object file
+Solution677.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution677.cpp.o
+.PHONY : Solution677.cpp.o
+
+Solution677.i: Solution677.cpp.i
+.PHONY : Solution677.i
+
+# target to preprocess a source file
+Solution677.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution677.cpp.i
+.PHONY : Solution677.cpp.i
+
+Solution677.s: Solution677.cpp.s
+.PHONY : Solution677.s
+
+# target to generate assembly for a file
+Solution677.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution677.cpp.s
+.PHONY : Solution677.cpp.s
+
+Solution678.o: Solution678.cpp.o
+.PHONY : Solution678.o
+
+# target to build an object file
+Solution678.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution678.cpp.o
+.PHONY : Solution678.cpp.o
+
+Solution678.i: Solution678.cpp.i
+.PHONY : Solution678.i
+
+# target to preprocess a source file
+Solution678.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution678.cpp.i
+.PHONY : Solution678.cpp.i
+
+Solution678.s: Solution678.cpp.s
+.PHONY : Solution678.s
+
+# target to generate assembly for a file
+Solution678.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution678.cpp.s
+.PHONY : Solution678.cpp.s
+
+Solution68.o: Solution68.cpp.o
+.PHONY : Solution68.o
+
+# target to build an object file
+Solution68.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution68.cpp.o
+.PHONY : Solution68.cpp.o
+
+Solution68.i: Solution68.cpp.i
+.PHONY : Solution68.i
+
+# target to preprocess a source file
+Solution68.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution68.cpp.i
+.PHONY : Solution68.cpp.i
+
+Solution68.s: Solution68.cpp.s
+.PHONY : Solution68.s
+
+# target to generate assembly for a file
+Solution68.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution68.cpp.s
+.PHONY : Solution68.cpp.s
+
+Solution688.o: Solution688.cpp.o
+.PHONY : Solution688.o
+
+# target to build an object file
+Solution688.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution688.cpp.o
+.PHONY : Solution688.cpp.o
+
+Solution688.i: Solution688.cpp.i
+.PHONY : Solution688.i
+
+# target to preprocess a source file
+Solution688.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution688.cpp.i
+.PHONY : Solution688.cpp.i
+
+Solution688.s: Solution688.cpp.s
+.PHONY : Solution688.s
+
+# target to generate assembly for a file
+Solution688.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution688.cpp.s
+.PHONY : Solution688.cpp.s
+
+Solution689.o: Solution689.cpp.o
+.PHONY : Solution689.o
+
+# target to build an object file
+Solution689.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution689.cpp.o
+.PHONY : Solution689.cpp.o
+
+Solution689.i: Solution689.cpp.i
+.PHONY : Solution689.i
+
+# target to preprocess a source file
+Solution689.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution689.cpp.i
+.PHONY : Solution689.cpp.i
+
+Solution689.s: Solution689.cpp.s
+.PHONY : Solution689.s
+
+# target to generate assembly for a file
+Solution689.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution689.cpp.s
+.PHONY : Solution689.cpp.s
+
+Solution692.o: Solution692.cpp.o
+.PHONY : Solution692.o
+
+# target to build an object file
+Solution692.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution692.cpp.o
+.PHONY : Solution692.cpp.o
+
+Solution692.i: Solution692.cpp.i
+.PHONY : Solution692.i
+
+# target to preprocess a source file
+Solution692.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution692.cpp.i
+.PHONY : Solution692.cpp.i
+
+Solution692.s: Solution692.cpp.s
+.PHONY : Solution692.s
+
+# target to generate assembly for a file
+Solution692.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution692.cpp.s
+.PHONY : Solution692.cpp.s
+
+Solution700.o: Solution700.cpp.o
+.PHONY : Solution700.o
+
+# target to build an object file
+Solution700.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution700.cpp.o
+.PHONY : Solution700.cpp.o
+
+Solution700.i: Solution700.cpp.i
+.PHONY : Solution700.i
+
+# target to preprocess a source file
+Solution700.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution700.cpp.i
+.PHONY : Solution700.cpp.i
+
+Solution700.s: Solution700.cpp.s
+.PHONY : Solution700.s
+
+# target to generate assembly for a file
+Solution700.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution700.cpp.s
+.PHONY : Solution700.cpp.s
+
+Solution704.o: Solution704.cpp.o
+.PHONY : Solution704.o
+
+# target to build an object file
+Solution704.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution704.cpp.o
+.PHONY : Solution704.cpp.o
+
+Solution704.i: Solution704.cpp.i
+.PHONY : Solution704.i
+
+# target to preprocess a source file
+Solution704.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution704.cpp.i
+.PHONY : Solution704.cpp.i
+
+Solution704.s: Solution704.cpp.s
+.PHONY : Solution704.s
+
+# target to generate assembly for a file
+Solution704.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution704.cpp.s
+.PHONY : Solution704.cpp.s
+
+Solution709.o: Solution709.cpp.o
+.PHONY : Solution709.o
+
+# target to build an object file
+Solution709.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution709.cpp.o
+.PHONY : Solution709.cpp.o
+
+Solution709.i: Solution709.cpp.i
+.PHONY : Solution709.i
+
+# target to preprocess a source file
+Solution709.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution709.cpp.i
+.PHONY : Solution709.cpp.i
+
+Solution709.s: Solution709.cpp.s
+.PHONY : Solution709.s
+
+# target to generate assembly for a file
+Solution709.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution709.cpp.s
+.PHONY : Solution709.cpp.s
+
+Solution71.o: Solution71.cpp.o
+.PHONY : Solution71.o
+
+# target to build an object file
+Solution71.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution71.cpp.o
+.PHONY : Solution71.cpp.o
+
+Solution71.i: Solution71.cpp.i
+.PHONY : Solution71.i
+
+# target to preprocess a source file
+Solution71.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution71.cpp.i
+.PHONY : Solution71.cpp.i
+
+Solution71.s: Solution71.cpp.s
+.PHONY : Solution71.s
+
+# target to generate assembly for a file
+Solution71.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution71.cpp.s
+.PHONY : Solution71.cpp.s
+
+Solution717.o: Solution717.cpp.o
+.PHONY : Solution717.o
+
+# target to build an object file
+Solution717.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution717.cpp.o
+.PHONY : Solution717.cpp.o
+
+Solution717.i: Solution717.cpp.i
+.PHONY : Solution717.i
+
+# target to preprocess a source file
+Solution717.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution717.cpp.i
+.PHONY : Solution717.cpp.i
+
+Solution717.s: Solution717.cpp.s
+.PHONY : Solution717.s
+
+# target to generate assembly for a file
+Solution717.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution717.cpp.s
+.PHONY : Solution717.cpp.s
+
+Solution725.o: Solution725.cpp.o
+.PHONY : Solution725.o
+
+# target to build an object file
+Solution725.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution725.cpp.o
+.PHONY : Solution725.cpp.o
+
+Solution725.i: Solution725.cpp.i
+.PHONY : Solution725.i
+
+# target to preprocess a source file
+Solution725.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution725.cpp.i
+.PHONY : Solution725.cpp.i
+
+Solution725.s: Solution725.cpp.s
+.PHONY : Solution725.s
+
+# target to generate assembly for a file
+Solution725.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution725.cpp.s
+.PHONY : Solution725.cpp.s
+
+Solution726.o: Solution726.cpp.o
+.PHONY : Solution726.o
+
+# target to build an object file
+Solution726.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution726.cpp.o
+.PHONY : Solution726.cpp.o
+
+Solution726.i: Solution726.cpp.i
+.PHONY : Solution726.i
+
+# target to preprocess a source file
+Solution726.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution726.cpp.i
+.PHONY : Solution726.cpp.i
+
+Solution726.s: Solution726.cpp.s
+.PHONY : Solution726.s
+
+# target to generate assembly for a file
+Solution726.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution726.cpp.s
+.PHONY : Solution726.cpp.s
+
 Solution73.o: Solution73.cpp.o
 .PHONY : Solution73.o
 
@@ -392,6 +6368,414 @@ Solution73.s: Solution73.cpp.s
 Solution73.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution73.cpp.s
 .PHONY : Solution73.cpp.s
+
+Solution74.o: Solution74.cpp.o
+.PHONY : Solution74.o
+
+# target to build an object file
+Solution74.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution74.cpp.o
+.PHONY : Solution74.cpp.o
+
+Solution74.i: Solution74.cpp.i
+.PHONY : Solution74.i
+
+# target to preprocess a source file
+Solution74.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution74.cpp.i
+.PHONY : Solution74.cpp.i
+
+Solution74.s: Solution74.cpp.s
+.PHONY : Solution74.s
+
+# target to generate assembly for a file
+Solution74.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution74.cpp.s
+.PHONY : Solution74.cpp.s
+
+Solution743.o: Solution743.cpp.o
+.PHONY : Solution743.o
+
+# target to build an object file
+Solution743.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution743.cpp.o
+.PHONY : Solution743.cpp.o
+
+Solution743.i: Solution743.cpp.i
+.PHONY : Solution743.i
+
+# target to preprocess a source file
+Solution743.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution743.cpp.i
+.PHONY : Solution743.cpp.i
+
+Solution743.s: Solution743.cpp.s
+.PHONY : Solution743.s
+
+# target to generate assembly for a file
+Solution743.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution743.cpp.s
+.PHONY : Solution743.cpp.s
+
+Solution747.o: Solution747.cpp.o
+.PHONY : Solution747.o
+
+# target to build an object file
+Solution747.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution747.cpp.o
+.PHONY : Solution747.cpp.o
+
+Solution747.i: Solution747.cpp.i
+.PHONY : Solution747.i
+
+# target to preprocess a source file
+Solution747.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution747.cpp.i
+.PHONY : Solution747.cpp.i
+
+Solution747.s: Solution747.cpp.s
+.PHONY : Solution747.s
+
+# target to generate assembly for a file
+Solution747.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution747.cpp.s
+.PHONY : Solution747.cpp.s
+
+Solution748.o: Solution748.cpp.o
+.PHONY : Solution748.o
+
+# target to build an object file
+Solution748.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution748.cpp.o
+.PHONY : Solution748.cpp.o
+
+Solution748.i: Solution748.cpp.i
+.PHONY : Solution748.i
+
+# target to preprocess a source file
+Solution748.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution748.cpp.i
+.PHONY : Solution748.cpp.i
+
+Solution748.s: Solution748.cpp.s
+.PHONY : Solution748.s
+
+# target to generate assembly for a file
+Solution748.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution748.cpp.s
+.PHONY : Solution748.cpp.s
+
+Solution781.o: Solution781.cpp.o
+.PHONY : Solution781.o
+
+# target to build an object file
+Solution781.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution781.cpp.o
+.PHONY : Solution781.cpp.o
+
+Solution781.i: Solution781.cpp.i
+.PHONY : Solution781.i
+
+# target to preprocess a source file
+Solution781.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution781.cpp.i
+.PHONY : Solution781.cpp.i
+
+Solution781.s: Solution781.cpp.s
+.PHONY : Solution781.s
+
+# target to generate assembly for a file
+Solution781.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution781.cpp.s
+.PHONY : Solution781.cpp.s
+
+Solution783.o: Solution783.cpp.o
+.PHONY : Solution783.o
+
+# target to build an object file
+Solution783.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution783.cpp.o
+.PHONY : Solution783.cpp.o
+
+Solution783.i: Solution783.cpp.i
+.PHONY : Solution783.i
+
+# target to preprocess a source file
+Solution783.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution783.cpp.i
+.PHONY : Solution783.cpp.i
+
+Solution783.s: Solution783.cpp.s
+.PHONY : Solution783.s
+
+# target to generate assembly for a file
+Solution783.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution783.cpp.s
+.PHONY : Solution783.cpp.s
+
+Solution786.o: Solution786.cpp.o
+.PHONY : Solution786.o
+
+# target to build an object file
+Solution786.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution786.cpp.o
+.PHONY : Solution786.cpp.o
+
+Solution786.i: Solution786.cpp.i
+.PHONY : Solution786.i
+
+# target to preprocess a source file
+Solution786.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution786.cpp.i
+.PHONY : Solution786.cpp.i
+
+Solution786.s: Solution786.cpp.s
+.PHONY : Solution786.s
+
+# target to generate assembly for a file
+Solution786.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution786.cpp.s
+.PHONY : Solution786.cpp.s
+
+Solution787.o: Solution787.cpp.o
+.PHONY : Solution787.o
+
+# target to build an object file
+Solution787.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution787.cpp.o
+.PHONY : Solution787.cpp.o
+
+Solution787.i: Solution787.cpp.i
+.PHONY : Solution787.i
+
+# target to preprocess a source file
+Solution787.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution787.cpp.i
+.PHONY : Solution787.cpp.i
+
+Solution787.s: Solution787.cpp.s
+.PHONY : Solution787.s
+
+# target to generate assembly for a file
+Solution787.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution787.cpp.s
+.PHONY : Solution787.cpp.s
+
+Solution789.o: Solution789.cpp.o
+.PHONY : Solution789.o
+
+# target to build an object file
+Solution789.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution789.cpp.o
+.PHONY : Solution789.cpp.o
+
+Solution789.i: Solution789.cpp.i
+.PHONY : Solution789.i
+
+# target to preprocess a source file
+Solution789.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution789.cpp.i
+.PHONY : Solution789.cpp.i
+
+Solution789.s: Solution789.cpp.s
+.PHONY : Solution789.s
+
+# target to generate assembly for a file
+Solution789.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution789.cpp.s
+.PHONY : Solution789.cpp.s
+
+Solution794.o: Solution794.cpp.o
+.PHONY : Solution794.o
+
+# target to build an object file
+Solution794.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution794.cpp.o
+.PHONY : Solution794.cpp.o
+
+Solution794.i: Solution794.cpp.i
+.PHONY : Solution794.i
+
+# target to preprocess a source file
+Solution794.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution794.cpp.i
+.PHONY : Solution794.cpp.i
+
+Solution794.s: Solution794.cpp.s
+.PHONY : Solution794.s
+
+# target to generate assembly for a file
+Solution794.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution794.cpp.s
+.PHONY : Solution794.cpp.s
+
+Solution797.o: Solution797.cpp.o
+.PHONY : Solution797.o
+
+# target to build an object file
+Solution797.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution797.cpp.o
+.PHONY : Solution797.cpp.o
+
+Solution797.i: Solution797.cpp.i
+.PHONY : Solution797.i
+
+# target to preprocess a source file
+Solution797.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution797.cpp.i
+.PHONY : Solution797.cpp.i
+
+Solution797.s: Solution797.cpp.s
+.PHONY : Solution797.s
+
+# target to generate assembly for a file
+Solution797.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution797.cpp.s
+.PHONY : Solution797.cpp.s
+
+Solution80.o: Solution80.cpp.o
+.PHONY : Solution80.o
+
+# target to build an object file
+Solution80.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution80.cpp.o
+.PHONY : Solution80.cpp.o
+
+Solution80.i: Solution80.cpp.i
+.PHONY : Solution80.i
+
+# target to preprocess a source file
+Solution80.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution80.cpp.i
+.PHONY : Solution80.cpp.i
+
+Solution80.s: Solution80.cpp.s
+.PHONY : Solution80.s
+
+# target to generate assembly for a file
+Solution80.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution80.cpp.s
+.PHONY : Solution80.cpp.s
+
+Solution802.o: Solution802.cpp.o
+.PHONY : Solution802.o
+
+# target to build an object file
+Solution802.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution802.cpp.o
+.PHONY : Solution802.cpp.o
+
+Solution802.i: Solution802.cpp.i
+.PHONY : Solution802.i
+
+# target to preprocess a source file
+Solution802.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution802.cpp.i
+.PHONY : Solution802.cpp.i
+
+Solution802.s: Solution802.cpp.s
+.PHONY : Solution802.s
+
+# target to generate assembly for a file
+Solution802.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution802.cpp.s
+.PHONY : Solution802.cpp.s
+
+Solution807.o: Solution807.cpp.o
+.PHONY : Solution807.o
+
+# target to build an object file
+Solution807.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution807.cpp.o
+.PHONY : Solution807.cpp.o
+
+Solution807.i: Solution807.cpp.i
+.PHONY : Solution807.i
+
+# target to preprocess a source file
+Solution807.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution807.cpp.i
+.PHONY : Solution807.cpp.i
+
+Solution807.s: Solution807.cpp.s
+.PHONY : Solution807.s
+
+# target to generate assembly for a file
+Solution807.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution807.cpp.s
+.PHONY : Solution807.cpp.s
+
+Solution81.o: Solution81.cpp.o
+.PHONY : Solution81.o
+
+# target to build an object file
+Solution81.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution81.cpp.o
+.PHONY : Solution81.cpp.o
+
+Solution81.i: Solution81.cpp.i
+.PHONY : Solution81.i
+
+# target to preprocess a source file
+Solution81.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution81.cpp.i
+.PHONY : Solution81.cpp.i
+
+Solution81.s: Solution81.cpp.s
+.PHONY : Solution81.s
+
+# target to generate assembly for a file
+Solution81.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution81.cpp.s
+.PHONY : Solution81.cpp.s
+
+Solution815.o: Solution815.cpp.o
+.PHONY : Solution815.o
+
+# target to build an object file
+Solution815.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution815.cpp.o
+.PHONY : Solution815.cpp.o
+
+Solution815.i: Solution815.cpp.i
+.PHONY : Solution815.i
+
+# target to preprocess a source file
+Solution815.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution815.cpp.i
+.PHONY : Solution815.cpp.i
+
+Solution815.s: Solution815.cpp.s
+.PHONY : Solution815.s
+
+# target to generate assembly for a file
+Solution815.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution815.cpp.s
+.PHONY : Solution815.cpp.s
+
+Solution825.o: Solution825.cpp.o
+.PHONY : Solution825.o
+
+# target to build an object file
+Solution825.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution825.cpp.o
+.PHONY : Solution825.cpp.o
+
+Solution825.i: Solution825.cpp.i
+.PHONY : Solution825.i
+
+# target to preprocess a source file
+Solution825.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution825.cpp.i
+.PHONY : Solution825.cpp.i
+
+Solution825.s: Solution825.cpp.s
+.PHONY : Solution825.s
+
+# target to generate assembly for a file
+Solution825.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution825.cpp.s
+.PHONY : Solution825.cpp.s
 
 Solution83.o: Solution83.cpp.o
 .PHONY : Solution83.o
@@ -417,6 +6801,414 @@ Solution83.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution83.cpp.s
 .PHONY : Solution83.cpp.s
 
+Solution846.o: Solution846.cpp.o
+.PHONY : Solution846.o
+
+# target to build an object file
+Solution846.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution846.cpp.o
+.PHONY : Solution846.cpp.o
+
+Solution846.i: Solution846.cpp.i
+.PHONY : Solution846.i
+
+# target to preprocess a source file
+Solution846.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution846.cpp.i
+.PHONY : Solution846.cpp.i
+
+Solution846.s: Solution846.cpp.s
+.PHONY : Solution846.s
+
+# target to generate assembly for a file
+Solution846.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution846.cpp.s
+.PHONY : Solution846.cpp.s
+
+Solution851.o: Solution851.cpp.o
+.PHONY : Solution851.o
+
+# target to build an object file
+Solution851.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution851.cpp.o
+.PHONY : Solution851.cpp.o
+
+Solution851.i: Solution851.cpp.i
+.PHONY : Solution851.i
+
+# target to preprocess a source file
+Solution851.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution851.cpp.i
+.PHONY : Solution851.cpp.i
+
+Solution851.s: Solution851.cpp.s
+.PHONY : Solution851.s
+
+# target to generate assembly for a file
+Solution851.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution851.cpp.s
+.PHONY : Solution851.cpp.s
+
+Solution852.o: Solution852.cpp.o
+.PHONY : Solution852.o
+
+# target to build an object file
+Solution852.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution852.cpp.o
+.PHONY : Solution852.cpp.o
+
+Solution852.i: Solution852.cpp.i
+.PHONY : Solution852.i
+
+# target to preprocess a source file
+Solution852.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution852.cpp.i
+.PHONY : Solution852.cpp.i
+
+Solution852.s: Solution852.cpp.s
+.PHONY : Solution852.s
+
+# target to generate assembly for a file
+Solution852.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution852.cpp.s
+.PHONY : Solution852.cpp.s
+
+Solution859.o: Solution859.cpp.o
+.PHONY : Solution859.o
+
+# target to build an object file
+Solution859.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution859.cpp.o
+.PHONY : Solution859.cpp.o
+
+Solution859.i: Solution859.cpp.i
+.PHONY : Solution859.i
+
+# target to preprocess a source file
+Solution859.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution859.cpp.i
+.PHONY : Solution859.cpp.i
+
+Solution859.s: Solution859.cpp.s
+.PHONY : Solution859.s
+
+# target to generate assembly for a file
+Solution859.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution859.cpp.s
+.PHONY : Solution859.cpp.s
+
+Solution863.o: Solution863.cpp.o
+.PHONY : Solution863.o
+
+# target to build an object file
+Solution863.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution863.cpp.o
+.PHONY : Solution863.cpp.o
+
+Solution863.i: Solution863.cpp.i
+.PHONY : Solution863.i
+
+# target to preprocess a source file
+Solution863.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution863.cpp.i
+.PHONY : Solution863.cpp.i
+
+Solution863.s: Solution863.cpp.s
+.PHONY : Solution863.s
+
+# target to generate assembly for a file
+Solution863.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution863.cpp.s
+.PHONY : Solution863.cpp.s
+
+Solution869.o: Solution869.cpp.o
+.PHONY : Solution869.o
+
+# target to build an object file
+Solution869.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution869.cpp.o
+.PHONY : Solution869.cpp.o
+
+Solution869.i: Solution869.cpp.i
+.PHONY : Solution869.i
+
+# target to preprocess a source file
+Solution869.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution869.cpp.i
+.PHONY : Solution869.cpp.i
+
+Solution869.s: Solution869.cpp.s
+.PHONY : Solution869.s
+
+# target to generate assembly for a file
+Solution869.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution869.cpp.s
+.PHONY : Solution869.cpp.s
+
+Solution872.o: Solution872.cpp.o
+.PHONY : Solution872.o
+
+# target to build an object file
+Solution872.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution872.cpp.o
+.PHONY : Solution872.cpp.o
+
+Solution872.i: Solution872.cpp.i
+.PHONY : Solution872.i
+
+# target to preprocess a source file
+Solution872.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution872.cpp.i
+.PHONY : Solution872.cpp.i
+
+Solution872.s: Solution872.cpp.s
+.PHONY : Solution872.s
+
+# target to generate assembly for a file
+Solution872.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution872.cpp.s
+.PHONY : Solution872.cpp.s
+
+Solution877.o: Solution877.cpp.o
+.PHONY : Solution877.o
+
+# target to build an object file
+Solution877.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution877.cpp.o
+.PHONY : Solution877.cpp.o
+
+Solution877.i: Solution877.cpp.i
+.PHONY : Solution877.i
+
+# target to preprocess a source file
+Solution877.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution877.cpp.i
+.PHONY : Solution877.cpp.i
+
+Solution877.s: Solution877.cpp.s
+.PHONY : Solution877.s
+
+# target to generate assembly for a file
+Solution877.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution877.cpp.s
+.PHONY : Solution877.cpp.s
+
+Solution879.o: Solution879.cpp.o
+.PHONY : Solution879.o
+
+# target to build an object file
+Solution879.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution879.cpp.o
+.PHONY : Solution879.cpp.o
+
+Solution879.i: Solution879.cpp.i
+.PHONY : Solution879.i
+
+# target to preprocess a source file
+Solution879.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution879.cpp.i
+.PHONY : Solution879.cpp.i
+
+Solution879.s: Solution879.cpp.s
+.PHONY : Solution879.s
+
+# target to generate assembly for a file
+Solution879.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution879.cpp.s
+.PHONY : Solution879.cpp.s
+
+Solution88.o: Solution88.cpp.o
+.PHONY : Solution88.o
+
+# target to build an object file
+Solution88.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution88.cpp.o
+.PHONY : Solution88.cpp.o
+
+Solution88.i: Solution88.cpp.i
+.PHONY : Solution88.i
+
+# target to preprocess a source file
+Solution88.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution88.cpp.i
+.PHONY : Solution88.cpp.i
+
+Solution88.s: Solution88.cpp.s
+.PHONY : Solution88.s
+
+# target to generate assembly for a file
+Solution88.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution88.cpp.s
+.PHONY : Solution88.cpp.s
+
+Solution884.o: Solution884.cpp.o
+.PHONY : Solution884.o
+
+# target to build an object file
+Solution884.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution884.cpp.o
+.PHONY : Solution884.cpp.o
+
+Solution884.i: Solution884.cpp.i
+.PHONY : Solution884.i
+
+# target to preprocess a source file
+Solution884.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution884.cpp.i
+.PHONY : Solution884.cpp.i
+
+Solution884.s: Solution884.cpp.s
+.PHONY : Solution884.s
+
+# target to generate assembly for a file
+Solution884.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution884.cpp.s
+.PHONY : Solution884.cpp.s
+
+Solution89.o: Solution89.cpp.o
+.PHONY : Solution89.o
+
+# target to build an object file
+Solution89.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution89.cpp.o
+.PHONY : Solution89.cpp.o
+
+Solution89.i: Solution89.cpp.i
+.PHONY : Solution89.i
+
+# target to preprocess a source file
+Solution89.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution89.cpp.i
+.PHONY : Solution89.cpp.i
+
+Solution89.s: Solution89.cpp.s
+.PHONY : Solution89.s
+
+# target to generate assembly for a file
+Solution89.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution89.cpp.s
+.PHONY : Solution89.cpp.s
+
+Solution897.o: Solution897.cpp.o
+.PHONY : Solution897.o
+
+# target to build an object file
+Solution897.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution897.cpp.o
+.PHONY : Solution897.cpp.o
+
+Solution897.i: Solution897.cpp.i
+.PHONY : Solution897.i
+
+# target to preprocess a source file
+Solution897.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution897.cpp.i
+.PHONY : Solution897.cpp.i
+
+Solution897.s: Solution897.cpp.s
+.PHONY : Solution897.s
+
+# target to generate assembly for a file
+Solution897.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution897.cpp.s
+.PHONY : Solution897.cpp.s
+
+Solution909.o: Solution909.cpp.o
+.PHONY : Solution909.o
+
+# target to build an object file
+Solution909.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution909.cpp.o
+.PHONY : Solution909.cpp.o
+
+Solution909.i: Solution909.cpp.i
+.PHONY : Solution909.i
+
+# target to preprocess a source file
+Solution909.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution909.cpp.i
+.PHONY : Solution909.cpp.i
+
+Solution909.s: Solution909.cpp.s
+.PHONY : Solution909.s
+
+# target to generate assembly for a file
+Solution909.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution909.cpp.s
+.PHONY : Solution909.cpp.s
+
+Solution91.o: Solution91.cpp.o
+.PHONY : Solution91.o
+
+# target to build an object file
+Solution91.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution91.cpp.o
+.PHONY : Solution91.cpp.o
+
+Solution91.i: Solution91.cpp.i
+.PHONY : Solution91.i
+
+# target to preprocess a source file
+Solution91.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution91.cpp.i
+.PHONY : Solution91.cpp.i
+
+Solution91.s: Solution91.cpp.s
+.PHONY : Solution91.s
+
+# target to generate assembly for a file
+Solution91.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution91.cpp.s
+.PHONY : Solution91.cpp.s
+
+Solution911.o: Solution911.cpp.o
+.PHONY : Solution911.o
+
+# target to build an object file
+Solution911.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution911.cpp.o
+.PHONY : Solution911.cpp.o
+
+Solution911.i: Solution911.cpp.i
+.PHONY : Solution911.i
+
+# target to preprocess a source file
+Solution911.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution911.cpp.i
+.PHONY : Solution911.cpp.i
+
+Solution911.s: Solution911.cpp.s
+.PHONY : Solution911.s
+
+# target to generate assembly for a file
+Solution911.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution911.cpp.s
+.PHONY : Solution911.cpp.s
+
+Solution917.o: Solution917.cpp.o
+.PHONY : Solution917.o
+
+# target to build an object file
+Solution917.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution917.cpp.o
+.PHONY : Solution917.cpp.o
+
+Solution917.i: Solution917.cpp.i
+.PHONY : Solution917.i
+
+# target to preprocess a source file
+Solution917.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution917.cpp.i
+.PHONY : Solution917.cpp.i
+
+Solution917.s: Solution917.cpp.s
+.PHONY : Solution917.s
+
+# target to generate assembly for a file
+Solution917.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution917.cpp.s
+.PHONY : Solution917.cpp.s
+
 Solution92.o: Solution92.cpp.o
 .PHONY : Solution92.o
 
@@ -440,6 +7232,462 @@ Solution92.s: Solution92.cpp.s
 Solution92.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution92.cpp.s
 .PHONY : Solution92.cpp.s
+
+Solution930.o: Solution930.cpp.o
+.PHONY : Solution930.o
+
+# target to build an object file
+Solution930.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution930.cpp.o
+.PHONY : Solution930.cpp.o
+
+Solution930.i: Solution930.cpp.i
+.PHONY : Solution930.i
+
+# target to preprocess a source file
+Solution930.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution930.cpp.i
+.PHONY : Solution930.cpp.i
+
+Solution930.s: Solution930.cpp.s
+.PHONY : Solution930.s
+
+# target to generate assembly for a file
+Solution930.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution930.cpp.s
+.PHONY : Solution930.cpp.s
+
+Solution938.o: Solution938.cpp.o
+.PHONY : Solution938.o
+
+# target to build an object file
+Solution938.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution938.cpp.o
+.PHONY : Solution938.cpp.o
+
+Solution938.i: Solution938.cpp.i
+.PHONY : Solution938.i
+
+# target to preprocess a source file
+Solution938.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution938.cpp.i
+.PHONY : Solution938.cpp.i
+
+Solution938.s: Solution938.cpp.s
+.PHONY : Solution938.s
+
+# target to generate assembly for a file
+Solution938.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution938.cpp.s
+.PHONY : Solution938.cpp.s
+
+Solution969.o: Solution969.cpp.o
+.PHONY : Solution969.o
+
+# target to build an object file
+Solution969.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution969.cpp.o
+.PHONY : Solution969.cpp.o
+
+Solution969.i: Solution969.cpp.i
+.PHONY : Solution969.i
+
+# target to preprocess a source file
+Solution969.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution969.cpp.i
+.PHONY : Solution969.cpp.i
+
+Solution969.s: Solution969.cpp.s
+.PHONY : Solution969.s
+
+# target to generate assembly for a file
+Solution969.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution969.cpp.s
+.PHONY : Solution969.cpp.s
+
+Solution981.o: Solution981.cpp.o
+.PHONY : Solution981.o
+
+# target to build an object file
+Solution981.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution981.cpp.o
+.PHONY : Solution981.cpp.o
+
+Solution981.i: Solution981.cpp.i
+.PHONY : Solution981.i
+
+# target to preprocess a source file
+Solution981.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution981.cpp.i
+.PHONY : Solution981.cpp.i
+
+Solution981.s: Solution981.cpp.s
+.PHONY : Solution981.s
+
+# target to generate assembly for a file
+Solution981.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution981.cpp.s
+.PHONY : Solution981.cpp.s
+
+Solution993.o: Solution993.cpp.o
+.PHONY : Solution993.o
+
+# target to build an object file
+Solution993.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution993.cpp.o
+.PHONY : Solution993.cpp.o
+
+Solution993.i: Solution993.cpp.i
+.PHONY : Solution993.i
+
+# target to preprocess a source file
+Solution993.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution993.cpp.i
+.PHONY : Solution993.cpp.i
+
+Solution993.s: Solution993.cpp.s
+.PHONY : Solution993.s
+
+# target to generate assembly for a file
+Solution993.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution993.cpp.s
+.PHONY : Solution993.cpp.s
+
+Solution997.o: Solution997.cpp.o
+.PHONY : Solution997.o
+
+# target to build an object file
+Solution997.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution997.cpp.o
+.PHONY : Solution997.cpp.o
+
+Solution997.i: Solution997.cpp.i
+.PHONY : Solution997.i
+
+# target to preprocess a source file
+Solution997.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution997.cpp.i
+.PHONY : Solution997.cpp.i
+
+Solution997.s: Solution997.cpp.s
+.PHONY : Solution997.s
+
+# target to generate assembly for a file
+Solution997.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Solution997.cpp.s
+.PHONY : Solution997.cpp.s
+
+SolutionLCP07.o: SolutionLCP07.cpp.o
+.PHONY : SolutionLCP07.o
+
+# target to build an object file
+SolutionLCP07.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionLCP07.cpp.o
+.PHONY : SolutionLCP07.cpp.o
+
+SolutionLCP07.i: SolutionLCP07.cpp.i
+.PHONY : SolutionLCP07.i
+
+# target to preprocess a source file
+SolutionLCP07.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionLCP07.cpp.i
+.PHONY : SolutionLCP07.cpp.i
+
+SolutionLCP07.s: SolutionLCP07.cpp.s
+.PHONY : SolutionLCP07.s
+
+# target to generate assembly for a file
+SolutionLCP07.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionLCP07.cpp.s
+.PHONY : SolutionLCP07.cpp.s
+
+SolutionMian10_02.o: SolutionMian10_02.cpp.o
+.PHONY : SolutionMian10_02.o
+
+# target to build an object file
+SolutionMian10_02.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionMian10_02.cpp.o
+.PHONY : SolutionMian10_02.cpp.o
+
+SolutionMian10_02.i: SolutionMian10_02.cpp.i
+.PHONY : SolutionMian10_02.i
+
+# target to preprocess a source file
+SolutionMian10_02.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionMian10_02.cpp.i
+.PHONY : SolutionMian10_02.cpp.i
+
+SolutionMian10_02.s: SolutionMian10_02.cpp.s
+.PHONY : SolutionMian10_02.s
+
+# target to generate assembly for a file
+SolutionMian10_02.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionMian10_02.cpp.s
+.PHONY : SolutionMian10_02.cpp.s
+
+SolutionMian17_14.o: SolutionMian17_14.cpp.o
+.PHONY : SolutionMian17_14.o
+
+# target to build an object file
+SolutionMian17_14.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionMian17_14.cpp.o
+.PHONY : SolutionMian17_14.cpp.o
+
+SolutionMian17_14.i: SolutionMian17_14.cpp.i
+.PHONY : SolutionMian17_14.i
+
+# target to preprocess a source file
+SolutionMian17_14.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionMian17_14.cpp.i
+.PHONY : SolutionMian17_14.cpp.i
+
+SolutionMian17_14.s: SolutionMian17_14.cpp.s
+.PHONY : SolutionMian17_14.s
+
+# target to generate assembly for a file
+SolutionMian17_14.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionMian17_14.cpp.s
+.PHONY : SolutionMian17_14.cpp.s
+
+SolutionOffer069.o: SolutionOffer069.cpp.o
+.PHONY : SolutionOffer069.o
+
+# target to build an object file
+SolutionOffer069.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer069.cpp.o
+.PHONY : SolutionOffer069.cpp.o
+
+SolutionOffer069.i: SolutionOffer069.cpp.i
+.PHONY : SolutionOffer069.i
+
+# target to preprocess a source file
+SolutionOffer069.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer069.cpp.i
+.PHONY : SolutionOffer069.cpp.i
+
+SolutionOffer069.s: SolutionOffer069.cpp.s
+.PHONY : SolutionOffer069.s
+
+# target to generate assembly for a file
+SolutionOffer069.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer069.cpp.s
+.PHONY : SolutionOffer069.cpp.s
+
+SolutionOffer10_1.o: SolutionOffer10_1.cpp.o
+.PHONY : SolutionOffer10_1.o
+
+# target to build an object file
+SolutionOffer10_1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer10_1.cpp.o
+.PHONY : SolutionOffer10_1.cpp.o
+
+SolutionOffer10_1.i: SolutionOffer10_1.cpp.i
+.PHONY : SolutionOffer10_1.i
+
+# target to preprocess a source file
+SolutionOffer10_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer10_1.cpp.i
+.PHONY : SolutionOffer10_1.cpp.i
+
+SolutionOffer10_1.s: SolutionOffer10_1.cpp.s
+.PHONY : SolutionOffer10_1.s
+
+# target to generate assembly for a file
+SolutionOffer10_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer10_1.cpp.s
+.PHONY : SolutionOffer10_1.cpp.s
+
+SolutionOffer15.o: SolutionOffer15.cpp.o
+.PHONY : SolutionOffer15.o
+
+# target to build an object file
+SolutionOffer15.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer15.cpp.o
+.PHONY : SolutionOffer15.cpp.o
+
+SolutionOffer15.i: SolutionOffer15.cpp.i
+.PHONY : SolutionOffer15.i
+
+# target to preprocess a source file
+SolutionOffer15.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer15.cpp.i
+.PHONY : SolutionOffer15.cpp.i
+
+SolutionOffer15.s: SolutionOffer15.cpp.s
+.PHONY : SolutionOffer15.s
+
+# target to generate assembly for a file
+SolutionOffer15.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer15.cpp.s
+.PHONY : SolutionOffer15.cpp.s
+
+SolutionOffer37.o: SolutionOffer37.cpp.o
+.PHONY : SolutionOffer37.o
+
+# target to build an object file
+SolutionOffer37.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer37.cpp.o
+.PHONY : SolutionOffer37.cpp.o
+
+SolutionOffer37.i: SolutionOffer37.cpp.i
+.PHONY : SolutionOffer37.i
+
+# target to preprocess a source file
+SolutionOffer37.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer37.cpp.i
+.PHONY : SolutionOffer37.cpp.i
+
+SolutionOffer37.s: SolutionOffer37.cpp.s
+.PHONY : SolutionOffer37.s
+
+# target to generate assembly for a file
+SolutionOffer37.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer37.cpp.s
+.PHONY : SolutionOffer37.cpp.s
+
+SolutionOffer38.o: SolutionOffer38.cpp.o
+.PHONY : SolutionOffer38.o
+
+# target to build an object file
+SolutionOffer38.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer38.cpp.o
+.PHONY : SolutionOffer38.cpp.o
+
+SolutionOffer38.i: SolutionOffer38.cpp.i
+.PHONY : SolutionOffer38.i
+
+# target to preprocess a source file
+SolutionOffer38.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer38.cpp.i
+.PHONY : SolutionOffer38.cpp.i
+
+SolutionOffer38.s: SolutionOffer38.cpp.s
+.PHONY : SolutionOffer38.s
+
+# target to generate assembly for a file
+SolutionOffer38.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer38.cpp.s
+.PHONY : SolutionOffer38.cpp.s
+
+SolutionOffer42.o: SolutionOffer42.cpp.o
+.PHONY : SolutionOffer42.o
+
+# target to build an object file
+SolutionOffer42.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer42.cpp.o
+.PHONY : SolutionOffer42.cpp.o
+
+SolutionOffer42.i: SolutionOffer42.cpp.i
+.PHONY : SolutionOffer42.i
+
+# target to preprocess a source file
+SolutionOffer42.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer42.cpp.i
+.PHONY : SolutionOffer42.cpp.i
+
+SolutionOffer42.s: SolutionOffer42.cpp.s
+.PHONY : SolutionOffer42.s
+
+# target to generate assembly for a file
+SolutionOffer42.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer42.cpp.s
+.PHONY : SolutionOffer42.cpp.s
+
+SolutionOffer52.o: SolutionOffer52.cpp.o
+.PHONY : SolutionOffer52.o
+
+# target to build an object file
+SolutionOffer52.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer52.cpp.o
+.PHONY : SolutionOffer52.cpp.o
+
+SolutionOffer52.i: SolutionOffer52.cpp.i
+.PHONY : SolutionOffer52.i
+
+# target to preprocess a source file
+SolutionOffer52.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer52.cpp.i
+.PHONY : SolutionOffer52.cpp.i
+
+SolutionOffer52.s: SolutionOffer52.cpp.s
+.PHONY : SolutionOffer52.s
+
+# target to generate assembly for a file
+SolutionOffer52.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer52.cpp.s
+.PHONY : SolutionOffer52.cpp.s
+
+SolutionOffer53_I.o: SolutionOffer53_I.cpp.o
+.PHONY : SolutionOffer53_I.o
+
+# target to build an object file
+SolutionOffer53_I.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer53_I.cpp.o
+.PHONY : SolutionOffer53_I.cpp.o
+
+SolutionOffer53_I.i: SolutionOffer53_I.cpp.i
+.PHONY : SolutionOffer53_I.i
+
+# target to preprocess a source file
+SolutionOffer53_I.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer53_I.cpp.i
+.PHONY : SolutionOffer53_I.cpp.i
+
+SolutionOffer53_I.s: SolutionOffer53_I.cpp.s
+.PHONY : SolutionOffer53_I.s
+
+# target to generate assembly for a file
+SolutionOffer53_I.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SolutionOffer53_I.cpp.s
+.PHONY : SolutionOffer53_I.cpp.s
+
+Tire.o: Tire.cpp.o
+.PHONY : Tire.o
+
+# target to build an object file
+Tire.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Tire.cpp.o
+.PHONY : Tire.cpp.o
+
+Tire.i: Tire.cpp.i
+.PHONY : Tire.i
+
+# target to preprocess a source file
+Tire.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Tire.cpp.i
+.PHONY : Tire.cpp.i
+
+Tire.s: Tire.cpp.s
+.PHONY : Tire.s
+
+# target to generate assembly for a file
+Tire.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Tire.cpp.s
+.PHONY : Tire.cpp.s
+
+UnionFind.o: UnionFind.cpp.o
+.PHONY : UnionFind.o
+
+# target to build an object file
+UnionFind.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/UnionFind.cpp.o
+.PHONY : UnionFind.cpp.o
+
+UnionFind.i: UnionFind.cpp.i
+.PHONY : UnionFind.i
+
+# target to preprocess a source file
+UnionFind.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/UnionFind.cpp.i
+.PHONY : UnionFind.cpp.i
+
+UnionFind.s: UnionFind.cpp.s
+.PHONY : UnionFind.s
+
+# target to generate assembly for a file
+UnionFind.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/UnionFind.cpp.s
+.PHONY : UnionFind.cpp.s
 
 main.o: main.cpp.o
 .PHONY : main.o
@@ -474,45 +7722,951 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LeetCode"
+	@echo "... HUAWEI0.o"
+	@echo "... HUAWEI0.i"
+	@echo "... HUAWEI0.s"
+	@echo "... HUAWEI1.o"
+	@echo "... HUAWEI1.i"
+	@echo "... HUAWEI1.s"
+	@echo "... HUAWEI2.o"
+	@echo "... HUAWEI2.i"
+	@echo "... HUAWEI2.s"
+	@echo "... HUAWEI3.o"
+	@echo "... HUAWEI3.i"
+	@echo "... HUAWEI3.s"
+	@echo "... HUAWEI4.o"
+	@echo "... HUAWEI4.i"
+	@echo "... HUAWEI4.s"
+	@echo "... LeetCode121.o"
+	@echo "... LeetCode121.i"
+	@echo "... LeetCode121.s"
+	@echo "... LeetCode172.o"
+	@echo "... LeetCode172.i"
+	@echo "... LeetCode172.s"
+	@echo "... LeetCode2038.o"
+	@echo "... LeetCode2038.i"
+	@echo "... LeetCode2038.s"
+	@echo "... LeetCode2043.o"
+	@echo "... LeetCode2043.i"
+	@echo "... LeetCode2043.s"
+	@echo "... LeetCode2044.o"
+	@echo "... LeetCode2044.i"
+	@echo "... LeetCode2044.s"
+	@echo "... LeetCode2049.o"
+	@echo "... LeetCode2049.i"
+	@echo "... LeetCode2049.s"
+	@echo "... LeetCode432.o"
+	@echo "... LeetCode432.i"
+	@echo "... LeetCode432.s"
+	@echo "... LeetCode589.o"
+	@echo "... LeetCode589.i"
+	@echo "... LeetCode589.s"
+	@echo "... LeetCode590.o"
+	@echo "... LeetCode590.i"
+	@echo "... LeetCode590.s"
+	@echo "... LeetCode599.o"
+	@echo "... LeetCode599.i"
+	@echo "... LeetCode599.s"
+	@echo "... LeetCode653.o"
+	@echo "... LeetCode653.i"
+	@echo "... LeetCode653.s"
+	@echo "... LeetCode661.o"
+	@echo "... LeetCode661.i"
+	@echo "... LeetCode661.s"
+	@echo "... LeetCode693.o"
+	@echo "... LeetCode693.i"
+	@echo "... LeetCode693.s"
+	@echo "... LeetCode720.o"
+	@echo "... LeetCode720.i"
+	@echo "... LeetCode720.s"
+	@echo "... LeetCode798.o"
+	@echo "... LeetCode798.i"
+	@echo "... LeetCode798.s"
 	@echo "... Solution.o"
 	@echo "... Solution.i"
 	@echo "... Solution.s"
+	@echo "... Solution1001.o"
+	@echo "... Solution1001.i"
+	@echo "... Solution1001.s"
+	@echo "... Solution1005.o"
+	@echo "... Solution1005.i"
+	@echo "... Solution1005.s"
+	@echo "... Solution1006.o"
+	@echo "... Solution1006.i"
+	@echo "... Solution1006.s"
+	@echo "... Solution1011.o"
+	@echo "... Solution1011.i"
+	@echo "... Solution1011.s"
+	@echo "... Solution1020.o"
+	@echo "... Solution1020.i"
+	@echo "... Solution1020.s"
+	@echo "... Solution1034.o"
+	@echo "... Solution1034.i"
+	@echo "... Solution1034.s"
+	@echo "... Solution1035.o"
+	@echo "... Solution1035.i"
+	@echo "... Solution1035.s"
+	@echo "... Solution1036.o"
+	@echo "... Solution1036.i"
+	@echo "... Solution1036.s"
+	@echo "... Solution1078.o"
+	@echo "... Solution1078.i"
+	@echo "... Solution1078.s"
+	@echo "... Solution1104.o"
+	@echo "... Solution1104.i"
+	@echo "... Solution1104.s"
+	@echo "... Solution1137.o"
+	@echo "... Solution1137.i"
+	@echo "... Solution1137.s"
+	@echo "... Solution1143.o"
+	@echo "... Solution1143.i"
+	@echo "... Solution1143.s"
 	@echo "... Solution115.o"
 	@echo "... Solution115.i"
 	@echo "... Solution115.s"
+	@echo "... Solution1154.o"
+	@echo "... Solution1154.i"
+	@echo "... Solution1154.s"
+	@echo "... Solution1185.o"
+	@echo "... Solution1185.i"
+	@echo "... Solution1185.s"
+	@echo "... Solution1190.o"
+	@echo "... Solution1190.i"
+	@echo "... Solution1190.s"
+	@echo "... Solution12.o"
+	@echo "... Solution12.i"
+	@echo "... Solution12.s"
+	@echo "... Solution1218.o"
+	@echo "... Solution1218.i"
+	@echo "... Solution1218.s"
+	@echo "... Solution1221.o"
+	@echo "... Solution1221.i"
+	@echo "... Solution1221.s"
+	@echo "... Solution1239.o"
+	@echo "... Solution1239.i"
+	@echo "... Solution1239.s"
+	@echo "... Solution1269.o"
+	@echo "... Solution1269.i"
+	@echo "... Solution1269.s"
+	@echo "... Solution13.o"
+	@echo "... Solution13.i"
+	@echo "... Solution13.s"
+	@echo "... Solution1310.o"
+	@echo "... Solution1310.i"
+	@echo "... Solution1310.s"
+	@echo "... Solution1337.o"
+	@echo "... Solution1337.i"
+	@echo "... Solution1337.s"
+	@echo "... Solution1342.o"
+	@echo "... Solution1342.i"
+	@echo "... Solution1342.s"
+	@echo "... Solution1345.o"
+	@echo "... Solution1345.i"
+	@echo "... Solution1345.s"
+	@echo "... Solution137.o"
+	@echo "... Solution137.i"
+	@echo "... Solution137.s"
+	@echo "... Solution138.o"
+	@echo "... Solution138.i"
+	@echo "... Solution138.s"
+	@echo "... Solution1380.o"
+	@echo "... Solution1380.i"
+	@echo "... Solution1380.s"
+	@echo "... Solution1405.o"
+	@echo "... Solution1405.i"
+	@echo "... Solution1405.s"
+	@echo "... Solution1418.o"
+	@echo "... Solution1418.i"
+	@echo "... Solution1418.s"
+	@echo "... Solution1442.o"
+	@echo "... Solution1442.i"
+	@echo "... Solution1442.s"
+	@echo "... Solution1446.o"
+	@echo "... Solution1446.i"
+	@echo "... Solution1446.s"
+	@echo "... Solution1447.o"
+	@echo "... Solution1447.i"
+	@echo "... Solution1447.s"
+	@echo "... Solution1480.o"
+	@echo "... Solution1480.i"
+	@echo "... Solution1480.s"
+	@echo "... Solution1486.o"
+	@echo "... Solution1486.i"
+	@echo "... Solution1486.s"
+	@echo "... Solution149.o"
+	@echo "... Solution149.i"
+	@echo "... Solution149.s"
 	@echo "... Solution150.o"
 	@echo "... Solution150.i"
 	@echo "... Solution150.s"
+	@echo "... Solution1518.o"
+	@echo "... Solution1518.i"
+	@echo "... Solution1518.s"
+	@echo "... Solution153.o"
+	@echo "... Solution153.i"
+	@echo "... Solution153.s"
+	@echo "... Solution1576.o"
+	@echo "... Solution1576.i"
+	@echo "... Solution1576.s"
+	@echo "... Solution1583.o"
+	@echo "... Solution1583.i"
+	@echo "... Solution1583.s"
+	@echo "... Solution1588.o"
+	@echo "... Solution1588.i"
+	@echo "... Solution1588.s"
+	@echo "... Solution160.o"
+	@echo "... Solution160.i"
+	@echo "... Solution160.s"
+	@echo "... Solution1600.o"
+	@echo "... Solution1600.i"
+	@echo "... Solution1600.s"
 	@echo "... Solution1603.o"
 	@echo "... Solution1603.i"
 	@echo "... Solution1603.s"
+	@echo "... Solution1609.o"
+	@echo "... Solution1609.i"
+	@echo "... Solution1609.s"
+	@echo "... Solution1614.o"
+	@echo "... Solution1614.i"
+	@echo "... Solution1614.s"
+	@echo "... Solution162.o"
+	@echo "... Solution162.i"
+	@echo "... Solution162.s"
+	@echo "... Solution1629.o"
+	@echo "... Solution1629.i"
+	@echo "... Solution1629.s"
+	@echo "... Solution1646.o"
+	@echo "... Solution1646.i"
+	@echo "... Solution1646.s"
+	@echo "... Solution165.o"
+	@echo "... Solution165.i"
+	@echo "... Solution165.s"
+	@echo "... Solution168.o"
+	@echo "... Solution168.i"
+	@echo "... Solution168.s"
+	@echo "... Solution1688.o"
+	@echo "... Solution1688.i"
+	@echo "... Solution1688.s"
+	@echo "... Solution1705.o"
+	@echo "... Solution1705.i"
+	@echo "... Solution1705.s"
+	@echo "... Solution1706.o"
+	@echo "... Solution1706.i"
+	@echo "... Solution1706.s"
+	@echo "... Solution1707.o"
+	@echo "... Solution1707.i"
+	@echo "... Solution1707.s"
+	@echo "... Solution171.o"
+	@echo "... Solution171.i"
+	@echo "... Solution171.s"
+	@echo "... Solution1711.o"
+	@echo "... Solution1711.i"
+	@echo "... Solution1711.s"
+	@echo "... Solution1713.o"
+	@echo "... Solution1713.i"
+	@echo "... Solution1713.s"
+	@echo "... Solution1716.o"
+	@echo "... Solution1716.i"
+	@echo "... Solution1716.s"
+	@echo "... Solution1720.o"
+	@echo "... Solution1720.i"
+	@echo "... Solution1720.s"
+	@echo "... Solution1725.o"
+	@echo "... Solution1725.i"
+	@echo "... Solution1725.s"
 	@echo "... Solution173.o"
 	@echo "... Solution173.i"
 	@echo "... Solution173.s"
+	@echo "... Solution1734.o"
+	@echo "... Solution1734.i"
+	@echo "... Solution1734.s"
+	@echo "... Solution1736.o"
+	@echo "... Solution1736.i"
+	@echo "... Solution1736.s"
+	@echo "... Solution1738.o"
+	@echo "... Solution1738.i"
+	@echo "... Solution1738.s"
+	@echo "... Solution1743.o"
+	@echo "... Solution1743.i"
+	@echo "... Solution1743.s"
+	@echo "... Solution1744.o"
+	@echo "... Solution1744.i"
+	@echo "... Solution1744.s"
+	@echo "... Solution1748.o"
+	@echo "... Solution1748.i"
+	@echo "... Solution1748.s"
+	@echo "... Solution1763.o"
+	@echo "... Solution1763.i"
+	@echo "... Solution1763.s"
+	@echo "... Solution1765.o"
+	@echo "... Solution1765.i"
+	@echo "... Solution1765.s"
+	@echo "... Solution179.o"
+	@echo "... Solution179.i"
+	@echo "... Solution179.s"
+	@echo "... Solution1791.o"
+	@echo "... Solution1791.i"
+	@echo "... Solution1791.s"
+	@echo "... Solution17_10.o"
+	@echo "... Solution17_10.i"
+	@echo "... Solution17_10.s"
+	@echo "... Solution17_21.o"
+	@echo "... Solution17_21.i"
+	@echo "... Solution17_21.s"
+	@echo "... Solution1816.o"
+	@echo "... Solution1816.i"
+	@echo "... Solution1816.s"
+	@echo "... Solution1818.o"
+	@echo "... Solution1818.i"
+	@echo "... Solution1818.s"
+	@echo "... Solution1833.o"
+	@echo "... Solution1833.i"
+	@echo "... Solution1833.s"
+	@echo "... Solution1838.o"
+	@echo "... Solution1838.i"
+	@echo "... Solution1838.s"
+	@echo "... Solution1842.o"
+	@echo "... Solution1842.i"
+	@echo "... Solution1842.s"
+	@echo "... Solution1846.o"
+	@echo "... Solution1846.i"
+	@echo "... Solution1846.s"
+	@echo "... Solution187.o"
+	@echo "... Solution187.i"
+	@echo "... Solution187.s"
+	@echo "... Solution1877.o"
+	@echo "... Solution1877.i"
+	@echo "... Solution1877.s"
+	@echo "... Solution1893.o"
+	@echo "... Solution1893.i"
+	@echo "... Solution1893.s"
+	@echo "... Solution1894.o"
+	@echo "... Solution1894.i"
+	@echo "... Solution1894.s"
 	@echo "... Solution191.o"
 	@echo "... Solution191.i"
 	@echo "... Solution191.s"
+	@echo "... Solution1984.o"
+	@echo "... Solution1984.i"
+	@echo "... Solution1984.s"
+	@echo "... Solution1995.o"
+	@echo "... Solution1995.i"
+	@echo "... Solution1995.s"
+	@echo "... Solution1996.o"
+	@echo "... Solution1996.i"
+	@echo "... Solution1996.s"
+	@echo "... Solution2000.o"
+	@echo "... Solution2000.i"
+	@echo "... Solution2000.s"
+	@echo "... Solution2006.o"
+	@echo "... Solution2006.i"
+	@echo "... Solution2006.s"
+	@echo "... Solution2013.o"
+	@echo "... Solution2013.i"
+	@echo "... Solution2013.s"
+	@echo "... Solution2022.o"
+	@echo "... Solution2022.i"
+	@echo "... Solution2022.s"
+	@echo "... Solution2029.o"
+	@echo "... Solution2029.i"
+	@echo "... Solution2029.s"
+	@echo "... Solution203.o"
+	@echo "... Solution203.i"
+	@echo "... Solution203.s"
+	@echo "... Solution2047.o"
+	@echo "... Solution2047.i"
+	@echo "... Solution2047.s"
+	@echo "... Solution2055.o"
+	@echo "... Solution2055.i"
+	@echo "... Solution2055.s"
+	@echo "... Solution208.o"
+	@echo "... Solution208.i"
+	@echo "... Solution208.s"
+	@echo "... Solution2100.o"
+	@echo "... Solution2100.i"
+	@echo "... Solution2100.s"
+	@echo "... Solution211.o"
+	@echo "... Solution211.i"
+	@echo "... Solution211.s"
+	@echo "... Solution213.o"
+	@echo "... Solution213.i"
+	@echo "... Solution213.s"
+	@echo "... Solution219.o"
+	@echo "... Solution219.i"
+	@echo "... Solution219.s"
+	@echo "... Solution220.o"
+	@echo "... Solution220.i"
+	@echo "... Solution220.s"
+	@echo "... Solution223.o"
+	@echo "... Solution223.i"
+	@echo "... Solution223.s"
+	@echo "... Solution229.o"
+	@echo "... Solution229.i"
+	@echo "... Solution229.s"
+	@echo "... Solution230.o"
+	@echo "... Solution230.i"
+	@echo "... Solution230.s"
+	@echo "... Solution231_2.o"
+	@echo "... Solution231_2.i"
+	@echo "... Solution231_2.s"
+	@echo "... Solution237.o"
+	@echo "... Solution237.i"
+	@echo "... Solution237.s"
+	@echo "... Solution26.o"
+	@echo "... Solution26.i"
+	@echo "... Solution26.s"
+	@echo "... Solution260.o"
+	@echo "... Solution260.i"
+	@echo "... Solution260.s"
+	@echo "... Solution264.o"
+	@echo "... Solution264.i"
+	@echo "... Solution264.s"
+	@echo "... Solution268.o"
+	@echo "... Solution268.i"
+	@echo "... Solution268.s"
+	@echo "... Solution27.o"
+	@echo "... Solution27.i"
+	@echo "... Solution27.s"
+	@echo "... Solution273.o"
+	@echo "... Solution273.i"
+	@echo "... Solution273.s"
+	@echo "... Solution274.o"
+	@echo "... Solution274.i"
+	@echo "... Solution274.s"
+	@echo "... Solution278.o"
+	@echo "... Solution278.i"
+	@echo "... Solution278.s"
+	@echo "... Solution28.o"
+	@echo "... Solution28.i"
+	@echo "... Solution28.s"
+	@echo "... Solution284.o"
+	@echo "... Solution284.i"
+	@echo "... Solution284.s"
+	@echo "... Solution292.o"
+	@echo "... Solution292.i"
+	@echo "... Solution292.s"
+	@echo "... Solution295.o"
+	@echo "... Solution295.i"
+	@echo "... Solution295.s"
+	@echo "... Solution299.o"
+	@echo "... Solution299.i"
+	@echo "... Solution299.s"
+	@echo "... Solution301.o"
+	@echo "... Solution301.i"
+	@echo "... Solution301.s"
+	@echo "... Solution306.o"
+	@echo "... Solution306.i"
+	@echo "... Solution306.s"
+	@echo "... Solution313.o"
+	@echo "... Solution313.i"
+	@echo "... Solution313.s"
+	@echo "... Solution318.o"
+	@echo "... Solution318.i"
+	@echo "... Solution318.s"
+	@echo "... Solution319.o"
+	@echo "... Solution319.i"
+	@echo "... Solution319.s"
+	@echo "... Solution326.o"
+	@echo "... Solution326.i"
+	@echo "... Solution326.s"
+	@echo "... Solution334.o"
+	@echo "... Solution334.i"
+	@echo "... Solution334.s"
+	@echo "... Solution335.o"
+	@echo "... Solution335.i"
+	@echo "... Solution335.s"
 	@echo "... Solution341.o"
 	@echo "... Solution341.i"
 	@echo "... Solution341.s"
+	@echo "... Solution342_4.o"
+	@echo "... Solution342_4.i"
+	@echo "... Solution342_4.s"
+	@echo "... Solution345.o"
+	@echo "... Solution345.i"
+	@echo "... Solution345.s"
+	@echo "... Solution352.o"
+	@echo "... Solution352.i"
+	@echo "... Solution352.s"
+	@echo "... Solution36.o"
+	@echo "... Solution36.i"
+	@echo "... Solution36.s"
+	@echo "... Solution363.o"
+	@echo "... Solution363.i"
+	@echo "... Solution363.s"
+	@echo "... Solution367.o"
+	@echo "... Solution367.i"
+	@echo "... Solution367.s"
+	@echo "... Solution371.o"
+	@echo "... Solution371.i"
+	@echo "... Solution371.s"
+	@echo "... Solution372.o"
+	@echo "... Solution372.i"
+	@echo "... Solution372.s"
+	@echo "... Solution374.o"
+	@echo "... Solution374.i"
+	@echo "... Solution374.s"
+	@echo "... Solution375.o"
+	@echo "... Solution375.i"
+	@echo "... Solution375.s"
+	@echo "... Solution378.o"
+	@echo "... Solution378.i"
+	@echo "... Solution378.s"
+	@echo "... Solution38.o"
+	@echo "... Solution38.i"
+	@echo "... Solution38.s"
+	@echo "... Solution382.o"
+	@echo "... Solution382.i"
+	@echo "... Solution382.s"
+	@echo "... Solution383.o"
+	@echo "... Solution383.i"
+	@echo "... Solution383.s"
+	@echo "... Solution384.o"
+	@echo "... Solution384.i"
+	@echo "... Solution384.s"
+	@echo "... Solution390.o"
+	@echo "... Solution390.i"
+	@echo "... Solution390.s"
+	@echo "... Solution391.o"
+	@echo "... Solution391.i"
+	@echo "... Solution391.s"
+	@echo "... Solution397.o"
+	@echo "... Solution397.i"
+	@echo "... Solution397.s"
+	@echo "... Solution400.o"
+	@echo "... Solution400.i"
+	@echo "... Solution400.s"
+	@echo "... Solution401.o"
+	@echo "... Solution401.i"
+	@echo "... Solution401.s"
+	@echo "... Solution403.o"
+	@echo "... Solution403.i"
+	@echo "... Solution403.s"
+	@echo "... Solution405.o"
+	@echo "... Solution405.i"
+	@echo "... Solution405.s"
+	@echo "... Solution407.o"
+	@echo "... Solution407.i"
+	@echo "... Solution407.s"
+	@echo "... Solution412.o"
+	@echo "... Solution412.i"
+	@echo "... Solution412.s"
+	@echo "... Solution413.o"
+	@echo "... Solution413.i"
+	@echo "... Solution413.s"
+	@echo "... Solution414.o"
+	@echo "... Solution414.i"
+	@echo "... Solution414.s"
+	@echo "... Solution419.o"
+	@echo "... Solution419.i"
+	@echo "... Solution419.s"
 	@echo "... Solution42.o"
 	@echo "... Solution42.i"
 	@echo "... Solution42.s"
+	@echo "... Solution421.o"
+	@echo "... Solution421.i"
+	@echo "... Solution421.s"
+	@echo "... Solution430.o"
+	@echo "... Solution430.i"
+	@echo "... Solution430.s"
+	@echo "... Solution434.o"
+	@echo "... Solution434.i"
+	@echo "... Solution434.s"
+	@echo "... Solution437.o"
+	@echo "... Solution437.i"
+	@echo "... Solution437.s"
+	@echo "... Solution441.o"
+	@echo "... Solution441.i"
+	@echo "... Solution441.s"
+	@echo "... Solution446.o"
+	@echo "... Solution446.i"
+	@echo "... Solution446.s"
+	@echo "... Solution447.o"
+	@echo "... Solution447.i"
+	@echo "... Solution447.s"
+	@echo "... Solution451.o"
+	@echo "... Solution451.i"
+	@echo "... Solution451.s"
 	@echo "... Solution456.o"
 	@echo "... Solution456.i"
 	@echo "... Solution456.s"
+	@echo "... Solution457.o"
+	@echo "... Solution457.i"
+	@echo "... Solution457.s"
+	@echo "... Solution458.o"
+	@echo "... Solution458.i"
+	@echo "... Solution458.s"
+	@echo "... Solution461.o"
+	@echo "... Solution461.i"
+	@echo "... Solution461.s"
+	@echo "... Solution470.o"
+	@echo "... Solution470.i"
+	@echo "... Solution470.s"
+	@echo "... Solution472.o"
+	@echo "... Solution472.i"
+	@echo "... Solution472.s"
+	@echo "... Solution474.o"
+	@echo "... Solution474.i"
+	@echo "... Solution474.s"
+	@echo "... Solution475.o"
+	@echo "... Solution475.i"
+	@echo "... Solution475.s"
+	@echo "... Solution476.o"
+	@echo "... Solution476.i"
+	@echo "... Solution476.s"
+	@echo "... Solution477.o"
+	@echo "... Solution477.i"
+	@echo "... Solution477.s"
+	@echo "... Solution482.o"
+	@echo "... Solution482.i"
+	@echo "... Solution482.s"
+	@echo "... Solution483.o"
+	@echo "... Solution483.i"
+	@echo "... Solution483.s"
+	@echo "... Solution485.o"
+	@echo "... Solution485.i"
+	@echo "... Solution485.s"
+	@echo "... Solution492.o"
+	@echo "... Solution492.i"
+	@echo "... Solution492.s"
+	@echo "... Solution494.o"
+	@echo "... Solution494.i"
+	@echo "... Solution494.s"
+	@echo "... Solution495.o"
+	@echo "... Solution495.i"
+	@echo "... Solution495.s"
+	@echo "... Solution496.o"
+	@echo "... Solution496.i"
+	@echo "... Solution496.s"
+	@echo "... Solution500.o"
+	@echo "... Solution500.i"
+	@echo "... Solution500.s"
+	@echo "... Solution502.o"
+	@echo "... Solution502.i"
+	@echo "... Solution502.s"
+	@echo "... Solution504.o"
+	@echo "... Solution504.i"
+	@echo "... Solution504.s"
+	@echo "... Solution506.o"
+	@echo "... Solution506.i"
+	@echo "... Solution506.s"
+	@echo "... Solution507.o"
+	@echo "... Solution507.i"
+	@echo "... Solution507.s"
+	@echo "... Solution508.o"
+	@echo "... Solution508.i"
+	@echo "... Solution508.s"
+	@echo "... Solution516.o"
+	@echo "... Solution516.i"
+	@echo "... Solution516.s"
+	@echo "... Solution520.o"
+	@echo "... Solution520.i"
+	@echo "... Solution520.s"
+	@echo "... Solution521.o"
+	@echo "... Solution521.i"
+	@echo "... Solution521.s"
+	@echo "... Solution523.o"
+	@echo "... Solution523.i"
+	@echo "... Solution523.s"
+	@echo "... Solution524.o"
+	@echo "... Solution524.i"
+	@echo "... Solution524.s"
+	@echo "... Solution525.o"
+	@echo "... Solution525.i"
+	@echo "... Solution525.s"
+	@echo "... Solution526.o"
+	@echo "... Solution526.i"
+	@echo "... Solution526.s"
+	@echo "... Solution528.o"
+	@echo "... Solution528.i"
+	@echo "... Solution528.s"
+	@echo "... Solution539.o"
+	@echo "... Solution539.i"
+	@echo "... Solution539.s"
+	@echo "... Solution540.o"
+	@echo "... Solution540.i"
+	@echo "... Solution540.s"
+	@echo "... Solution541.o"
+	@echo "... Solution541.i"
+	@echo "... Solution541.s"
+	@echo "... Solution551.o"
+	@echo "... Solution551.i"
+	@echo "... Solution551.s"
+	@echo "... Solution552.o"
+	@echo "... Solution552.i"
+	@echo "... Solution552.s"
+	@echo "... Solution559.o"
+	@echo "... Solution559.i"
+	@echo "... Solution559.s"
+	@echo "... Solution563.o"
+	@echo "... Solution563.i"
+	@echo "... Solution563.s"
+	@echo "... Solution575.o"
+	@echo "... Solution575.i"
+	@echo "... Solution575.s"
+	@echo "... Solution576.o"
+	@echo "... Solution576.i"
+	@echo "... Solution576.s"
+	@echo "... Solution58.o"
+	@echo "... Solution58.i"
+	@echo "... Solution58.s"
+	@echo "... Solution581.o"
+	@echo "... Solution581.i"
+	@echo "... Solution581.s"
+	@echo "... Solution583.o"
+	@echo "... Solution583.i"
+	@echo "... Solution583.s"
+	@echo "... Solution594.o"
+	@echo "... Solution594.i"
+	@echo "... Solution594.s"
+	@echo "... Solution599.o"
+	@echo "... Solution599.i"
+	@echo "... Solution599.s"
 	@echo "... Solution61.o"
 	@echo "... Solution61.i"
 	@echo "... Solution61.s"
+	@echo "... Solution611.o"
+	@echo "... Solution611.i"
+	@echo "... Solution611.s"
+	@echo "... Solution629.o"
+	@echo "... Solution629.i"
+	@echo "... Solution629.s"
+	@echo "... Solution630.o"
+	@echo "... Solution630.i"
+	@echo "... Solution630.s"
+	@echo "... Solution633.o"
+	@echo "... Solution633.i"
+	@echo "... Solution633.s"
+	@echo "... Solution638.o"
+	@echo "... Solution638.i"
+	@echo "... Solution638.s"
+	@echo "... Solution645.o"
+	@echo "... Solution645.i"
+	@echo "... Solution645.s"
+	@echo "... Solution65.o"
+	@echo "... Solution65.i"
+	@echo "... Solution65.s"
+	@echo "... Solution650.o"
+	@echo "... Solution650.i"
+	@echo "... Solution650.s"
+	@echo "... Solution66.o"
+	@echo "... Solution66.i"
+	@echo "... Solution66.s"
+	@echo "... Solution664.o"
+	@echo "... Solution664.i"
+	@echo "... Solution664.s"
+	@echo "... Solution671.o"
+	@echo "... Solution671.i"
+	@echo "... Solution671.s"
+	@echo "... Solution673.o"
+	@echo "... Solution673.i"
+	@echo "... Solution673.s"
+	@echo "... Solution677.o"
+	@echo "... Solution677.i"
+	@echo "... Solution677.s"
+	@echo "... Solution678.o"
+	@echo "... Solution678.i"
+	@echo "... Solution678.s"
+	@echo "... Solution68.o"
+	@echo "... Solution68.i"
+	@echo "... Solution68.s"
+	@echo "... Solution688.o"
+	@echo "... Solution688.i"
+	@echo "... Solution688.s"
+	@echo "... Solution689.o"
+	@echo "... Solution689.i"
+	@echo "... Solution689.s"
+	@echo "... Solution692.o"
+	@echo "... Solution692.i"
+	@echo "... Solution692.s"
+	@echo "... Solution700.o"
+	@echo "... Solution700.i"
+	@echo "... Solution700.s"
+	@echo "... Solution704.o"
+	@echo "... Solution704.i"
+	@echo "... Solution704.s"
+	@echo "... Solution709.o"
+	@echo "... Solution709.i"
+	@echo "... Solution709.s"
+	@echo "... Solution71.o"
+	@echo "... Solution71.i"
+	@echo "... Solution71.s"
+	@echo "... Solution717.o"
+	@echo "... Solution717.i"
+	@echo "... Solution717.s"
+	@echo "... Solution725.o"
+	@echo "... Solution725.i"
+	@echo "... Solution725.s"
+	@echo "... Solution726.o"
+	@echo "... Solution726.i"
+	@echo "... Solution726.s"
 	@echo "... Solution73.o"
 	@echo "... Solution73.i"
 	@echo "... Solution73.s"
+	@echo "... Solution74.o"
+	@echo "... Solution74.i"
+	@echo "... Solution74.s"
+	@echo "... Solution743.o"
+	@echo "... Solution743.i"
+	@echo "... Solution743.s"
+	@echo "... Solution747.o"
+	@echo "... Solution747.i"
+	@echo "... Solution747.s"
+	@echo "... Solution748.o"
+	@echo "... Solution748.i"
+	@echo "... Solution748.s"
+	@echo "... Solution781.o"
+	@echo "... Solution781.i"
+	@echo "... Solution781.s"
+	@echo "... Solution783.o"
+	@echo "... Solution783.i"
+	@echo "... Solution783.s"
+	@echo "... Solution786.o"
+	@echo "... Solution786.i"
+	@echo "... Solution786.s"
+	@echo "... Solution787.o"
+	@echo "... Solution787.i"
+	@echo "... Solution787.s"
+	@echo "... Solution789.o"
+	@echo "... Solution789.i"
+	@echo "... Solution789.s"
+	@echo "... Solution794.o"
+	@echo "... Solution794.i"
+	@echo "... Solution794.s"
+	@echo "... Solution797.o"
+	@echo "... Solution797.i"
+	@echo "... Solution797.s"
+	@echo "... Solution80.o"
+	@echo "... Solution80.i"
+	@echo "... Solution80.s"
+	@echo "... Solution802.o"
+	@echo "... Solution802.i"
+	@echo "... Solution802.s"
+	@echo "... Solution807.o"
+	@echo "... Solution807.i"
+	@echo "... Solution807.s"
+	@echo "... Solution81.o"
+	@echo "... Solution81.i"
+	@echo "... Solution81.s"
+	@echo "... Solution815.o"
+	@echo "... Solution815.i"
+	@echo "... Solution815.s"
+	@echo "... Solution825.o"
+	@echo "... Solution825.i"
+	@echo "... Solution825.s"
 	@echo "... Solution83.o"
 	@echo "... Solution83.i"
 	@echo "... Solution83.s"
+	@echo "... Solution846.o"
+	@echo "... Solution846.i"
+	@echo "... Solution846.s"
+	@echo "... Solution851.o"
+	@echo "... Solution851.i"
+	@echo "... Solution851.s"
+	@echo "... Solution852.o"
+	@echo "... Solution852.i"
+	@echo "... Solution852.s"
+	@echo "... Solution859.o"
+	@echo "... Solution859.i"
+	@echo "... Solution859.s"
+	@echo "... Solution863.o"
+	@echo "... Solution863.i"
+	@echo "... Solution863.s"
+	@echo "... Solution869.o"
+	@echo "... Solution869.i"
+	@echo "... Solution869.s"
+	@echo "... Solution872.o"
+	@echo "... Solution872.i"
+	@echo "... Solution872.s"
+	@echo "... Solution877.o"
+	@echo "... Solution877.i"
+	@echo "... Solution877.s"
+	@echo "... Solution879.o"
+	@echo "... Solution879.i"
+	@echo "... Solution879.s"
+	@echo "... Solution88.o"
+	@echo "... Solution88.i"
+	@echo "... Solution88.s"
+	@echo "... Solution884.o"
+	@echo "... Solution884.i"
+	@echo "... Solution884.s"
+	@echo "... Solution89.o"
+	@echo "... Solution89.i"
+	@echo "... Solution89.s"
+	@echo "... Solution897.o"
+	@echo "... Solution897.i"
+	@echo "... Solution897.s"
+	@echo "... Solution909.o"
+	@echo "... Solution909.i"
+	@echo "... Solution909.s"
+	@echo "... Solution91.o"
+	@echo "... Solution91.i"
+	@echo "... Solution91.s"
+	@echo "... Solution911.o"
+	@echo "... Solution911.i"
+	@echo "... Solution911.s"
+	@echo "... Solution917.o"
+	@echo "... Solution917.i"
+	@echo "... Solution917.s"
 	@echo "... Solution92.o"
 	@echo "... Solution92.i"
 	@echo "... Solution92.s"
+	@echo "... Solution930.o"
+	@echo "... Solution930.i"
+	@echo "... Solution930.s"
+	@echo "... Solution938.o"
+	@echo "... Solution938.i"
+	@echo "... Solution938.s"
+	@echo "... Solution969.o"
+	@echo "... Solution969.i"
+	@echo "... Solution969.s"
+	@echo "... Solution981.o"
+	@echo "... Solution981.i"
+	@echo "... Solution981.s"
+	@echo "... Solution993.o"
+	@echo "... Solution993.i"
+	@echo "... Solution993.s"
+	@echo "... Solution997.o"
+	@echo "... Solution997.i"
+	@echo "... Solution997.s"
+	@echo "... SolutionLCP07.o"
+	@echo "... SolutionLCP07.i"
+	@echo "... SolutionLCP07.s"
+	@echo "... SolutionMian10_02.o"
+	@echo "... SolutionMian10_02.i"
+	@echo "... SolutionMian10_02.s"
+	@echo "... SolutionMian17_14.o"
+	@echo "... SolutionMian17_14.i"
+	@echo "... SolutionMian17_14.s"
+	@echo "... SolutionOffer069.o"
+	@echo "... SolutionOffer069.i"
+	@echo "... SolutionOffer069.s"
+	@echo "... SolutionOffer10_1.o"
+	@echo "... SolutionOffer10_1.i"
+	@echo "... SolutionOffer10_1.s"
+	@echo "... SolutionOffer15.o"
+	@echo "... SolutionOffer15.i"
+	@echo "... SolutionOffer15.s"
+	@echo "... SolutionOffer37.o"
+	@echo "... SolutionOffer37.i"
+	@echo "... SolutionOffer37.s"
+	@echo "... SolutionOffer38.o"
+	@echo "... SolutionOffer38.i"
+	@echo "... SolutionOffer38.s"
+	@echo "... SolutionOffer42.o"
+	@echo "... SolutionOffer42.i"
+	@echo "... SolutionOffer42.s"
+	@echo "... SolutionOffer52.o"
+	@echo "... SolutionOffer52.i"
+	@echo "... SolutionOffer52.s"
+	@echo "... SolutionOffer53_I.o"
+	@echo "... SolutionOffer53_I.i"
+	@echo "... SolutionOffer53_I.s"
+	@echo "... Tire.o"
+	@echo "... Tire.i"
+	@echo "... Tire.s"
+	@echo "... UnionFind.o"
+	@echo "... UnionFind.i"
+	@echo "... UnionFind.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

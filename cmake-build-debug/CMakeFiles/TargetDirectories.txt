@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 /Users/luzehui/CLionProjects/LeetCode1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /Users/luzehui/CLionProjects/LeetCode1/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/luzehui/CLionProjects/LeetCode1/cmake-build-debug/CMakeFiles/LeetCode.dir
+=======
+/Users/zehui.lzh/CLionProjects/LeetCode1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zehui.lzh/CLionProjects/LeetCode1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zehui.lzh/CLionProjects/LeetCode1/cmake-build-debug/CMakeFiles/LeetCode.dir
+>>>>>>> leetcode

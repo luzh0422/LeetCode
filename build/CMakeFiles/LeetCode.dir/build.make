@@ -69,10 +69,290 @@ include CMakeFiles/LeetCode.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/LeetCode.dir/flags.make
 
+CMakeFiles/LeetCode.dir/HUAWEI0.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/HUAWEI0.cpp.o: ../HUAWEI0.cpp
+CMakeFiles/LeetCode.dir/HUAWEI0.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LeetCode.dir/HUAWEI0.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/HUAWEI0.cpp.o -MF CMakeFiles/LeetCode.dir/HUAWEI0.cpp.o.d -o CMakeFiles/LeetCode.dir/HUAWEI0.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI0.cpp
+
+CMakeFiles/LeetCode.dir/HUAWEI0.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/HUAWEI0.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI0.cpp > CMakeFiles/LeetCode.dir/HUAWEI0.cpp.i
+
+CMakeFiles/LeetCode.dir/HUAWEI0.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/HUAWEI0.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI0.cpp -o CMakeFiles/LeetCode.dir/HUAWEI0.cpp.s
+
+CMakeFiles/LeetCode.dir/HUAWEI1.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/HUAWEI1.cpp.o: ../HUAWEI1.cpp
+CMakeFiles/LeetCode.dir/HUAWEI1.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LeetCode.dir/HUAWEI1.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/HUAWEI1.cpp.o -MF CMakeFiles/LeetCode.dir/HUAWEI1.cpp.o.d -o CMakeFiles/LeetCode.dir/HUAWEI1.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI1.cpp
+
+CMakeFiles/LeetCode.dir/HUAWEI1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/HUAWEI1.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI1.cpp > CMakeFiles/LeetCode.dir/HUAWEI1.cpp.i
+
+CMakeFiles/LeetCode.dir/HUAWEI1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/HUAWEI1.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI1.cpp -o CMakeFiles/LeetCode.dir/HUAWEI1.cpp.s
+
+CMakeFiles/LeetCode.dir/HUAWEI2.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/HUAWEI2.cpp.o: ../HUAWEI2.cpp
+CMakeFiles/LeetCode.dir/HUAWEI2.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/LeetCode.dir/HUAWEI2.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/HUAWEI2.cpp.o -MF CMakeFiles/LeetCode.dir/HUAWEI2.cpp.o.d -o CMakeFiles/LeetCode.dir/HUAWEI2.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI2.cpp
+
+CMakeFiles/LeetCode.dir/HUAWEI2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/HUAWEI2.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI2.cpp > CMakeFiles/LeetCode.dir/HUAWEI2.cpp.i
+
+CMakeFiles/LeetCode.dir/HUAWEI2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/HUAWEI2.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI2.cpp -o CMakeFiles/LeetCode.dir/HUAWEI2.cpp.s
+
+CMakeFiles/LeetCode.dir/HUAWEI3.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/HUAWEI3.cpp.o: ../HUAWEI3.cpp
+CMakeFiles/LeetCode.dir/HUAWEI3.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/LeetCode.dir/HUAWEI3.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/HUAWEI3.cpp.o -MF CMakeFiles/LeetCode.dir/HUAWEI3.cpp.o.d -o CMakeFiles/LeetCode.dir/HUAWEI3.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI3.cpp
+
+CMakeFiles/LeetCode.dir/HUAWEI3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/HUAWEI3.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI3.cpp > CMakeFiles/LeetCode.dir/HUAWEI3.cpp.i
+
+CMakeFiles/LeetCode.dir/HUAWEI3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/HUAWEI3.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI3.cpp -o CMakeFiles/LeetCode.dir/HUAWEI3.cpp.s
+
+CMakeFiles/LeetCode.dir/HUAWEI4.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/HUAWEI4.cpp.o: ../HUAWEI4.cpp
+CMakeFiles/LeetCode.dir/HUAWEI4.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/LeetCode.dir/HUAWEI4.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/HUAWEI4.cpp.o -MF CMakeFiles/LeetCode.dir/HUAWEI4.cpp.o.d -o CMakeFiles/LeetCode.dir/HUAWEI4.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI4.cpp
+
+CMakeFiles/LeetCode.dir/HUAWEI4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/HUAWEI4.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI4.cpp > CMakeFiles/LeetCode.dir/HUAWEI4.cpp.i
+
+CMakeFiles/LeetCode.dir/HUAWEI4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/HUAWEI4.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI4.cpp -o CMakeFiles/LeetCode.dir/HUAWEI4.cpp.s
+
+CMakeFiles/LeetCode.dir/LeetCode121.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/LeetCode121.cpp.o: ../LeetCode121.cpp
+CMakeFiles/LeetCode.dir/LeetCode121.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/LeetCode.dir/LeetCode121.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/LeetCode121.cpp.o -MF CMakeFiles/LeetCode.dir/LeetCode121.cpp.o.d -o CMakeFiles/LeetCode.dir/LeetCode121.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode121.cpp
+
+CMakeFiles/LeetCode.dir/LeetCode121.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/LeetCode121.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode121.cpp > CMakeFiles/LeetCode.dir/LeetCode121.cpp.i
+
+CMakeFiles/LeetCode.dir/LeetCode121.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LeetCode121.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode121.cpp -o CMakeFiles/LeetCode.dir/LeetCode121.cpp.s
+
+CMakeFiles/LeetCode.dir/LeetCode172.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/LeetCode172.cpp.o: ../LeetCode172.cpp
+CMakeFiles/LeetCode.dir/LeetCode172.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/LeetCode.dir/LeetCode172.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/LeetCode172.cpp.o -MF CMakeFiles/LeetCode.dir/LeetCode172.cpp.o.d -o CMakeFiles/LeetCode.dir/LeetCode172.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode172.cpp
+
+CMakeFiles/LeetCode.dir/LeetCode172.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/LeetCode172.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode172.cpp > CMakeFiles/LeetCode.dir/LeetCode172.cpp.i
+
+CMakeFiles/LeetCode.dir/LeetCode172.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LeetCode172.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode172.cpp -o CMakeFiles/LeetCode.dir/LeetCode172.cpp.s
+
+CMakeFiles/LeetCode.dir/LeetCode2038.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/LeetCode2038.cpp.o: ../LeetCode2038.cpp
+CMakeFiles/LeetCode.dir/LeetCode2038.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/LeetCode.dir/LeetCode2038.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/LeetCode2038.cpp.o -MF CMakeFiles/LeetCode.dir/LeetCode2038.cpp.o.d -o CMakeFiles/LeetCode.dir/LeetCode2038.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode2038.cpp
+
+CMakeFiles/LeetCode.dir/LeetCode2038.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/LeetCode2038.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode2038.cpp > CMakeFiles/LeetCode.dir/LeetCode2038.cpp.i
+
+CMakeFiles/LeetCode.dir/LeetCode2038.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LeetCode2038.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode2038.cpp -o CMakeFiles/LeetCode.dir/LeetCode2038.cpp.s
+
+CMakeFiles/LeetCode.dir/LeetCode2043.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/LeetCode2043.cpp.o: ../LeetCode2043.cpp
+CMakeFiles/LeetCode.dir/LeetCode2043.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/LeetCode.dir/LeetCode2043.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/LeetCode2043.cpp.o -MF CMakeFiles/LeetCode.dir/LeetCode2043.cpp.o.d -o CMakeFiles/LeetCode.dir/LeetCode2043.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode2043.cpp
+
+CMakeFiles/LeetCode.dir/LeetCode2043.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/LeetCode2043.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode2043.cpp > CMakeFiles/LeetCode.dir/LeetCode2043.cpp.i
+
+CMakeFiles/LeetCode.dir/LeetCode2043.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LeetCode2043.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode2043.cpp -o CMakeFiles/LeetCode.dir/LeetCode2043.cpp.s
+
+CMakeFiles/LeetCode.dir/LeetCode2044.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/LeetCode2044.cpp.o: ../LeetCode2044.cpp
+CMakeFiles/LeetCode.dir/LeetCode2044.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/LeetCode.dir/LeetCode2044.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/LeetCode2044.cpp.o -MF CMakeFiles/LeetCode.dir/LeetCode2044.cpp.o.d -o CMakeFiles/LeetCode.dir/LeetCode2044.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode2044.cpp
+
+CMakeFiles/LeetCode.dir/LeetCode2044.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/LeetCode2044.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode2044.cpp > CMakeFiles/LeetCode.dir/LeetCode2044.cpp.i
+
+CMakeFiles/LeetCode.dir/LeetCode2044.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LeetCode2044.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode2044.cpp -o CMakeFiles/LeetCode.dir/LeetCode2044.cpp.s
+
+CMakeFiles/LeetCode.dir/LeetCode2049.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/LeetCode2049.cpp.o: ../LeetCode2049.cpp
+CMakeFiles/LeetCode.dir/LeetCode2049.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/LeetCode.dir/LeetCode2049.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/LeetCode2049.cpp.o -MF CMakeFiles/LeetCode.dir/LeetCode2049.cpp.o.d -o CMakeFiles/LeetCode.dir/LeetCode2049.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode2049.cpp
+
+CMakeFiles/LeetCode.dir/LeetCode2049.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/LeetCode2049.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode2049.cpp > CMakeFiles/LeetCode.dir/LeetCode2049.cpp.i
+
+CMakeFiles/LeetCode.dir/LeetCode2049.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LeetCode2049.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode2049.cpp -o CMakeFiles/LeetCode.dir/LeetCode2049.cpp.s
+
+CMakeFiles/LeetCode.dir/LeetCode432.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/LeetCode432.cpp.o: ../LeetCode432.cpp
+CMakeFiles/LeetCode.dir/LeetCode432.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/LeetCode.dir/LeetCode432.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/LeetCode432.cpp.o -MF CMakeFiles/LeetCode.dir/LeetCode432.cpp.o.d -o CMakeFiles/LeetCode.dir/LeetCode432.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode432.cpp
+
+CMakeFiles/LeetCode.dir/LeetCode432.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/LeetCode432.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode432.cpp > CMakeFiles/LeetCode.dir/LeetCode432.cpp.i
+
+CMakeFiles/LeetCode.dir/LeetCode432.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LeetCode432.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode432.cpp -o CMakeFiles/LeetCode.dir/LeetCode432.cpp.s
+
+CMakeFiles/LeetCode.dir/LeetCode589.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/LeetCode589.cpp.o: ../LeetCode589.cpp
+CMakeFiles/LeetCode.dir/LeetCode589.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/LeetCode.dir/LeetCode589.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/LeetCode589.cpp.o -MF CMakeFiles/LeetCode.dir/LeetCode589.cpp.o.d -o CMakeFiles/LeetCode.dir/LeetCode589.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode589.cpp
+
+CMakeFiles/LeetCode.dir/LeetCode589.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/LeetCode589.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode589.cpp > CMakeFiles/LeetCode.dir/LeetCode589.cpp.i
+
+CMakeFiles/LeetCode.dir/LeetCode589.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LeetCode589.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode589.cpp -o CMakeFiles/LeetCode.dir/LeetCode589.cpp.s
+
+CMakeFiles/LeetCode.dir/LeetCode590.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/LeetCode590.cpp.o: ../LeetCode590.cpp
+CMakeFiles/LeetCode.dir/LeetCode590.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/LeetCode.dir/LeetCode590.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/LeetCode590.cpp.o -MF CMakeFiles/LeetCode.dir/LeetCode590.cpp.o.d -o CMakeFiles/LeetCode.dir/LeetCode590.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode590.cpp
+
+CMakeFiles/LeetCode.dir/LeetCode590.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/LeetCode590.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode590.cpp > CMakeFiles/LeetCode.dir/LeetCode590.cpp.i
+
+CMakeFiles/LeetCode.dir/LeetCode590.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LeetCode590.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode590.cpp -o CMakeFiles/LeetCode.dir/LeetCode590.cpp.s
+
+CMakeFiles/LeetCode.dir/LeetCode599.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/LeetCode599.cpp.o: ../LeetCode599.cpp
+CMakeFiles/LeetCode.dir/LeetCode599.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/LeetCode.dir/LeetCode599.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/LeetCode599.cpp.o -MF CMakeFiles/LeetCode.dir/LeetCode599.cpp.o.d -o CMakeFiles/LeetCode.dir/LeetCode599.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode599.cpp
+
+CMakeFiles/LeetCode.dir/LeetCode599.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/LeetCode599.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode599.cpp > CMakeFiles/LeetCode.dir/LeetCode599.cpp.i
+
+CMakeFiles/LeetCode.dir/LeetCode599.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LeetCode599.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode599.cpp -o CMakeFiles/LeetCode.dir/LeetCode599.cpp.s
+
+CMakeFiles/LeetCode.dir/LeetCode653.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/LeetCode653.cpp.o: ../LeetCode653.cpp
+CMakeFiles/LeetCode.dir/LeetCode653.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/LeetCode.dir/LeetCode653.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/LeetCode653.cpp.o -MF CMakeFiles/LeetCode.dir/LeetCode653.cpp.o.d -o CMakeFiles/LeetCode.dir/LeetCode653.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode653.cpp
+
+CMakeFiles/LeetCode.dir/LeetCode653.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/LeetCode653.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode653.cpp > CMakeFiles/LeetCode.dir/LeetCode653.cpp.i
+
+CMakeFiles/LeetCode.dir/LeetCode653.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LeetCode653.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode653.cpp -o CMakeFiles/LeetCode.dir/LeetCode653.cpp.s
+
+CMakeFiles/LeetCode.dir/LeetCode661.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/LeetCode661.cpp.o: ../LeetCode661.cpp
+CMakeFiles/LeetCode.dir/LeetCode661.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/LeetCode.dir/LeetCode661.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/LeetCode661.cpp.o -MF CMakeFiles/LeetCode.dir/LeetCode661.cpp.o.d -o CMakeFiles/LeetCode.dir/LeetCode661.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode661.cpp
+
+CMakeFiles/LeetCode.dir/LeetCode661.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/LeetCode661.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode661.cpp > CMakeFiles/LeetCode.dir/LeetCode661.cpp.i
+
+CMakeFiles/LeetCode.dir/LeetCode661.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LeetCode661.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode661.cpp -o CMakeFiles/LeetCode.dir/LeetCode661.cpp.s
+
+CMakeFiles/LeetCode.dir/LeetCode693.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/LeetCode693.cpp.o: ../LeetCode693.cpp
+CMakeFiles/LeetCode.dir/LeetCode693.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/LeetCode.dir/LeetCode693.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/LeetCode693.cpp.o -MF CMakeFiles/LeetCode.dir/LeetCode693.cpp.o.d -o CMakeFiles/LeetCode.dir/LeetCode693.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode693.cpp
+
+CMakeFiles/LeetCode.dir/LeetCode693.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/LeetCode693.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode693.cpp > CMakeFiles/LeetCode.dir/LeetCode693.cpp.i
+
+CMakeFiles/LeetCode.dir/LeetCode693.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LeetCode693.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode693.cpp -o CMakeFiles/LeetCode.dir/LeetCode693.cpp.s
+
+CMakeFiles/LeetCode.dir/LeetCode720.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/LeetCode720.cpp.o: ../LeetCode720.cpp
+CMakeFiles/LeetCode.dir/LeetCode720.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/LeetCode.dir/LeetCode720.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/LeetCode720.cpp.o -MF CMakeFiles/LeetCode.dir/LeetCode720.cpp.o.d -o CMakeFiles/LeetCode.dir/LeetCode720.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode720.cpp
+
+CMakeFiles/LeetCode.dir/LeetCode720.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/LeetCode720.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode720.cpp > CMakeFiles/LeetCode.dir/LeetCode720.cpp.i
+
+CMakeFiles/LeetCode.dir/LeetCode720.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LeetCode720.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode720.cpp -o CMakeFiles/LeetCode.dir/LeetCode720.cpp.s
+
+CMakeFiles/LeetCode.dir/LeetCode798.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/LeetCode798.cpp.o: ../LeetCode798.cpp
+CMakeFiles/LeetCode.dir/LeetCode798.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/LeetCode.dir/LeetCode798.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/LeetCode798.cpp.o -MF CMakeFiles/LeetCode.dir/LeetCode798.cpp.o.d -o CMakeFiles/LeetCode.dir/LeetCode798.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode798.cpp
+
+CMakeFiles/LeetCode.dir/LeetCode798.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/LeetCode798.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode798.cpp > CMakeFiles/LeetCode.dir/LeetCode798.cpp.i
+
+CMakeFiles/LeetCode.dir/LeetCode798.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LeetCode798.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode798.cpp -o CMakeFiles/LeetCode.dir/LeetCode798.cpp.s
+
 CMakeFiles/LeetCode.dir/Solution.cpp.o: CMakeFiles/LeetCode.dir/flags.make
 CMakeFiles/LeetCode.dir/Solution.cpp.o: ../Solution.cpp
 CMakeFiles/LeetCode.dir/Solution.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LeetCode.dir/Solution.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/LeetCode.dir/Solution.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution.cpp.o -MF CMakeFiles/LeetCode.dir/Solution.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution.cpp
 
 CMakeFiles/LeetCode.dir/Solution.cpp.i: cmake_force
@@ -83,10 +363,178 @@ CMakeFiles/LeetCode.dir/Solution.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution.cpp.s"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution.cpp -o CMakeFiles/LeetCode.dir/Solution.cpp.s
 
+CMakeFiles/LeetCode.dir/Solution1001.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1001.cpp.o: ../Solution1001.cpp
+CMakeFiles/LeetCode.dir/Solution1001.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/LeetCode.dir/Solution1001.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1001.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1001.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1001.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1001.cpp
+
+CMakeFiles/LeetCode.dir/Solution1001.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1001.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1001.cpp > CMakeFiles/LeetCode.dir/Solution1001.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1001.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1001.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1001.cpp -o CMakeFiles/LeetCode.dir/Solution1001.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1005.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1005.cpp.o: ../Solution1005.cpp
+CMakeFiles/LeetCode.dir/Solution1005.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/LeetCode.dir/Solution1005.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1005.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1005.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1005.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1005.cpp
+
+CMakeFiles/LeetCode.dir/Solution1005.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1005.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1005.cpp > CMakeFiles/LeetCode.dir/Solution1005.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1005.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1005.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1005.cpp -o CMakeFiles/LeetCode.dir/Solution1005.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1006.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1006.cpp.o: ../Solution1006.cpp
+CMakeFiles/LeetCode.dir/Solution1006.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/LeetCode.dir/Solution1006.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1006.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1006.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1006.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1006.cpp
+
+CMakeFiles/LeetCode.dir/Solution1006.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1006.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1006.cpp > CMakeFiles/LeetCode.dir/Solution1006.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1006.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1006.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1006.cpp -o CMakeFiles/LeetCode.dir/Solution1006.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1011.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1011.cpp.o: ../Solution1011.cpp
+CMakeFiles/LeetCode.dir/Solution1011.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/LeetCode.dir/Solution1011.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1011.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1011.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1011.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1011.cpp
+
+CMakeFiles/LeetCode.dir/Solution1011.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1011.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1011.cpp > CMakeFiles/LeetCode.dir/Solution1011.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1011.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1011.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1011.cpp -o CMakeFiles/LeetCode.dir/Solution1011.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1020.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1020.cpp.o: ../Solution1020.cpp
+CMakeFiles/LeetCode.dir/Solution1020.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/LeetCode.dir/Solution1020.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1020.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1020.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1020.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1020.cpp
+
+CMakeFiles/LeetCode.dir/Solution1020.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1020.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1020.cpp > CMakeFiles/LeetCode.dir/Solution1020.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1020.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1020.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1020.cpp -o CMakeFiles/LeetCode.dir/Solution1020.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1034.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1034.cpp.o: ../Solution1034.cpp
+CMakeFiles/LeetCode.dir/Solution1034.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/LeetCode.dir/Solution1034.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1034.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1034.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1034.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1034.cpp
+
+CMakeFiles/LeetCode.dir/Solution1034.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1034.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1034.cpp > CMakeFiles/LeetCode.dir/Solution1034.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1034.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1034.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1034.cpp -o CMakeFiles/LeetCode.dir/Solution1034.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1035.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1035.cpp.o: ../Solution1035.cpp
+CMakeFiles/LeetCode.dir/Solution1035.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/LeetCode.dir/Solution1035.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1035.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1035.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1035.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1035.cpp
+
+CMakeFiles/LeetCode.dir/Solution1035.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1035.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1035.cpp > CMakeFiles/LeetCode.dir/Solution1035.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1035.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1035.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1035.cpp -o CMakeFiles/LeetCode.dir/Solution1035.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1036.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1036.cpp.o: ../Solution1036.cpp
+CMakeFiles/LeetCode.dir/Solution1036.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/LeetCode.dir/Solution1036.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1036.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1036.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1036.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1036.cpp
+
+CMakeFiles/LeetCode.dir/Solution1036.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1036.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1036.cpp > CMakeFiles/LeetCode.dir/Solution1036.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1036.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1036.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1036.cpp -o CMakeFiles/LeetCode.dir/Solution1036.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1078.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1078.cpp.o: ../Solution1078.cpp
+CMakeFiles/LeetCode.dir/Solution1078.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/LeetCode.dir/Solution1078.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1078.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1078.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1078.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1078.cpp
+
+CMakeFiles/LeetCode.dir/Solution1078.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1078.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1078.cpp > CMakeFiles/LeetCode.dir/Solution1078.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1078.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1078.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1078.cpp -o CMakeFiles/LeetCode.dir/Solution1078.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1104.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1104.cpp.o: ../Solution1104.cpp
+CMakeFiles/LeetCode.dir/Solution1104.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/LeetCode.dir/Solution1104.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1104.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1104.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1104.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1104.cpp
+
+CMakeFiles/LeetCode.dir/Solution1104.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1104.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1104.cpp > CMakeFiles/LeetCode.dir/Solution1104.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1104.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1104.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1104.cpp -o CMakeFiles/LeetCode.dir/Solution1104.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1137.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1137.cpp.o: ../Solution1137.cpp
+CMakeFiles/LeetCode.dir/Solution1137.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/LeetCode.dir/Solution1137.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1137.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1137.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1137.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1137.cpp
+
+CMakeFiles/LeetCode.dir/Solution1137.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1137.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1137.cpp > CMakeFiles/LeetCode.dir/Solution1137.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1137.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1137.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1137.cpp -o CMakeFiles/LeetCode.dir/Solution1137.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1143.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1143.cpp.o: ../Solution1143.cpp
+CMakeFiles/LeetCode.dir/Solution1143.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/LeetCode.dir/Solution1143.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1143.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1143.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1143.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1143.cpp
+
+CMakeFiles/LeetCode.dir/Solution1143.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1143.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1143.cpp > CMakeFiles/LeetCode.dir/Solution1143.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1143.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1143.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1143.cpp -o CMakeFiles/LeetCode.dir/Solution1143.cpp.s
+
 CMakeFiles/LeetCode.dir/Solution115.cpp.o: CMakeFiles/LeetCode.dir/flags.make
 CMakeFiles/LeetCode.dir/Solution115.cpp.o: ../Solution115.cpp
 CMakeFiles/LeetCode.dir/Solution115.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LeetCode.dir/Solution115.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/LeetCode.dir/Solution115.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution115.cpp.o -MF CMakeFiles/LeetCode.dir/Solution115.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution115.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution115.cpp
 
 CMakeFiles/LeetCode.dir/Solution115.cpp.i: cmake_force
@@ -97,10 +545,346 @@ CMakeFiles/LeetCode.dir/Solution115.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution115.cpp.s"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution115.cpp -o CMakeFiles/LeetCode.dir/Solution115.cpp.s
 
+CMakeFiles/LeetCode.dir/Solution1154.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1154.cpp.o: ../Solution1154.cpp
+CMakeFiles/LeetCode.dir/Solution1154.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/LeetCode.dir/Solution1154.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1154.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1154.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1154.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1154.cpp
+
+CMakeFiles/LeetCode.dir/Solution1154.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1154.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1154.cpp > CMakeFiles/LeetCode.dir/Solution1154.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1154.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1154.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1154.cpp -o CMakeFiles/LeetCode.dir/Solution1154.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1185.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1185.cpp.o: ../Solution1185.cpp
+CMakeFiles/LeetCode.dir/Solution1185.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/LeetCode.dir/Solution1185.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1185.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1185.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1185.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1185.cpp
+
+CMakeFiles/LeetCode.dir/Solution1185.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1185.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1185.cpp > CMakeFiles/LeetCode.dir/Solution1185.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1185.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1185.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1185.cpp -o CMakeFiles/LeetCode.dir/Solution1185.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1190.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1190.cpp.o: ../Solution1190.cpp
+CMakeFiles/LeetCode.dir/Solution1190.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/LeetCode.dir/Solution1190.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1190.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1190.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1190.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1190.cpp
+
+CMakeFiles/LeetCode.dir/Solution1190.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1190.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1190.cpp > CMakeFiles/LeetCode.dir/Solution1190.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1190.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1190.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1190.cpp -o CMakeFiles/LeetCode.dir/Solution1190.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution12.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution12.cpp.o: ../Solution12.cpp
+CMakeFiles/LeetCode.dir/Solution12.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/LeetCode.dir/Solution12.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution12.cpp.o -MF CMakeFiles/LeetCode.dir/Solution12.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution12.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution12.cpp
+
+CMakeFiles/LeetCode.dir/Solution12.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution12.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution12.cpp > CMakeFiles/LeetCode.dir/Solution12.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution12.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution12.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution12.cpp -o CMakeFiles/LeetCode.dir/Solution12.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1218.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1218.cpp.o: ../Solution1218.cpp
+CMakeFiles/LeetCode.dir/Solution1218.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/LeetCode.dir/Solution1218.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1218.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1218.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1218.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1218.cpp
+
+CMakeFiles/LeetCode.dir/Solution1218.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1218.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1218.cpp > CMakeFiles/LeetCode.dir/Solution1218.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1218.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1218.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1218.cpp -o CMakeFiles/LeetCode.dir/Solution1218.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1221.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1221.cpp.o: ../Solution1221.cpp
+CMakeFiles/LeetCode.dir/Solution1221.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/LeetCode.dir/Solution1221.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1221.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1221.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1221.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1221.cpp
+
+CMakeFiles/LeetCode.dir/Solution1221.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1221.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1221.cpp > CMakeFiles/LeetCode.dir/Solution1221.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1221.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1221.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1221.cpp -o CMakeFiles/LeetCode.dir/Solution1221.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1239.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1239.cpp.o: ../Solution1239.cpp
+CMakeFiles/LeetCode.dir/Solution1239.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/LeetCode.dir/Solution1239.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1239.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1239.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1239.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1239.cpp
+
+CMakeFiles/LeetCode.dir/Solution1239.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1239.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1239.cpp > CMakeFiles/LeetCode.dir/Solution1239.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1239.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1239.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1239.cpp -o CMakeFiles/LeetCode.dir/Solution1239.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1269.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1269.cpp.o: ../Solution1269.cpp
+CMakeFiles/LeetCode.dir/Solution1269.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/LeetCode.dir/Solution1269.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1269.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1269.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1269.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1269.cpp
+
+CMakeFiles/LeetCode.dir/Solution1269.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1269.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1269.cpp > CMakeFiles/LeetCode.dir/Solution1269.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1269.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1269.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1269.cpp -o CMakeFiles/LeetCode.dir/Solution1269.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution13.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution13.cpp.o: ../Solution13.cpp
+CMakeFiles/LeetCode.dir/Solution13.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/LeetCode.dir/Solution13.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution13.cpp.o -MF CMakeFiles/LeetCode.dir/Solution13.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution13.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution13.cpp
+
+CMakeFiles/LeetCode.dir/Solution13.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution13.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution13.cpp > CMakeFiles/LeetCode.dir/Solution13.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution13.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution13.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution13.cpp -o CMakeFiles/LeetCode.dir/Solution13.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1310.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1310.cpp.o: ../Solution1310.cpp
+CMakeFiles/LeetCode.dir/Solution1310.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/LeetCode.dir/Solution1310.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1310.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1310.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1310.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1310.cpp
+
+CMakeFiles/LeetCode.dir/Solution1310.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1310.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1310.cpp > CMakeFiles/LeetCode.dir/Solution1310.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1310.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1310.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1310.cpp -o CMakeFiles/LeetCode.dir/Solution1310.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1337.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1337.cpp.o: ../Solution1337.cpp
+CMakeFiles/LeetCode.dir/Solution1337.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/LeetCode.dir/Solution1337.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1337.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1337.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1337.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1337.cpp
+
+CMakeFiles/LeetCode.dir/Solution1337.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1337.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1337.cpp > CMakeFiles/LeetCode.dir/Solution1337.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1337.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1337.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1337.cpp -o CMakeFiles/LeetCode.dir/Solution1337.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1342.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1342.cpp.o: ../Solution1342.cpp
+CMakeFiles/LeetCode.dir/Solution1342.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/LeetCode.dir/Solution1342.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1342.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1342.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1342.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1342.cpp
+
+CMakeFiles/LeetCode.dir/Solution1342.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1342.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1342.cpp > CMakeFiles/LeetCode.dir/Solution1342.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1342.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1342.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1342.cpp -o CMakeFiles/LeetCode.dir/Solution1342.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1345.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1345.cpp.o: ../Solution1345.cpp
+CMakeFiles/LeetCode.dir/Solution1345.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/LeetCode.dir/Solution1345.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1345.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1345.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1345.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1345.cpp
+
+CMakeFiles/LeetCode.dir/Solution1345.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1345.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1345.cpp > CMakeFiles/LeetCode.dir/Solution1345.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1345.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1345.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1345.cpp -o CMakeFiles/LeetCode.dir/Solution1345.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution137.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution137.cpp.o: ../Solution137.cpp
+CMakeFiles/LeetCode.dir/Solution137.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/LeetCode.dir/Solution137.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution137.cpp.o -MF CMakeFiles/LeetCode.dir/Solution137.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution137.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution137.cpp
+
+CMakeFiles/LeetCode.dir/Solution137.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution137.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution137.cpp > CMakeFiles/LeetCode.dir/Solution137.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution137.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution137.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution137.cpp -o CMakeFiles/LeetCode.dir/Solution137.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution138.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution138.cpp.o: ../Solution138.cpp
+CMakeFiles/LeetCode.dir/Solution138.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/LeetCode.dir/Solution138.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution138.cpp.o -MF CMakeFiles/LeetCode.dir/Solution138.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution138.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution138.cpp
+
+CMakeFiles/LeetCode.dir/Solution138.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution138.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution138.cpp > CMakeFiles/LeetCode.dir/Solution138.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution138.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution138.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution138.cpp -o CMakeFiles/LeetCode.dir/Solution138.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1380.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1380.cpp.o: ../Solution1380.cpp
+CMakeFiles/LeetCode.dir/Solution1380.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/LeetCode.dir/Solution1380.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1380.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1380.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1380.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1380.cpp
+
+CMakeFiles/LeetCode.dir/Solution1380.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1380.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1380.cpp > CMakeFiles/LeetCode.dir/Solution1380.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1380.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1380.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1380.cpp -o CMakeFiles/LeetCode.dir/Solution1380.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1405.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1405.cpp.o: ../Solution1405.cpp
+CMakeFiles/LeetCode.dir/Solution1405.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/LeetCode.dir/Solution1405.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1405.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1405.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1405.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1405.cpp
+
+CMakeFiles/LeetCode.dir/Solution1405.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1405.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1405.cpp > CMakeFiles/LeetCode.dir/Solution1405.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1405.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1405.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1405.cpp -o CMakeFiles/LeetCode.dir/Solution1405.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1418.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1418.cpp.o: ../Solution1418.cpp
+CMakeFiles/LeetCode.dir/Solution1418.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/LeetCode.dir/Solution1418.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1418.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1418.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1418.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1418.cpp
+
+CMakeFiles/LeetCode.dir/Solution1418.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1418.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1418.cpp > CMakeFiles/LeetCode.dir/Solution1418.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1418.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1418.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1418.cpp -o CMakeFiles/LeetCode.dir/Solution1418.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1442.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1442.cpp.o: ../Solution1442.cpp
+CMakeFiles/LeetCode.dir/Solution1442.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/LeetCode.dir/Solution1442.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1442.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1442.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1442.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1442.cpp
+
+CMakeFiles/LeetCode.dir/Solution1442.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1442.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1442.cpp > CMakeFiles/LeetCode.dir/Solution1442.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1442.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1442.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1442.cpp -o CMakeFiles/LeetCode.dir/Solution1442.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1446.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1446.cpp.o: ../Solution1446.cpp
+CMakeFiles/LeetCode.dir/Solution1446.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/LeetCode.dir/Solution1446.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1446.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1446.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1446.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1446.cpp
+
+CMakeFiles/LeetCode.dir/Solution1446.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1446.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1446.cpp > CMakeFiles/LeetCode.dir/Solution1446.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1446.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1446.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1446.cpp -o CMakeFiles/LeetCode.dir/Solution1446.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1447.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1447.cpp.o: ../Solution1447.cpp
+CMakeFiles/LeetCode.dir/Solution1447.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/LeetCode.dir/Solution1447.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1447.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1447.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1447.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1447.cpp
+
+CMakeFiles/LeetCode.dir/Solution1447.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1447.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1447.cpp > CMakeFiles/LeetCode.dir/Solution1447.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1447.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1447.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1447.cpp -o CMakeFiles/LeetCode.dir/Solution1447.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1480.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1480.cpp.o: ../Solution1480.cpp
+CMakeFiles/LeetCode.dir/Solution1480.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/LeetCode.dir/Solution1480.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1480.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1480.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1480.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1480.cpp
+
+CMakeFiles/LeetCode.dir/Solution1480.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1480.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1480.cpp > CMakeFiles/LeetCode.dir/Solution1480.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1480.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1480.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1480.cpp -o CMakeFiles/LeetCode.dir/Solution1480.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1486.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1486.cpp.o: ../Solution1486.cpp
+CMakeFiles/LeetCode.dir/Solution1486.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/LeetCode.dir/Solution1486.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1486.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1486.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1486.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1486.cpp
+
+CMakeFiles/LeetCode.dir/Solution1486.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1486.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1486.cpp > CMakeFiles/LeetCode.dir/Solution1486.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1486.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1486.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1486.cpp -o CMakeFiles/LeetCode.dir/Solution1486.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution149.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution149.cpp.o: ../Solution149.cpp
+CMakeFiles/LeetCode.dir/Solution149.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/LeetCode.dir/Solution149.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution149.cpp.o -MF CMakeFiles/LeetCode.dir/Solution149.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution149.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution149.cpp
+
+CMakeFiles/LeetCode.dir/Solution149.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution149.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution149.cpp > CMakeFiles/LeetCode.dir/Solution149.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution149.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution149.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution149.cpp -o CMakeFiles/LeetCode.dir/Solution149.cpp.s
+
 CMakeFiles/LeetCode.dir/Solution150.cpp.o: CMakeFiles/LeetCode.dir/flags.make
 CMakeFiles/LeetCode.dir/Solution150.cpp.o: ../Solution150.cpp
 CMakeFiles/LeetCode.dir/Solution150.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/LeetCode.dir/Solution150.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/LeetCode.dir/Solution150.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution150.cpp.o -MF CMakeFiles/LeetCode.dir/Solution150.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution150.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution150.cpp
 
 CMakeFiles/LeetCode.dir/Solution150.cpp.i: cmake_force
@@ -111,10 +895,108 @@ CMakeFiles/LeetCode.dir/Solution150.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution150.cpp.s"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution150.cpp -o CMakeFiles/LeetCode.dir/Solution150.cpp.s
 
+CMakeFiles/LeetCode.dir/Solution1518.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1518.cpp.o: ../Solution1518.cpp
+CMakeFiles/LeetCode.dir/Solution1518.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/LeetCode.dir/Solution1518.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1518.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1518.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1518.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1518.cpp
+
+CMakeFiles/LeetCode.dir/Solution1518.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1518.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1518.cpp > CMakeFiles/LeetCode.dir/Solution1518.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1518.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1518.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1518.cpp -o CMakeFiles/LeetCode.dir/Solution1518.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution153.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution153.cpp.o: ../Solution153.cpp
+CMakeFiles/LeetCode.dir/Solution153.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/LeetCode.dir/Solution153.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution153.cpp.o -MF CMakeFiles/LeetCode.dir/Solution153.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution153.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution153.cpp
+
+CMakeFiles/LeetCode.dir/Solution153.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution153.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution153.cpp > CMakeFiles/LeetCode.dir/Solution153.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution153.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution153.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution153.cpp -o CMakeFiles/LeetCode.dir/Solution153.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1576.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1576.cpp.o: ../Solution1576.cpp
+CMakeFiles/LeetCode.dir/Solution1576.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/LeetCode.dir/Solution1576.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1576.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1576.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1576.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1576.cpp
+
+CMakeFiles/LeetCode.dir/Solution1576.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1576.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1576.cpp > CMakeFiles/LeetCode.dir/Solution1576.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1576.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1576.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1576.cpp -o CMakeFiles/LeetCode.dir/Solution1576.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1583.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1583.cpp.o: ../Solution1583.cpp
+CMakeFiles/LeetCode.dir/Solution1583.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/LeetCode.dir/Solution1583.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1583.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1583.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1583.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1583.cpp
+
+CMakeFiles/LeetCode.dir/Solution1583.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1583.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1583.cpp > CMakeFiles/LeetCode.dir/Solution1583.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1583.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1583.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1583.cpp -o CMakeFiles/LeetCode.dir/Solution1583.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1588.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1588.cpp.o: ../Solution1588.cpp
+CMakeFiles/LeetCode.dir/Solution1588.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/LeetCode.dir/Solution1588.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1588.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1588.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1588.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1588.cpp
+
+CMakeFiles/LeetCode.dir/Solution1588.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1588.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1588.cpp > CMakeFiles/LeetCode.dir/Solution1588.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1588.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1588.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1588.cpp -o CMakeFiles/LeetCode.dir/Solution1588.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution160.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution160.cpp.o: ../Solution160.cpp
+CMakeFiles/LeetCode.dir/Solution160.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/LeetCode.dir/Solution160.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution160.cpp.o -MF CMakeFiles/LeetCode.dir/Solution160.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution160.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution160.cpp
+
+CMakeFiles/LeetCode.dir/Solution160.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution160.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution160.cpp > CMakeFiles/LeetCode.dir/Solution160.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution160.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution160.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution160.cpp -o CMakeFiles/LeetCode.dir/Solution160.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1600.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1600.cpp.o: ../Solution1600.cpp
+CMakeFiles/LeetCode.dir/Solution1600.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/LeetCode.dir/Solution1600.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1600.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1600.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1600.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1600.cpp
+
+CMakeFiles/LeetCode.dir/Solution1600.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1600.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1600.cpp > CMakeFiles/LeetCode.dir/Solution1600.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1600.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1600.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1600.cpp -o CMakeFiles/LeetCode.dir/Solution1600.cpp.s
+
 CMakeFiles/LeetCode.dir/Solution1603.cpp.o: CMakeFiles/LeetCode.dir/flags.make
 CMakeFiles/LeetCode.dir/Solution1603.cpp.o: ../Solution1603.cpp
 CMakeFiles/LeetCode.dir/Solution1603.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/LeetCode.dir/Solution1603.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/LeetCode.dir/Solution1603.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1603.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1603.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1603.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1603.cpp
 
 CMakeFiles/LeetCode.dir/Solution1603.cpp.i: cmake_force
@@ -125,10 +1007,248 @@ CMakeFiles/LeetCode.dir/Solution1603.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1603.cpp.s"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1603.cpp -o CMakeFiles/LeetCode.dir/Solution1603.cpp.s
 
+CMakeFiles/LeetCode.dir/Solution1609.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1609.cpp.o: ../Solution1609.cpp
+CMakeFiles/LeetCode.dir/Solution1609.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/LeetCode.dir/Solution1609.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1609.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1609.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1609.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1609.cpp
+
+CMakeFiles/LeetCode.dir/Solution1609.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1609.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1609.cpp > CMakeFiles/LeetCode.dir/Solution1609.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1609.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1609.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1609.cpp -o CMakeFiles/LeetCode.dir/Solution1609.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1614.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1614.cpp.o: ../Solution1614.cpp
+CMakeFiles/LeetCode.dir/Solution1614.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object CMakeFiles/LeetCode.dir/Solution1614.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1614.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1614.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1614.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1614.cpp
+
+CMakeFiles/LeetCode.dir/Solution1614.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1614.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1614.cpp > CMakeFiles/LeetCode.dir/Solution1614.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1614.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1614.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1614.cpp -o CMakeFiles/LeetCode.dir/Solution1614.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution162.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution162.cpp.o: ../Solution162.cpp
+CMakeFiles/LeetCode.dir/Solution162.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object CMakeFiles/LeetCode.dir/Solution162.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution162.cpp.o -MF CMakeFiles/LeetCode.dir/Solution162.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution162.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution162.cpp
+
+CMakeFiles/LeetCode.dir/Solution162.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution162.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution162.cpp > CMakeFiles/LeetCode.dir/Solution162.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution162.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution162.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution162.cpp -o CMakeFiles/LeetCode.dir/Solution162.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1629.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1629.cpp.o: ../Solution1629.cpp
+CMakeFiles/LeetCode.dir/Solution1629.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object CMakeFiles/LeetCode.dir/Solution1629.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1629.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1629.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1629.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1629.cpp
+
+CMakeFiles/LeetCode.dir/Solution1629.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1629.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1629.cpp > CMakeFiles/LeetCode.dir/Solution1629.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1629.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1629.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1629.cpp -o CMakeFiles/LeetCode.dir/Solution1629.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1646.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1646.cpp.o: ../Solution1646.cpp
+CMakeFiles/LeetCode.dir/Solution1646.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object CMakeFiles/LeetCode.dir/Solution1646.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1646.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1646.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1646.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1646.cpp
+
+CMakeFiles/LeetCode.dir/Solution1646.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1646.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1646.cpp > CMakeFiles/LeetCode.dir/Solution1646.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1646.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1646.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1646.cpp -o CMakeFiles/LeetCode.dir/Solution1646.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution165.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution165.cpp.o: ../Solution165.cpp
+CMakeFiles/LeetCode.dir/Solution165.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object CMakeFiles/LeetCode.dir/Solution165.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution165.cpp.o -MF CMakeFiles/LeetCode.dir/Solution165.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution165.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution165.cpp
+
+CMakeFiles/LeetCode.dir/Solution165.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution165.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution165.cpp > CMakeFiles/LeetCode.dir/Solution165.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution165.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution165.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution165.cpp -o CMakeFiles/LeetCode.dir/Solution165.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution168.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution168.cpp.o: ../Solution168.cpp
+CMakeFiles/LeetCode.dir/Solution168.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object CMakeFiles/LeetCode.dir/Solution168.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution168.cpp.o -MF CMakeFiles/LeetCode.dir/Solution168.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution168.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution168.cpp
+
+CMakeFiles/LeetCode.dir/Solution168.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution168.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution168.cpp > CMakeFiles/LeetCode.dir/Solution168.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution168.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution168.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution168.cpp -o CMakeFiles/LeetCode.dir/Solution168.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1688.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1688.cpp.o: ../Solution1688.cpp
+CMakeFiles/LeetCode.dir/Solution1688.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object CMakeFiles/LeetCode.dir/Solution1688.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1688.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1688.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1688.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1688.cpp
+
+CMakeFiles/LeetCode.dir/Solution1688.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1688.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1688.cpp > CMakeFiles/LeetCode.dir/Solution1688.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1688.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1688.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1688.cpp -o CMakeFiles/LeetCode.dir/Solution1688.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1705.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1705.cpp.o: ../Solution1705.cpp
+CMakeFiles/LeetCode.dir/Solution1705.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/LeetCode.dir/Solution1705.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1705.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1705.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1705.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1705.cpp
+
+CMakeFiles/LeetCode.dir/Solution1705.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1705.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1705.cpp > CMakeFiles/LeetCode.dir/Solution1705.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1705.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1705.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1705.cpp -o CMakeFiles/LeetCode.dir/Solution1705.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1706.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1706.cpp.o: ../Solution1706.cpp
+CMakeFiles/LeetCode.dir/Solution1706.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/LeetCode.dir/Solution1706.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1706.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1706.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1706.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1706.cpp
+
+CMakeFiles/LeetCode.dir/Solution1706.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1706.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1706.cpp > CMakeFiles/LeetCode.dir/Solution1706.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1706.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1706.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1706.cpp -o CMakeFiles/LeetCode.dir/Solution1706.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1707.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1707.cpp.o: ../Solution1707.cpp
+CMakeFiles/LeetCode.dir/Solution1707.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/LeetCode.dir/Solution1707.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1707.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1707.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1707.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1707.cpp
+
+CMakeFiles/LeetCode.dir/Solution1707.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1707.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1707.cpp > CMakeFiles/LeetCode.dir/Solution1707.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1707.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1707.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1707.cpp -o CMakeFiles/LeetCode.dir/Solution1707.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution171.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution171.cpp.o: ../Solution171.cpp
+CMakeFiles/LeetCode.dir/Solution171.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building CXX object CMakeFiles/LeetCode.dir/Solution171.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution171.cpp.o -MF CMakeFiles/LeetCode.dir/Solution171.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution171.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution171.cpp
+
+CMakeFiles/LeetCode.dir/Solution171.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution171.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution171.cpp > CMakeFiles/LeetCode.dir/Solution171.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution171.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution171.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution171.cpp -o CMakeFiles/LeetCode.dir/Solution171.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1711.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1711.cpp.o: ../Solution1711.cpp
+CMakeFiles/LeetCode.dir/Solution1711.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/LeetCode.dir/Solution1711.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1711.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1711.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1711.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1711.cpp
+
+CMakeFiles/LeetCode.dir/Solution1711.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1711.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1711.cpp > CMakeFiles/LeetCode.dir/Solution1711.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1711.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1711.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1711.cpp -o CMakeFiles/LeetCode.dir/Solution1711.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1713.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1713.cpp.o: ../Solution1713.cpp
+CMakeFiles/LeetCode.dir/Solution1713.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/LeetCode.dir/Solution1713.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1713.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1713.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1713.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1713.cpp
+
+CMakeFiles/LeetCode.dir/Solution1713.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1713.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1713.cpp > CMakeFiles/LeetCode.dir/Solution1713.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1713.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1713.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1713.cpp -o CMakeFiles/LeetCode.dir/Solution1713.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1716.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1716.cpp.o: ../Solution1716.cpp
+CMakeFiles/LeetCode.dir/Solution1716.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/LeetCode.dir/Solution1716.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1716.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1716.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1716.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1716.cpp
+
+CMakeFiles/LeetCode.dir/Solution1716.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1716.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1716.cpp > CMakeFiles/LeetCode.dir/Solution1716.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1716.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1716.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1716.cpp -o CMakeFiles/LeetCode.dir/Solution1716.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1720.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1720.cpp.o: ../Solution1720.cpp
+CMakeFiles/LeetCode.dir/Solution1720.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building CXX object CMakeFiles/LeetCode.dir/Solution1720.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1720.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1720.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1720.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1720.cpp
+
+CMakeFiles/LeetCode.dir/Solution1720.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1720.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1720.cpp > CMakeFiles/LeetCode.dir/Solution1720.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1720.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1720.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1720.cpp -o CMakeFiles/LeetCode.dir/Solution1720.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1725.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1725.cpp.o: ../Solution1725.cpp
+CMakeFiles/LeetCode.dir/Solution1725.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building CXX object CMakeFiles/LeetCode.dir/Solution1725.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1725.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1725.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1725.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1725.cpp
+
+CMakeFiles/LeetCode.dir/Solution1725.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1725.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1725.cpp > CMakeFiles/LeetCode.dir/Solution1725.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1725.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1725.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1725.cpp -o CMakeFiles/LeetCode.dir/Solution1725.cpp.s
+
 CMakeFiles/LeetCode.dir/Solution173.cpp.o: CMakeFiles/LeetCode.dir/flags.make
 CMakeFiles/LeetCode.dir/Solution173.cpp.o: ../Solution173.cpp
 CMakeFiles/LeetCode.dir/Solution173.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/LeetCode.dir/Solution173.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building CXX object CMakeFiles/LeetCode.dir/Solution173.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution173.cpp.o -MF CMakeFiles/LeetCode.dir/Solution173.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution173.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution173.cpp
 
 CMakeFiles/LeetCode.dir/Solution173.cpp.i: cmake_force
@@ -139,10 +1259,318 @@ CMakeFiles/LeetCode.dir/Solution173.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution173.cpp.s"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution173.cpp -o CMakeFiles/LeetCode.dir/Solution173.cpp.s
 
+CMakeFiles/LeetCode.dir/Solution1734.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1734.cpp.o: ../Solution1734.cpp
+CMakeFiles/LeetCode.dir/Solution1734.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building CXX object CMakeFiles/LeetCode.dir/Solution1734.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1734.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1734.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1734.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1734.cpp
+
+CMakeFiles/LeetCode.dir/Solution1734.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1734.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1734.cpp > CMakeFiles/LeetCode.dir/Solution1734.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1734.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1734.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1734.cpp -o CMakeFiles/LeetCode.dir/Solution1734.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1736.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1736.cpp.o: ../Solution1736.cpp
+CMakeFiles/LeetCode.dir/Solution1736.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building CXX object CMakeFiles/LeetCode.dir/Solution1736.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1736.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1736.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1736.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1736.cpp
+
+CMakeFiles/LeetCode.dir/Solution1736.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1736.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1736.cpp > CMakeFiles/LeetCode.dir/Solution1736.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1736.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1736.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1736.cpp -o CMakeFiles/LeetCode.dir/Solution1736.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1738.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1738.cpp.o: ../Solution1738.cpp
+CMakeFiles/LeetCode.dir/Solution1738.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building CXX object CMakeFiles/LeetCode.dir/Solution1738.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1738.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1738.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1738.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1738.cpp
+
+CMakeFiles/LeetCode.dir/Solution1738.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1738.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1738.cpp > CMakeFiles/LeetCode.dir/Solution1738.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1738.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1738.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1738.cpp -o CMakeFiles/LeetCode.dir/Solution1738.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1743.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1743.cpp.o: ../Solution1743.cpp
+CMakeFiles/LeetCode.dir/Solution1743.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building CXX object CMakeFiles/LeetCode.dir/Solution1743.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1743.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1743.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1743.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1743.cpp
+
+CMakeFiles/LeetCode.dir/Solution1743.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1743.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1743.cpp > CMakeFiles/LeetCode.dir/Solution1743.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1743.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1743.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1743.cpp -o CMakeFiles/LeetCode.dir/Solution1743.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1744.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1744.cpp.o: ../Solution1744.cpp
+CMakeFiles/LeetCode.dir/Solution1744.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building CXX object CMakeFiles/LeetCode.dir/Solution1744.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1744.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1744.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1744.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1744.cpp
+
+CMakeFiles/LeetCode.dir/Solution1744.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1744.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1744.cpp > CMakeFiles/LeetCode.dir/Solution1744.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1744.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1744.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1744.cpp -o CMakeFiles/LeetCode.dir/Solution1744.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1748.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1748.cpp.o: ../Solution1748.cpp
+CMakeFiles/LeetCode.dir/Solution1748.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building CXX object CMakeFiles/LeetCode.dir/Solution1748.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1748.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1748.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1748.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1748.cpp
+
+CMakeFiles/LeetCode.dir/Solution1748.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1748.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1748.cpp > CMakeFiles/LeetCode.dir/Solution1748.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1748.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1748.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1748.cpp -o CMakeFiles/LeetCode.dir/Solution1748.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1763.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1763.cpp.o: ../Solution1763.cpp
+CMakeFiles/LeetCode.dir/Solution1763.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building CXX object CMakeFiles/LeetCode.dir/Solution1763.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1763.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1763.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1763.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1763.cpp
+
+CMakeFiles/LeetCode.dir/Solution1763.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1763.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1763.cpp > CMakeFiles/LeetCode.dir/Solution1763.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1763.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1763.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1763.cpp -o CMakeFiles/LeetCode.dir/Solution1763.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1765.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1765.cpp.o: ../Solution1765.cpp
+CMakeFiles/LeetCode.dir/Solution1765.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building CXX object CMakeFiles/LeetCode.dir/Solution1765.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1765.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1765.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1765.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1765.cpp
+
+CMakeFiles/LeetCode.dir/Solution1765.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1765.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1765.cpp > CMakeFiles/LeetCode.dir/Solution1765.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1765.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1765.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1765.cpp -o CMakeFiles/LeetCode.dir/Solution1765.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution179.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution179.cpp.o: ../Solution179.cpp
+CMakeFiles/LeetCode.dir/Solution179.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building CXX object CMakeFiles/LeetCode.dir/Solution179.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution179.cpp.o -MF CMakeFiles/LeetCode.dir/Solution179.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution179.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution179.cpp
+
+CMakeFiles/LeetCode.dir/Solution179.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution179.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution179.cpp > CMakeFiles/LeetCode.dir/Solution179.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution179.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution179.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution179.cpp -o CMakeFiles/LeetCode.dir/Solution179.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1791.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1791.cpp.o: ../Solution1791.cpp
+CMakeFiles/LeetCode.dir/Solution1791.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building CXX object CMakeFiles/LeetCode.dir/Solution1791.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1791.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1791.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1791.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1791.cpp
+
+CMakeFiles/LeetCode.dir/Solution1791.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1791.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1791.cpp > CMakeFiles/LeetCode.dir/Solution1791.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1791.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1791.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1791.cpp -o CMakeFiles/LeetCode.dir/Solution1791.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution17_10.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution17_10.cpp.o: ../Solution17_10.cpp
+CMakeFiles/LeetCode.dir/Solution17_10.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building CXX object CMakeFiles/LeetCode.dir/Solution17_10.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution17_10.cpp.o -MF CMakeFiles/LeetCode.dir/Solution17_10.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution17_10.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution17_10.cpp
+
+CMakeFiles/LeetCode.dir/Solution17_10.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution17_10.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution17_10.cpp > CMakeFiles/LeetCode.dir/Solution17_10.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution17_10.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution17_10.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution17_10.cpp -o CMakeFiles/LeetCode.dir/Solution17_10.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution17_21.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution17_21.cpp.o: ../Solution17_21.cpp
+CMakeFiles/LeetCode.dir/Solution17_21.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building CXX object CMakeFiles/LeetCode.dir/Solution17_21.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution17_21.cpp.o -MF CMakeFiles/LeetCode.dir/Solution17_21.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution17_21.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution17_21.cpp
+
+CMakeFiles/LeetCode.dir/Solution17_21.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution17_21.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution17_21.cpp > CMakeFiles/LeetCode.dir/Solution17_21.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution17_21.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution17_21.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution17_21.cpp -o CMakeFiles/LeetCode.dir/Solution17_21.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1816.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1816.cpp.o: ../Solution1816.cpp
+CMakeFiles/LeetCode.dir/Solution1816.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building CXX object CMakeFiles/LeetCode.dir/Solution1816.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1816.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1816.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1816.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1816.cpp
+
+CMakeFiles/LeetCode.dir/Solution1816.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1816.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1816.cpp > CMakeFiles/LeetCode.dir/Solution1816.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1816.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1816.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1816.cpp -o CMakeFiles/LeetCode.dir/Solution1816.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1818.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1818.cpp.o: ../Solution1818.cpp
+CMakeFiles/LeetCode.dir/Solution1818.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building CXX object CMakeFiles/LeetCode.dir/Solution1818.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1818.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1818.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1818.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1818.cpp
+
+CMakeFiles/LeetCode.dir/Solution1818.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1818.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1818.cpp > CMakeFiles/LeetCode.dir/Solution1818.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1818.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1818.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1818.cpp -o CMakeFiles/LeetCode.dir/Solution1818.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1833.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1833.cpp.o: ../Solution1833.cpp
+CMakeFiles/LeetCode.dir/Solution1833.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building CXX object CMakeFiles/LeetCode.dir/Solution1833.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1833.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1833.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1833.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1833.cpp
+
+CMakeFiles/LeetCode.dir/Solution1833.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1833.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1833.cpp > CMakeFiles/LeetCode.dir/Solution1833.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1833.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1833.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1833.cpp -o CMakeFiles/LeetCode.dir/Solution1833.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1838.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1838.cpp.o: ../Solution1838.cpp
+CMakeFiles/LeetCode.dir/Solution1838.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building CXX object CMakeFiles/LeetCode.dir/Solution1838.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1838.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1838.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1838.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1838.cpp
+
+CMakeFiles/LeetCode.dir/Solution1838.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1838.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1838.cpp > CMakeFiles/LeetCode.dir/Solution1838.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1838.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1838.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1838.cpp -o CMakeFiles/LeetCode.dir/Solution1838.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1842.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1842.cpp.o: ../Solution1842.cpp
+CMakeFiles/LeetCode.dir/Solution1842.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building CXX object CMakeFiles/LeetCode.dir/Solution1842.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1842.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1842.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1842.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1842.cpp
+
+CMakeFiles/LeetCode.dir/Solution1842.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1842.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1842.cpp > CMakeFiles/LeetCode.dir/Solution1842.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1842.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1842.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1842.cpp -o CMakeFiles/LeetCode.dir/Solution1842.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1846.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1846.cpp.o: ../Solution1846.cpp
+CMakeFiles/LeetCode.dir/Solution1846.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building CXX object CMakeFiles/LeetCode.dir/Solution1846.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1846.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1846.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1846.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1846.cpp
+
+CMakeFiles/LeetCode.dir/Solution1846.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1846.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1846.cpp > CMakeFiles/LeetCode.dir/Solution1846.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1846.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1846.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1846.cpp -o CMakeFiles/LeetCode.dir/Solution1846.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution187.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution187.cpp.o: ../Solution187.cpp
+CMakeFiles/LeetCode.dir/Solution187.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building CXX object CMakeFiles/LeetCode.dir/Solution187.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution187.cpp.o -MF CMakeFiles/LeetCode.dir/Solution187.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution187.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution187.cpp
+
+CMakeFiles/LeetCode.dir/Solution187.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution187.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution187.cpp > CMakeFiles/LeetCode.dir/Solution187.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution187.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution187.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution187.cpp -o CMakeFiles/LeetCode.dir/Solution187.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1877.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1877.cpp.o: ../Solution1877.cpp
+CMakeFiles/LeetCode.dir/Solution1877.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building CXX object CMakeFiles/LeetCode.dir/Solution1877.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1877.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1877.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1877.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1877.cpp
+
+CMakeFiles/LeetCode.dir/Solution1877.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1877.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1877.cpp > CMakeFiles/LeetCode.dir/Solution1877.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1877.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1877.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1877.cpp -o CMakeFiles/LeetCode.dir/Solution1877.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1893.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1893.cpp.o: ../Solution1893.cpp
+CMakeFiles/LeetCode.dir/Solution1893.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building CXX object CMakeFiles/LeetCode.dir/Solution1893.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1893.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1893.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1893.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1893.cpp
+
+CMakeFiles/LeetCode.dir/Solution1893.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1893.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1893.cpp > CMakeFiles/LeetCode.dir/Solution1893.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1893.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1893.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1893.cpp -o CMakeFiles/LeetCode.dir/Solution1893.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1894.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1894.cpp.o: ../Solution1894.cpp
+CMakeFiles/LeetCode.dir/Solution1894.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building CXX object CMakeFiles/LeetCode.dir/Solution1894.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1894.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1894.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1894.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1894.cpp
+
+CMakeFiles/LeetCode.dir/Solution1894.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1894.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1894.cpp > CMakeFiles/LeetCode.dir/Solution1894.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1894.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1894.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1894.cpp -o CMakeFiles/LeetCode.dir/Solution1894.cpp.s
+
 CMakeFiles/LeetCode.dir/Solution191.cpp.o: CMakeFiles/LeetCode.dir/flags.make
 CMakeFiles/LeetCode.dir/Solution191.cpp.o: ../Solution191.cpp
 CMakeFiles/LeetCode.dir/Solution191.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/LeetCode.dir/Solution191.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building CXX object CMakeFiles/LeetCode.dir/Solution191.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution191.cpp.o -MF CMakeFiles/LeetCode.dir/Solution191.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution191.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution191.cpp
 
 CMakeFiles/LeetCode.dir/Solution191.cpp.i: cmake_force
@@ -153,10 +1581,612 @@ CMakeFiles/LeetCode.dir/Solution191.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution191.cpp.s"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution191.cpp -o CMakeFiles/LeetCode.dir/Solution191.cpp.s
 
+CMakeFiles/LeetCode.dir/Solution1984.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1984.cpp.o: ../Solution1984.cpp
+CMakeFiles/LeetCode.dir/Solution1984.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building CXX object CMakeFiles/LeetCode.dir/Solution1984.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1984.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1984.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1984.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1984.cpp
+
+CMakeFiles/LeetCode.dir/Solution1984.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1984.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1984.cpp > CMakeFiles/LeetCode.dir/Solution1984.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1984.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1984.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1984.cpp -o CMakeFiles/LeetCode.dir/Solution1984.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1995.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1995.cpp.o: ../Solution1995.cpp
+CMakeFiles/LeetCode.dir/Solution1995.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building CXX object CMakeFiles/LeetCode.dir/Solution1995.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1995.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1995.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1995.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1995.cpp
+
+CMakeFiles/LeetCode.dir/Solution1995.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1995.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1995.cpp > CMakeFiles/LeetCode.dir/Solution1995.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1995.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1995.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1995.cpp -o CMakeFiles/LeetCode.dir/Solution1995.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution1996.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution1996.cpp.o: ../Solution1996.cpp
+CMakeFiles/LeetCode.dir/Solution1996.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building CXX object CMakeFiles/LeetCode.dir/Solution1996.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution1996.cpp.o -MF CMakeFiles/LeetCode.dir/Solution1996.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution1996.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1996.cpp
+
+CMakeFiles/LeetCode.dir/Solution1996.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution1996.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1996.cpp > CMakeFiles/LeetCode.dir/Solution1996.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution1996.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution1996.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1996.cpp -o CMakeFiles/LeetCode.dir/Solution1996.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution2000.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution2000.cpp.o: ../Solution2000.cpp
+CMakeFiles/LeetCode.dir/Solution2000.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building CXX object CMakeFiles/LeetCode.dir/Solution2000.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution2000.cpp.o -MF CMakeFiles/LeetCode.dir/Solution2000.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution2000.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2000.cpp
+
+CMakeFiles/LeetCode.dir/Solution2000.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution2000.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2000.cpp > CMakeFiles/LeetCode.dir/Solution2000.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution2000.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution2000.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2000.cpp -o CMakeFiles/LeetCode.dir/Solution2000.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution2006.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution2006.cpp.o: ../Solution2006.cpp
+CMakeFiles/LeetCode.dir/Solution2006.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building CXX object CMakeFiles/LeetCode.dir/Solution2006.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution2006.cpp.o -MF CMakeFiles/LeetCode.dir/Solution2006.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution2006.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2006.cpp
+
+CMakeFiles/LeetCode.dir/Solution2006.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution2006.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2006.cpp > CMakeFiles/LeetCode.dir/Solution2006.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution2006.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution2006.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2006.cpp -o CMakeFiles/LeetCode.dir/Solution2006.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution2013.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution2013.cpp.o: ../Solution2013.cpp
+CMakeFiles/LeetCode.dir/Solution2013.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building CXX object CMakeFiles/LeetCode.dir/Solution2013.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution2013.cpp.o -MF CMakeFiles/LeetCode.dir/Solution2013.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution2013.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2013.cpp
+
+CMakeFiles/LeetCode.dir/Solution2013.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution2013.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2013.cpp > CMakeFiles/LeetCode.dir/Solution2013.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution2013.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution2013.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2013.cpp -o CMakeFiles/LeetCode.dir/Solution2013.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution2022.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution2022.cpp.o: ../Solution2022.cpp
+CMakeFiles/LeetCode.dir/Solution2022.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building CXX object CMakeFiles/LeetCode.dir/Solution2022.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution2022.cpp.o -MF CMakeFiles/LeetCode.dir/Solution2022.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution2022.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2022.cpp
+
+CMakeFiles/LeetCode.dir/Solution2022.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution2022.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2022.cpp > CMakeFiles/LeetCode.dir/Solution2022.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution2022.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution2022.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2022.cpp -o CMakeFiles/LeetCode.dir/Solution2022.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution2029.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution2029.cpp.o: ../Solution2029.cpp
+CMakeFiles/LeetCode.dir/Solution2029.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building CXX object CMakeFiles/LeetCode.dir/Solution2029.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution2029.cpp.o -MF CMakeFiles/LeetCode.dir/Solution2029.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution2029.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2029.cpp
+
+CMakeFiles/LeetCode.dir/Solution2029.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution2029.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2029.cpp > CMakeFiles/LeetCode.dir/Solution2029.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution2029.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution2029.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2029.cpp -o CMakeFiles/LeetCode.dir/Solution2029.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution203.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution203.cpp.o: ../Solution203.cpp
+CMakeFiles/LeetCode.dir/Solution203.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building CXX object CMakeFiles/LeetCode.dir/Solution203.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution203.cpp.o -MF CMakeFiles/LeetCode.dir/Solution203.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution203.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution203.cpp
+
+CMakeFiles/LeetCode.dir/Solution203.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution203.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution203.cpp > CMakeFiles/LeetCode.dir/Solution203.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution203.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution203.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution203.cpp -o CMakeFiles/LeetCode.dir/Solution203.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution2047.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution2047.cpp.o: ../Solution2047.cpp
+CMakeFiles/LeetCode.dir/Solution2047.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building CXX object CMakeFiles/LeetCode.dir/Solution2047.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution2047.cpp.o -MF CMakeFiles/LeetCode.dir/Solution2047.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution2047.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2047.cpp
+
+CMakeFiles/LeetCode.dir/Solution2047.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution2047.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2047.cpp > CMakeFiles/LeetCode.dir/Solution2047.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution2047.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution2047.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2047.cpp -o CMakeFiles/LeetCode.dir/Solution2047.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution2055.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution2055.cpp.o: ../Solution2055.cpp
+CMakeFiles/LeetCode.dir/Solution2055.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building CXX object CMakeFiles/LeetCode.dir/Solution2055.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution2055.cpp.o -MF CMakeFiles/LeetCode.dir/Solution2055.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution2055.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2055.cpp
+
+CMakeFiles/LeetCode.dir/Solution2055.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution2055.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2055.cpp > CMakeFiles/LeetCode.dir/Solution2055.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution2055.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution2055.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2055.cpp -o CMakeFiles/LeetCode.dir/Solution2055.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution208.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution208.cpp.o: ../Solution208.cpp
+CMakeFiles/LeetCode.dir/Solution208.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building CXX object CMakeFiles/LeetCode.dir/Solution208.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution208.cpp.o -MF CMakeFiles/LeetCode.dir/Solution208.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution208.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution208.cpp
+
+CMakeFiles/LeetCode.dir/Solution208.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution208.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution208.cpp > CMakeFiles/LeetCode.dir/Solution208.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution208.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution208.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution208.cpp -o CMakeFiles/LeetCode.dir/Solution208.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution2100.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution2100.cpp.o: ../Solution2100.cpp
+CMakeFiles/LeetCode.dir/Solution2100.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building CXX object CMakeFiles/LeetCode.dir/Solution2100.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution2100.cpp.o -MF CMakeFiles/LeetCode.dir/Solution2100.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution2100.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2100.cpp
+
+CMakeFiles/LeetCode.dir/Solution2100.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution2100.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2100.cpp > CMakeFiles/LeetCode.dir/Solution2100.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution2100.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution2100.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2100.cpp -o CMakeFiles/LeetCode.dir/Solution2100.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution211.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution211.cpp.o: ../Solution211.cpp
+CMakeFiles/LeetCode.dir/Solution211.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building CXX object CMakeFiles/LeetCode.dir/Solution211.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution211.cpp.o -MF CMakeFiles/LeetCode.dir/Solution211.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution211.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution211.cpp
+
+CMakeFiles/LeetCode.dir/Solution211.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution211.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution211.cpp > CMakeFiles/LeetCode.dir/Solution211.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution211.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution211.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution211.cpp -o CMakeFiles/LeetCode.dir/Solution211.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution213.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution213.cpp.o: ../Solution213.cpp
+CMakeFiles/LeetCode.dir/Solution213.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building CXX object CMakeFiles/LeetCode.dir/Solution213.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution213.cpp.o -MF CMakeFiles/LeetCode.dir/Solution213.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution213.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution213.cpp
+
+CMakeFiles/LeetCode.dir/Solution213.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution213.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution213.cpp > CMakeFiles/LeetCode.dir/Solution213.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution213.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution213.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution213.cpp -o CMakeFiles/LeetCode.dir/Solution213.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution219.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution219.cpp.o: ../Solution219.cpp
+CMakeFiles/LeetCode.dir/Solution219.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building CXX object CMakeFiles/LeetCode.dir/Solution219.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution219.cpp.o -MF CMakeFiles/LeetCode.dir/Solution219.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution219.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution219.cpp
+
+CMakeFiles/LeetCode.dir/Solution219.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution219.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution219.cpp > CMakeFiles/LeetCode.dir/Solution219.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution219.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution219.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution219.cpp -o CMakeFiles/LeetCode.dir/Solution219.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution220.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution220.cpp.o: ../Solution220.cpp
+CMakeFiles/LeetCode.dir/Solution220.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building CXX object CMakeFiles/LeetCode.dir/Solution220.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution220.cpp.o -MF CMakeFiles/LeetCode.dir/Solution220.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution220.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution220.cpp
+
+CMakeFiles/LeetCode.dir/Solution220.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution220.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution220.cpp > CMakeFiles/LeetCode.dir/Solution220.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution220.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution220.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution220.cpp -o CMakeFiles/LeetCode.dir/Solution220.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution223.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution223.cpp.o: ../Solution223.cpp
+CMakeFiles/LeetCode.dir/Solution223.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building CXX object CMakeFiles/LeetCode.dir/Solution223.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution223.cpp.o -MF CMakeFiles/LeetCode.dir/Solution223.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution223.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution223.cpp
+
+CMakeFiles/LeetCode.dir/Solution223.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution223.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution223.cpp > CMakeFiles/LeetCode.dir/Solution223.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution223.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution223.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution223.cpp -o CMakeFiles/LeetCode.dir/Solution223.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution229.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution229.cpp.o: ../Solution229.cpp
+CMakeFiles/LeetCode.dir/Solution229.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building CXX object CMakeFiles/LeetCode.dir/Solution229.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution229.cpp.o -MF CMakeFiles/LeetCode.dir/Solution229.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution229.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution229.cpp
+
+CMakeFiles/LeetCode.dir/Solution229.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution229.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution229.cpp > CMakeFiles/LeetCode.dir/Solution229.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution229.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution229.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution229.cpp -o CMakeFiles/LeetCode.dir/Solution229.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution230.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution230.cpp.o: ../Solution230.cpp
+CMakeFiles/LeetCode.dir/Solution230.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building CXX object CMakeFiles/LeetCode.dir/Solution230.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution230.cpp.o -MF CMakeFiles/LeetCode.dir/Solution230.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution230.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution230.cpp
+
+CMakeFiles/LeetCode.dir/Solution230.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution230.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution230.cpp > CMakeFiles/LeetCode.dir/Solution230.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution230.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution230.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution230.cpp -o CMakeFiles/LeetCode.dir/Solution230.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution231_2.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution231_2.cpp.o: ../Solution231_2.cpp
+CMakeFiles/LeetCode.dir/Solution231_2.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building CXX object CMakeFiles/LeetCode.dir/Solution231_2.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution231_2.cpp.o -MF CMakeFiles/LeetCode.dir/Solution231_2.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution231_2.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution231_2.cpp
+
+CMakeFiles/LeetCode.dir/Solution231_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution231_2.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution231_2.cpp > CMakeFiles/LeetCode.dir/Solution231_2.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution231_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution231_2.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution231_2.cpp -o CMakeFiles/LeetCode.dir/Solution231_2.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution237.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution237.cpp.o: ../Solution237.cpp
+CMakeFiles/LeetCode.dir/Solution237.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building CXX object CMakeFiles/LeetCode.dir/Solution237.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution237.cpp.o -MF CMakeFiles/LeetCode.dir/Solution237.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution237.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution237.cpp
+
+CMakeFiles/LeetCode.dir/Solution237.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution237.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution237.cpp > CMakeFiles/LeetCode.dir/Solution237.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution237.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution237.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution237.cpp -o CMakeFiles/LeetCode.dir/Solution237.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution26.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution26.cpp.o: ../Solution26.cpp
+CMakeFiles/LeetCode.dir/Solution26.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building CXX object CMakeFiles/LeetCode.dir/Solution26.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution26.cpp.o -MF CMakeFiles/LeetCode.dir/Solution26.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution26.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution26.cpp
+
+CMakeFiles/LeetCode.dir/Solution26.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution26.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution26.cpp > CMakeFiles/LeetCode.dir/Solution26.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution26.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution26.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution26.cpp -o CMakeFiles/LeetCode.dir/Solution26.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution260.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution260.cpp.o: ../Solution260.cpp
+CMakeFiles/LeetCode.dir/Solution260.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building CXX object CMakeFiles/LeetCode.dir/Solution260.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution260.cpp.o -MF CMakeFiles/LeetCode.dir/Solution260.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution260.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution260.cpp
+
+CMakeFiles/LeetCode.dir/Solution260.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution260.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution260.cpp > CMakeFiles/LeetCode.dir/Solution260.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution260.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution260.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution260.cpp -o CMakeFiles/LeetCode.dir/Solution260.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution264.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution264.cpp.o: ../Solution264.cpp
+CMakeFiles/LeetCode.dir/Solution264.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building CXX object CMakeFiles/LeetCode.dir/Solution264.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution264.cpp.o -MF CMakeFiles/LeetCode.dir/Solution264.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution264.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution264.cpp
+
+CMakeFiles/LeetCode.dir/Solution264.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution264.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution264.cpp > CMakeFiles/LeetCode.dir/Solution264.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution264.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution264.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution264.cpp -o CMakeFiles/LeetCode.dir/Solution264.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution268.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution268.cpp.o: ../Solution268.cpp
+CMakeFiles/LeetCode.dir/Solution268.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building CXX object CMakeFiles/LeetCode.dir/Solution268.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution268.cpp.o -MF CMakeFiles/LeetCode.dir/Solution268.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution268.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution268.cpp
+
+CMakeFiles/LeetCode.dir/Solution268.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution268.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution268.cpp > CMakeFiles/LeetCode.dir/Solution268.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution268.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution268.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution268.cpp -o CMakeFiles/LeetCode.dir/Solution268.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution27.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution27.cpp.o: ../Solution27.cpp
+CMakeFiles/LeetCode.dir/Solution27.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building CXX object CMakeFiles/LeetCode.dir/Solution27.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution27.cpp.o -MF CMakeFiles/LeetCode.dir/Solution27.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution27.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution27.cpp
+
+CMakeFiles/LeetCode.dir/Solution27.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution27.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution27.cpp > CMakeFiles/LeetCode.dir/Solution27.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution27.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution27.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution27.cpp -o CMakeFiles/LeetCode.dir/Solution27.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution273.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution273.cpp.o: ../Solution273.cpp
+CMakeFiles/LeetCode.dir/Solution273.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building CXX object CMakeFiles/LeetCode.dir/Solution273.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution273.cpp.o -MF CMakeFiles/LeetCode.dir/Solution273.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution273.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution273.cpp
+
+CMakeFiles/LeetCode.dir/Solution273.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution273.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution273.cpp > CMakeFiles/LeetCode.dir/Solution273.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution273.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution273.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution273.cpp -o CMakeFiles/LeetCode.dir/Solution273.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution274.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution274.cpp.o: ../Solution274.cpp
+CMakeFiles/LeetCode.dir/Solution274.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building CXX object CMakeFiles/LeetCode.dir/Solution274.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution274.cpp.o -MF CMakeFiles/LeetCode.dir/Solution274.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution274.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution274.cpp
+
+CMakeFiles/LeetCode.dir/Solution274.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution274.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution274.cpp > CMakeFiles/LeetCode.dir/Solution274.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution274.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution274.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution274.cpp -o CMakeFiles/LeetCode.dir/Solution274.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution278.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution278.cpp.o: ../Solution278.cpp
+CMakeFiles/LeetCode.dir/Solution278.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building CXX object CMakeFiles/LeetCode.dir/Solution278.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution278.cpp.o -MF CMakeFiles/LeetCode.dir/Solution278.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution278.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution278.cpp
+
+CMakeFiles/LeetCode.dir/Solution278.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution278.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution278.cpp > CMakeFiles/LeetCode.dir/Solution278.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution278.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution278.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution278.cpp -o CMakeFiles/LeetCode.dir/Solution278.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution28.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution28.cpp.o: ../Solution28.cpp
+CMakeFiles/LeetCode.dir/Solution28.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building CXX object CMakeFiles/LeetCode.dir/Solution28.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution28.cpp.o -MF CMakeFiles/LeetCode.dir/Solution28.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution28.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution28.cpp
+
+CMakeFiles/LeetCode.dir/Solution28.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution28.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution28.cpp > CMakeFiles/LeetCode.dir/Solution28.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution28.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution28.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution28.cpp -o CMakeFiles/LeetCode.dir/Solution28.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution284.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution284.cpp.o: ../Solution284.cpp
+CMakeFiles/LeetCode.dir/Solution284.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building CXX object CMakeFiles/LeetCode.dir/Solution284.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution284.cpp.o -MF CMakeFiles/LeetCode.dir/Solution284.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution284.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution284.cpp
+
+CMakeFiles/LeetCode.dir/Solution284.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution284.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution284.cpp > CMakeFiles/LeetCode.dir/Solution284.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution284.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution284.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution284.cpp -o CMakeFiles/LeetCode.dir/Solution284.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution292.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution292.cpp.o: ../Solution292.cpp
+CMakeFiles/LeetCode.dir/Solution292.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building CXX object CMakeFiles/LeetCode.dir/Solution292.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution292.cpp.o -MF CMakeFiles/LeetCode.dir/Solution292.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution292.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution292.cpp
+
+CMakeFiles/LeetCode.dir/Solution292.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution292.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution292.cpp > CMakeFiles/LeetCode.dir/Solution292.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution292.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution292.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution292.cpp -o CMakeFiles/LeetCode.dir/Solution292.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution295.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution295.cpp.o: ../Solution295.cpp
+CMakeFiles/LeetCode.dir/Solution295.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building CXX object CMakeFiles/LeetCode.dir/Solution295.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution295.cpp.o -MF CMakeFiles/LeetCode.dir/Solution295.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution295.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution295.cpp
+
+CMakeFiles/LeetCode.dir/Solution295.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution295.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution295.cpp > CMakeFiles/LeetCode.dir/Solution295.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution295.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution295.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution295.cpp -o CMakeFiles/LeetCode.dir/Solution295.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution299.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution299.cpp.o: ../Solution299.cpp
+CMakeFiles/LeetCode.dir/Solution299.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building CXX object CMakeFiles/LeetCode.dir/Solution299.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution299.cpp.o -MF CMakeFiles/LeetCode.dir/Solution299.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution299.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution299.cpp
+
+CMakeFiles/LeetCode.dir/Solution299.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution299.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution299.cpp > CMakeFiles/LeetCode.dir/Solution299.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution299.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution299.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution299.cpp -o CMakeFiles/LeetCode.dir/Solution299.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution301.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution301.cpp.o: ../Solution301.cpp
+CMakeFiles/LeetCode.dir/Solution301.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building CXX object CMakeFiles/LeetCode.dir/Solution301.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution301.cpp.o -MF CMakeFiles/LeetCode.dir/Solution301.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution301.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution301.cpp
+
+CMakeFiles/LeetCode.dir/Solution301.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution301.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution301.cpp > CMakeFiles/LeetCode.dir/Solution301.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution301.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution301.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution301.cpp -o CMakeFiles/LeetCode.dir/Solution301.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution306.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution306.cpp.o: ../Solution306.cpp
+CMakeFiles/LeetCode.dir/Solution306.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building CXX object CMakeFiles/LeetCode.dir/Solution306.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution306.cpp.o -MF CMakeFiles/LeetCode.dir/Solution306.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution306.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution306.cpp
+
+CMakeFiles/LeetCode.dir/Solution306.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution306.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution306.cpp > CMakeFiles/LeetCode.dir/Solution306.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution306.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution306.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution306.cpp -o CMakeFiles/LeetCode.dir/Solution306.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution313.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution313.cpp.o: ../Solution313.cpp
+CMakeFiles/LeetCode.dir/Solution313.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building CXX object CMakeFiles/LeetCode.dir/Solution313.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution313.cpp.o -MF CMakeFiles/LeetCode.dir/Solution313.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution313.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution313.cpp
+
+CMakeFiles/LeetCode.dir/Solution313.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution313.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution313.cpp > CMakeFiles/LeetCode.dir/Solution313.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution313.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution313.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution313.cpp -o CMakeFiles/LeetCode.dir/Solution313.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution318.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution318.cpp.o: ../Solution318.cpp
+CMakeFiles/LeetCode.dir/Solution318.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building CXX object CMakeFiles/LeetCode.dir/Solution318.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution318.cpp.o -MF CMakeFiles/LeetCode.dir/Solution318.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution318.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution318.cpp
+
+CMakeFiles/LeetCode.dir/Solution318.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution318.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution318.cpp > CMakeFiles/LeetCode.dir/Solution318.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution318.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution318.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution318.cpp -o CMakeFiles/LeetCode.dir/Solution318.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution319.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution319.cpp.o: ../Solution319.cpp
+CMakeFiles/LeetCode.dir/Solution319.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building CXX object CMakeFiles/LeetCode.dir/Solution319.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution319.cpp.o -MF CMakeFiles/LeetCode.dir/Solution319.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution319.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution319.cpp
+
+CMakeFiles/LeetCode.dir/Solution319.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution319.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution319.cpp > CMakeFiles/LeetCode.dir/Solution319.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution319.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution319.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution319.cpp -o CMakeFiles/LeetCode.dir/Solution319.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution326.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution326.cpp.o: ../Solution326.cpp
+CMakeFiles/LeetCode.dir/Solution326.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building CXX object CMakeFiles/LeetCode.dir/Solution326.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution326.cpp.o -MF CMakeFiles/LeetCode.dir/Solution326.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution326.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution326.cpp
+
+CMakeFiles/LeetCode.dir/Solution326.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution326.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution326.cpp > CMakeFiles/LeetCode.dir/Solution326.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution326.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution326.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution326.cpp -o CMakeFiles/LeetCode.dir/Solution326.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution334.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution334.cpp.o: ../Solution334.cpp
+CMakeFiles/LeetCode.dir/Solution334.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building CXX object CMakeFiles/LeetCode.dir/Solution334.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution334.cpp.o -MF CMakeFiles/LeetCode.dir/Solution334.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution334.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution334.cpp
+
+CMakeFiles/LeetCode.dir/Solution334.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution334.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution334.cpp > CMakeFiles/LeetCode.dir/Solution334.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution334.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution334.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution334.cpp -o CMakeFiles/LeetCode.dir/Solution334.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution335.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution335.cpp.o: ../Solution335.cpp
+CMakeFiles/LeetCode.dir/Solution335.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Building CXX object CMakeFiles/LeetCode.dir/Solution335.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution335.cpp.o -MF CMakeFiles/LeetCode.dir/Solution335.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution335.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution335.cpp
+
+CMakeFiles/LeetCode.dir/Solution335.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution335.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution335.cpp > CMakeFiles/LeetCode.dir/Solution335.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution335.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution335.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution335.cpp -o CMakeFiles/LeetCode.dir/Solution335.cpp.s
+
 CMakeFiles/LeetCode.dir/Solution341.cpp.o: CMakeFiles/LeetCode.dir/flags.make
 CMakeFiles/LeetCode.dir/Solution341.cpp.o: ../Solution341.cpp
 CMakeFiles/LeetCode.dir/Solution341.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/LeetCode.dir/Solution341.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building CXX object CMakeFiles/LeetCode.dir/Solution341.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution341.cpp.o -MF CMakeFiles/LeetCode.dir/Solution341.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution341.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution341.cpp
 
 CMakeFiles/LeetCode.dir/Solution341.cpp.i: cmake_force
@@ -167,10 +2197,388 @@ CMakeFiles/LeetCode.dir/Solution341.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution341.cpp.s"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution341.cpp -o CMakeFiles/LeetCode.dir/Solution341.cpp.s
 
+CMakeFiles/LeetCode.dir/Solution342_4.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution342_4.cpp.o: ../Solution342_4.cpp
+CMakeFiles/LeetCode.dir/Solution342_4.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_153) "Building CXX object CMakeFiles/LeetCode.dir/Solution342_4.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution342_4.cpp.o -MF CMakeFiles/LeetCode.dir/Solution342_4.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution342_4.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution342_4.cpp
+
+CMakeFiles/LeetCode.dir/Solution342_4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution342_4.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution342_4.cpp > CMakeFiles/LeetCode.dir/Solution342_4.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution342_4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution342_4.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution342_4.cpp -o CMakeFiles/LeetCode.dir/Solution342_4.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution345.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution345.cpp.o: ../Solution345.cpp
+CMakeFiles/LeetCode.dir/Solution345.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_154) "Building CXX object CMakeFiles/LeetCode.dir/Solution345.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution345.cpp.o -MF CMakeFiles/LeetCode.dir/Solution345.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution345.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution345.cpp
+
+CMakeFiles/LeetCode.dir/Solution345.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution345.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution345.cpp > CMakeFiles/LeetCode.dir/Solution345.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution345.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution345.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution345.cpp -o CMakeFiles/LeetCode.dir/Solution345.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution352.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution352.cpp.o: ../Solution352.cpp
+CMakeFiles/LeetCode.dir/Solution352.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_155) "Building CXX object CMakeFiles/LeetCode.dir/Solution352.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution352.cpp.o -MF CMakeFiles/LeetCode.dir/Solution352.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution352.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution352.cpp
+
+CMakeFiles/LeetCode.dir/Solution352.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution352.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution352.cpp > CMakeFiles/LeetCode.dir/Solution352.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution352.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution352.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution352.cpp -o CMakeFiles/LeetCode.dir/Solution352.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution36.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution36.cpp.o: ../Solution36.cpp
+CMakeFiles/LeetCode.dir/Solution36.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_156) "Building CXX object CMakeFiles/LeetCode.dir/Solution36.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution36.cpp.o -MF CMakeFiles/LeetCode.dir/Solution36.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution36.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution36.cpp
+
+CMakeFiles/LeetCode.dir/Solution36.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution36.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution36.cpp > CMakeFiles/LeetCode.dir/Solution36.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution36.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution36.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution36.cpp -o CMakeFiles/LeetCode.dir/Solution36.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution363.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution363.cpp.o: ../Solution363.cpp
+CMakeFiles/LeetCode.dir/Solution363.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_157) "Building CXX object CMakeFiles/LeetCode.dir/Solution363.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution363.cpp.o -MF CMakeFiles/LeetCode.dir/Solution363.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution363.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution363.cpp
+
+CMakeFiles/LeetCode.dir/Solution363.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution363.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution363.cpp > CMakeFiles/LeetCode.dir/Solution363.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution363.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution363.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution363.cpp -o CMakeFiles/LeetCode.dir/Solution363.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution367.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution367.cpp.o: ../Solution367.cpp
+CMakeFiles/LeetCode.dir/Solution367.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_158) "Building CXX object CMakeFiles/LeetCode.dir/Solution367.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution367.cpp.o -MF CMakeFiles/LeetCode.dir/Solution367.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution367.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution367.cpp
+
+CMakeFiles/LeetCode.dir/Solution367.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution367.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution367.cpp > CMakeFiles/LeetCode.dir/Solution367.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution367.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution367.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution367.cpp -o CMakeFiles/LeetCode.dir/Solution367.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution371.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution371.cpp.o: ../Solution371.cpp
+CMakeFiles/LeetCode.dir/Solution371.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_159) "Building CXX object CMakeFiles/LeetCode.dir/Solution371.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution371.cpp.o -MF CMakeFiles/LeetCode.dir/Solution371.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution371.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution371.cpp
+
+CMakeFiles/LeetCode.dir/Solution371.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution371.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution371.cpp > CMakeFiles/LeetCode.dir/Solution371.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution371.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution371.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution371.cpp -o CMakeFiles/LeetCode.dir/Solution371.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution372.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution372.cpp.o: ../Solution372.cpp
+CMakeFiles/LeetCode.dir/Solution372.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_160) "Building CXX object CMakeFiles/LeetCode.dir/Solution372.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution372.cpp.o -MF CMakeFiles/LeetCode.dir/Solution372.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution372.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution372.cpp
+
+CMakeFiles/LeetCode.dir/Solution372.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution372.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution372.cpp > CMakeFiles/LeetCode.dir/Solution372.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution372.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution372.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution372.cpp -o CMakeFiles/LeetCode.dir/Solution372.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution374.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution374.cpp.o: ../Solution374.cpp
+CMakeFiles/LeetCode.dir/Solution374.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_161) "Building CXX object CMakeFiles/LeetCode.dir/Solution374.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution374.cpp.o -MF CMakeFiles/LeetCode.dir/Solution374.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution374.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution374.cpp
+
+CMakeFiles/LeetCode.dir/Solution374.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution374.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution374.cpp > CMakeFiles/LeetCode.dir/Solution374.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution374.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution374.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution374.cpp -o CMakeFiles/LeetCode.dir/Solution374.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution375.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution375.cpp.o: ../Solution375.cpp
+CMakeFiles/LeetCode.dir/Solution375.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_162) "Building CXX object CMakeFiles/LeetCode.dir/Solution375.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution375.cpp.o -MF CMakeFiles/LeetCode.dir/Solution375.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution375.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution375.cpp
+
+CMakeFiles/LeetCode.dir/Solution375.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution375.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution375.cpp > CMakeFiles/LeetCode.dir/Solution375.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution375.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution375.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution375.cpp -o CMakeFiles/LeetCode.dir/Solution375.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution378.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution378.cpp.o: ../Solution378.cpp
+CMakeFiles/LeetCode.dir/Solution378.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_163) "Building CXX object CMakeFiles/LeetCode.dir/Solution378.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution378.cpp.o -MF CMakeFiles/LeetCode.dir/Solution378.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution378.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution378.cpp
+
+CMakeFiles/LeetCode.dir/Solution378.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution378.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution378.cpp > CMakeFiles/LeetCode.dir/Solution378.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution378.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution378.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution378.cpp -o CMakeFiles/LeetCode.dir/Solution378.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution38.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution38.cpp.o: ../Solution38.cpp
+CMakeFiles/LeetCode.dir/Solution38.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_164) "Building CXX object CMakeFiles/LeetCode.dir/Solution38.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution38.cpp.o -MF CMakeFiles/LeetCode.dir/Solution38.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution38.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution38.cpp
+
+CMakeFiles/LeetCode.dir/Solution38.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution38.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution38.cpp > CMakeFiles/LeetCode.dir/Solution38.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution38.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution38.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution38.cpp -o CMakeFiles/LeetCode.dir/Solution38.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution382.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution382.cpp.o: ../Solution382.cpp
+CMakeFiles/LeetCode.dir/Solution382.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_165) "Building CXX object CMakeFiles/LeetCode.dir/Solution382.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution382.cpp.o -MF CMakeFiles/LeetCode.dir/Solution382.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution382.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution382.cpp
+
+CMakeFiles/LeetCode.dir/Solution382.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution382.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution382.cpp > CMakeFiles/LeetCode.dir/Solution382.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution382.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution382.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution382.cpp -o CMakeFiles/LeetCode.dir/Solution382.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution383.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution383.cpp.o: ../Solution383.cpp
+CMakeFiles/LeetCode.dir/Solution383.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_166) "Building CXX object CMakeFiles/LeetCode.dir/Solution383.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution383.cpp.o -MF CMakeFiles/LeetCode.dir/Solution383.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution383.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution383.cpp
+
+CMakeFiles/LeetCode.dir/Solution383.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution383.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution383.cpp > CMakeFiles/LeetCode.dir/Solution383.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution383.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution383.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution383.cpp -o CMakeFiles/LeetCode.dir/Solution383.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution384.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution384.cpp.o: ../Solution384.cpp
+CMakeFiles/LeetCode.dir/Solution384.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_167) "Building CXX object CMakeFiles/LeetCode.dir/Solution384.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution384.cpp.o -MF CMakeFiles/LeetCode.dir/Solution384.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution384.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution384.cpp
+
+CMakeFiles/LeetCode.dir/Solution384.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution384.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution384.cpp > CMakeFiles/LeetCode.dir/Solution384.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution384.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution384.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution384.cpp -o CMakeFiles/LeetCode.dir/Solution384.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution390.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution390.cpp.o: ../Solution390.cpp
+CMakeFiles/LeetCode.dir/Solution390.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_168) "Building CXX object CMakeFiles/LeetCode.dir/Solution390.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution390.cpp.o -MF CMakeFiles/LeetCode.dir/Solution390.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution390.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution390.cpp
+
+CMakeFiles/LeetCode.dir/Solution390.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution390.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution390.cpp > CMakeFiles/LeetCode.dir/Solution390.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution390.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution390.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution390.cpp -o CMakeFiles/LeetCode.dir/Solution390.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution391.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution391.cpp.o: ../Solution391.cpp
+CMakeFiles/LeetCode.dir/Solution391.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_169) "Building CXX object CMakeFiles/LeetCode.dir/Solution391.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution391.cpp.o -MF CMakeFiles/LeetCode.dir/Solution391.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution391.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution391.cpp
+
+CMakeFiles/LeetCode.dir/Solution391.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution391.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution391.cpp > CMakeFiles/LeetCode.dir/Solution391.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution391.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution391.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution391.cpp -o CMakeFiles/LeetCode.dir/Solution391.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution397.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution397.cpp.o: ../Solution397.cpp
+CMakeFiles/LeetCode.dir/Solution397.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_170) "Building CXX object CMakeFiles/LeetCode.dir/Solution397.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution397.cpp.o -MF CMakeFiles/LeetCode.dir/Solution397.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution397.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution397.cpp
+
+CMakeFiles/LeetCode.dir/Solution397.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution397.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution397.cpp > CMakeFiles/LeetCode.dir/Solution397.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution397.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution397.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution397.cpp -o CMakeFiles/LeetCode.dir/Solution397.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution400.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution400.cpp.o: ../Solution400.cpp
+CMakeFiles/LeetCode.dir/Solution400.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_171) "Building CXX object CMakeFiles/LeetCode.dir/Solution400.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution400.cpp.o -MF CMakeFiles/LeetCode.dir/Solution400.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution400.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution400.cpp
+
+CMakeFiles/LeetCode.dir/Solution400.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution400.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution400.cpp > CMakeFiles/LeetCode.dir/Solution400.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution400.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution400.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution400.cpp -o CMakeFiles/LeetCode.dir/Solution400.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution401.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution401.cpp.o: ../Solution401.cpp
+CMakeFiles/LeetCode.dir/Solution401.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_172) "Building CXX object CMakeFiles/LeetCode.dir/Solution401.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution401.cpp.o -MF CMakeFiles/LeetCode.dir/Solution401.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution401.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution401.cpp
+
+CMakeFiles/LeetCode.dir/Solution401.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution401.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution401.cpp > CMakeFiles/LeetCode.dir/Solution401.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution401.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution401.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution401.cpp -o CMakeFiles/LeetCode.dir/Solution401.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution403.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution403.cpp.o: ../Solution403.cpp
+CMakeFiles/LeetCode.dir/Solution403.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_173) "Building CXX object CMakeFiles/LeetCode.dir/Solution403.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution403.cpp.o -MF CMakeFiles/LeetCode.dir/Solution403.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution403.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution403.cpp
+
+CMakeFiles/LeetCode.dir/Solution403.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution403.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution403.cpp > CMakeFiles/LeetCode.dir/Solution403.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution403.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution403.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution403.cpp -o CMakeFiles/LeetCode.dir/Solution403.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution405.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution405.cpp.o: ../Solution405.cpp
+CMakeFiles/LeetCode.dir/Solution405.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_174) "Building CXX object CMakeFiles/LeetCode.dir/Solution405.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution405.cpp.o -MF CMakeFiles/LeetCode.dir/Solution405.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution405.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution405.cpp
+
+CMakeFiles/LeetCode.dir/Solution405.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution405.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution405.cpp > CMakeFiles/LeetCode.dir/Solution405.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution405.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution405.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution405.cpp -o CMakeFiles/LeetCode.dir/Solution405.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution407.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution407.cpp.o: ../Solution407.cpp
+CMakeFiles/LeetCode.dir/Solution407.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_175) "Building CXX object CMakeFiles/LeetCode.dir/Solution407.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution407.cpp.o -MF CMakeFiles/LeetCode.dir/Solution407.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution407.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution407.cpp
+
+CMakeFiles/LeetCode.dir/Solution407.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution407.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution407.cpp > CMakeFiles/LeetCode.dir/Solution407.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution407.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution407.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution407.cpp -o CMakeFiles/LeetCode.dir/Solution407.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution412.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution412.cpp.o: ../Solution412.cpp
+CMakeFiles/LeetCode.dir/Solution412.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_176) "Building CXX object CMakeFiles/LeetCode.dir/Solution412.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution412.cpp.o -MF CMakeFiles/LeetCode.dir/Solution412.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution412.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution412.cpp
+
+CMakeFiles/LeetCode.dir/Solution412.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution412.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution412.cpp > CMakeFiles/LeetCode.dir/Solution412.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution412.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution412.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution412.cpp -o CMakeFiles/LeetCode.dir/Solution412.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution413.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution413.cpp.o: ../Solution413.cpp
+CMakeFiles/LeetCode.dir/Solution413.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_177) "Building CXX object CMakeFiles/LeetCode.dir/Solution413.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution413.cpp.o -MF CMakeFiles/LeetCode.dir/Solution413.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution413.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution413.cpp
+
+CMakeFiles/LeetCode.dir/Solution413.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution413.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution413.cpp > CMakeFiles/LeetCode.dir/Solution413.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution413.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution413.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution413.cpp -o CMakeFiles/LeetCode.dir/Solution413.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution414.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution414.cpp.o: ../Solution414.cpp
+CMakeFiles/LeetCode.dir/Solution414.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_178) "Building CXX object CMakeFiles/LeetCode.dir/Solution414.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution414.cpp.o -MF CMakeFiles/LeetCode.dir/Solution414.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution414.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution414.cpp
+
+CMakeFiles/LeetCode.dir/Solution414.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution414.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution414.cpp > CMakeFiles/LeetCode.dir/Solution414.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution414.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution414.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution414.cpp -o CMakeFiles/LeetCode.dir/Solution414.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution419.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution419.cpp.o: ../Solution419.cpp
+CMakeFiles/LeetCode.dir/Solution419.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_179) "Building CXX object CMakeFiles/LeetCode.dir/Solution419.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution419.cpp.o -MF CMakeFiles/LeetCode.dir/Solution419.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution419.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution419.cpp
+
+CMakeFiles/LeetCode.dir/Solution419.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution419.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution419.cpp > CMakeFiles/LeetCode.dir/Solution419.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution419.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution419.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution419.cpp -o CMakeFiles/LeetCode.dir/Solution419.cpp.s
+
 CMakeFiles/LeetCode.dir/Solution42.cpp.o: CMakeFiles/LeetCode.dir/flags.make
 CMakeFiles/LeetCode.dir/Solution42.cpp.o: ../Solution42.cpp
 CMakeFiles/LeetCode.dir/Solution42.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/LeetCode.dir/Solution42.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_180) "Building CXX object CMakeFiles/LeetCode.dir/Solution42.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution42.cpp.o -MF CMakeFiles/LeetCode.dir/Solution42.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution42.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution42.cpp
 
 CMakeFiles/LeetCode.dir/Solution42.cpp.i: cmake_force
@@ -181,10 +2589,122 @@ CMakeFiles/LeetCode.dir/Solution42.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution42.cpp.s"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution42.cpp -o CMakeFiles/LeetCode.dir/Solution42.cpp.s
 
+CMakeFiles/LeetCode.dir/Solution421.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution421.cpp.o: ../Solution421.cpp
+CMakeFiles/LeetCode.dir/Solution421.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_181) "Building CXX object CMakeFiles/LeetCode.dir/Solution421.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution421.cpp.o -MF CMakeFiles/LeetCode.dir/Solution421.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution421.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution421.cpp
+
+CMakeFiles/LeetCode.dir/Solution421.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution421.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution421.cpp > CMakeFiles/LeetCode.dir/Solution421.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution421.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution421.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution421.cpp -o CMakeFiles/LeetCode.dir/Solution421.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution430.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution430.cpp.o: ../Solution430.cpp
+CMakeFiles/LeetCode.dir/Solution430.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_182) "Building CXX object CMakeFiles/LeetCode.dir/Solution430.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution430.cpp.o -MF CMakeFiles/LeetCode.dir/Solution430.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution430.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution430.cpp
+
+CMakeFiles/LeetCode.dir/Solution430.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution430.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution430.cpp > CMakeFiles/LeetCode.dir/Solution430.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution430.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution430.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution430.cpp -o CMakeFiles/LeetCode.dir/Solution430.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution434.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution434.cpp.o: ../Solution434.cpp
+CMakeFiles/LeetCode.dir/Solution434.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_183) "Building CXX object CMakeFiles/LeetCode.dir/Solution434.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution434.cpp.o -MF CMakeFiles/LeetCode.dir/Solution434.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution434.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution434.cpp
+
+CMakeFiles/LeetCode.dir/Solution434.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution434.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution434.cpp > CMakeFiles/LeetCode.dir/Solution434.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution434.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution434.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution434.cpp -o CMakeFiles/LeetCode.dir/Solution434.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution437.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution437.cpp.o: ../Solution437.cpp
+CMakeFiles/LeetCode.dir/Solution437.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_184) "Building CXX object CMakeFiles/LeetCode.dir/Solution437.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution437.cpp.o -MF CMakeFiles/LeetCode.dir/Solution437.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution437.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution437.cpp
+
+CMakeFiles/LeetCode.dir/Solution437.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution437.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution437.cpp > CMakeFiles/LeetCode.dir/Solution437.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution437.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution437.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution437.cpp -o CMakeFiles/LeetCode.dir/Solution437.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution441.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution441.cpp.o: ../Solution441.cpp
+CMakeFiles/LeetCode.dir/Solution441.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_185) "Building CXX object CMakeFiles/LeetCode.dir/Solution441.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution441.cpp.o -MF CMakeFiles/LeetCode.dir/Solution441.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution441.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution441.cpp
+
+CMakeFiles/LeetCode.dir/Solution441.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution441.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution441.cpp > CMakeFiles/LeetCode.dir/Solution441.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution441.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution441.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution441.cpp -o CMakeFiles/LeetCode.dir/Solution441.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution446.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution446.cpp.o: ../Solution446.cpp
+CMakeFiles/LeetCode.dir/Solution446.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_186) "Building CXX object CMakeFiles/LeetCode.dir/Solution446.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution446.cpp.o -MF CMakeFiles/LeetCode.dir/Solution446.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution446.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution446.cpp
+
+CMakeFiles/LeetCode.dir/Solution446.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution446.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution446.cpp > CMakeFiles/LeetCode.dir/Solution446.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution446.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution446.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution446.cpp -o CMakeFiles/LeetCode.dir/Solution446.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution447.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution447.cpp.o: ../Solution447.cpp
+CMakeFiles/LeetCode.dir/Solution447.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_187) "Building CXX object CMakeFiles/LeetCode.dir/Solution447.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution447.cpp.o -MF CMakeFiles/LeetCode.dir/Solution447.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution447.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution447.cpp
+
+CMakeFiles/LeetCode.dir/Solution447.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution447.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution447.cpp > CMakeFiles/LeetCode.dir/Solution447.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution447.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution447.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution447.cpp -o CMakeFiles/LeetCode.dir/Solution447.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution451.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution451.cpp.o: ../Solution451.cpp
+CMakeFiles/LeetCode.dir/Solution451.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_188) "Building CXX object CMakeFiles/LeetCode.dir/Solution451.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution451.cpp.o -MF CMakeFiles/LeetCode.dir/Solution451.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution451.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution451.cpp
+
+CMakeFiles/LeetCode.dir/Solution451.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution451.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution451.cpp > CMakeFiles/LeetCode.dir/Solution451.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution451.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution451.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution451.cpp -o CMakeFiles/LeetCode.dir/Solution451.cpp.s
+
 CMakeFiles/LeetCode.dir/Solution456.cpp.o: CMakeFiles/LeetCode.dir/flags.make
 CMakeFiles/LeetCode.dir/Solution456.cpp.o: ../Solution456.cpp
 CMakeFiles/LeetCode.dir/Solution456.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/LeetCode.dir/Solution456.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_189) "Building CXX object CMakeFiles/LeetCode.dir/Solution456.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution456.cpp.o -MF CMakeFiles/LeetCode.dir/Solution456.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution456.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution456.cpp
 
 CMakeFiles/LeetCode.dir/Solution456.cpp.i: cmake_force
@@ -195,10 +2715,626 @@ CMakeFiles/LeetCode.dir/Solution456.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution456.cpp.s"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution456.cpp -o CMakeFiles/LeetCode.dir/Solution456.cpp.s
 
+CMakeFiles/LeetCode.dir/Solution457.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution457.cpp.o: ../Solution457.cpp
+CMakeFiles/LeetCode.dir/Solution457.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_190) "Building CXX object CMakeFiles/LeetCode.dir/Solution457.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution457.cpp.o -MF CMakeFiles/LeetCode.dir/Solution457.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution457.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution457.cpp
+
+CMakeFiles/LeetCode.dir/Solution457.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution457.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution457.cpp > CMakeFiles/LeetCode.dir/Solution457.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution457.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution457.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution457.cpp -o CMakeFiles/LeetCode.dir/Solution457.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution458.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution458.cpp.o: ../Solution458.cpp
+CMakeFiles/LeetCode.dir/Solution458.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_191) "Building CXX object CMakeFiles/LeetCode.dir/Solution458.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution458.cpp.o -MF CMakeFiles/LeetCode.dir/Solution458.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution458.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution458.cpp
+
+CMakeFiles/LeetCode.dir/Solution458.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution458.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution458.cpp > CMakeFiles/LeetCode.dir/Solution458.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution458.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution458.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution458.cpp -o CMakeFiles/LeetCode.dir/Solution458.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution461.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution461.cpp.o: ../Solution461.cpp
+CMakeFiles/LeetCode.dir/Solution461.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_192) "Building CXX object CMakeFiles/LeetCode.dir/Solution461.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution461.cpp.o -MF CMakeFiles/LeetCode.dir/Solution461.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution461.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution461.cpp
+
+CMakeFiles/LeetCode.dir/Solution461.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution461.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution461.cpp > CMakeFiles/LeetCode.dir/Solution461.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution461.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution461.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution461.cpp -o CMakeFiles/LeetCode.dir/Solution461.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution470.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution470.cpp.o: ../Solution470.cpp
+CMakeFiles/LeetCode.dir/Solution470.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_193) "Building CXX object CMakeFiles/LeetCode.dir/Solution470.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution470.cpp.o -MF CMakeFiles/LeetCode.dir/Solution470.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution470.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution470.cpp
+
+CMakeFiles/LeetCode.dir/Solution470.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution470.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution470.cpp > CMakeFiles/LeetCode.dir/Solution470.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution470.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution470.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution470.cpp -o CMakeFiles/LeetCode.dir/Solution470.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution472.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution472.cpp.o: ../Solution472.cpp
+CMakeFiles/LeetCode.dir/Solution472.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_194) "Building CXX object CMakeFiles/LeetCode.dir/Solution472.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution472.cpp.o -MF CMakeFiles/LeetCode.dir/Solution472.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution472.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution472.cpp
+
+CMakeFiles/LeetCode.dir/Solution472.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution472.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution472.cpp > CMakeFiles/LeetCode.dir/Solution472.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution472.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution472.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution472.cpp -o CMakeFiles/LeetCode.dir/Solution472.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution474.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution474.cpp.o: ../Solution474.cpp
+CMakeFiles/LeetCode.dir/Solution474.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_195) "Building CXX object CMakeFiles/LeetCode.dir/Solution474.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution474.cpp.o -MF CMakeFiles/LeetCode.dir/Solution474.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution474.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution474.cpp
+
+CMakeFiles/LeetCode.dir/Solution474.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution474.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution474.cpp > CMakeFiles/LeetCode.dir/Solution474.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution474.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution474.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution474.cpp -o CMakeFiles/LeetCode.dir/Solution474.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution475.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution475.cpp.o: ../Solution475.cpp
+CMakeFiles/LeetCode.dir/Solution475.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_196) "Building CXX object CMakeFiles/LeetCode.dir/Solution475.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution475.cpp.o -MF CMakeFiles/LeetCode.dir/Solution475.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution475.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution475.cpp
+
+CMakeFiles/LeetCode.dir/Solution475.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution475.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution475.cpp > CMakeFiles/LeetCode.dir/Solution475.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution475.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution475.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution475.cpp -o CMakeFiles/LeetCode.dir/Solution475.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution476.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution476.cpp.o: ../Solution476.cpp
+CMakeFiles/LeetCode.dir/Solution476.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_197) "Building CXX object CMakeFiles/LeetCode.dir/Solution476.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution476.cpp.o -MF CMakeFiles/LeetCode.dir/Solution476.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution476.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution476.cpp
+
+CMakeFiles/LeetCode.dir/Solution476.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution476.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution476.cpp > CMakeFiles/LeetCode.dir/Solution476.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution476.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution476.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution476.cpp -o CMakeFiles/LeetCode.dir/Solution476.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution477.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution477.cpp.o: ../Solution477.cpp
+CMakeFiles/LeetCode.dir/Solution477.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_198) "Building CXX object CMakeFiles/LeetCode.dir/Solution477.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution477.cpp.o -MF CMakeFiles/LeetCode.dir/Solution477.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution477.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution477.cpp
+
+CMakeFiles/LeetCode.dir/Solution477.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution477.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution477.cpp > CMakeFiles/LeetCode.dir/Solution477.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution477.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution477.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution477.cpp -o CMakeFiles/LeetCode.dir/Solution477.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution482.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution482.cpp.o: ../Solution482.cpp
+CMakeFiles/LeetCode.dir/Solution482.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_199) "Building CXX object CMakeFiles/LeetCode.dir/Solution482.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution482.cpp.o -MF CMakeFiles/LeetCode.dir/Solution482.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution482.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution482.cpp
+
+CMakeFiles/LeetCode.dir/Solution482.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution482.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution482.cpp > CMakeFiles/LeetCode.dir/Solution482.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution482.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution482.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution482.cpp -o CMakeFiles/LeetCode.dir/Solution482.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution483.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution483.cpp.o: ../Solution483.cpp
+CMakeFiles/LeetCode.dir/Solution483.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_200) "Building CXX object CMakeFiles/LeetCode.dir/Solution483.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution483.cpp.o -MF CMakeFiles/LeetCode.dir/Solution483.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution483.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution483.cpp
+
+CMakeFiles/LeetCode.dir/Solution483.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution483.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution483.cpp > CMakeFiles/LeetCode.dir/Solution483.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution483.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution483.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution483.cpp -o CMakeFiles/LeetCode.dir/Solution483.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution485.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution485.cpp.o: ../Solution485.cpp
+CMakeFiles/LeetCode.dir/Solution485.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_201) "Building CXX object CMakeFiles/LeetCode.dir/Solution485.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution485.cpp.o -MF CMakeFiles/LeetCode.dir/Solution485.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution485.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution485.cpp
+
+CMakeFiles/LeetCode.dir/Solution485.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution485.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution485.cpp > CMakeFiles/LeetCode.dir/Solution485.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution485.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution485.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution485.cpp -o CMakeFiles/LeetCode.dir/Solution485.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution492.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution492.cpp.o: ../Solution492.cpp
+CMakeFiles/LeetCode.dir/Solution492.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_202) "Building CXX object CMakeFiles/LeetCode.dir/Solution492.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution492.cpp.o -MF CMakeFiles/LeetCode.dir/Solution492.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution492.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution492.cpp
+
+CMakeFiles/LeetCode.dir/Solution492.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution492.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution492.cpp > CMakeFiles/LeetCode.dir/Solution492.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution492.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution492.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution492.cpp -o CMakeFiles/LeetCode.dir/Solution492.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution494.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution494.cpp.o: ../Solution494.cpp
+CMakeFiles/LeetCode.dir/Solution494.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_203) "Building CXX object CMakeFiles/LeetCode.dir/Solution494.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution494.cpp.o -MF CMakeFiles/LeetCode.dir/Solution494.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution494.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution494.cpp
+
+CMakeFiles/LeetCode.dir/Solution494.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution494.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution494.cpp > CMakeFiles/LeetCode.dir/Solution494.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution494.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution494.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution494.cpp -o CMakeFiles/LeetCode.dir/Solution494.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution495.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution495.cpp.o: ../Solution495.cpp
+CMakeFiles/LeetCode.dir/Solution495.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_204) "Building CXX object CMakeFiles/LeetCode.dir/Solution495.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution495.cpp.o -MF CMakeFiles/LeetCode.dir/Solution495.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution495.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution495.cpp
+
+CMakeFiles/LeetCode.dir/Solution495.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution495.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution495.cpp > CMakeFiles/LeetCode.dir/Solution495.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution495.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution495.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution495.cpp -o CMakeFiles/LeetCode.dir/Solution495.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution496.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution496.cpp.o: ../Solution496.cpp
+CMakeFiles/LeetCode.dir/Solution496.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_205) "Building CXX object CMakeFiles/LeetCode.dir/Solution496.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution496.cpp.o -MF CMakeFiles/LeetCode.dir/Solution496.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution496.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution496.cpp
+
+CMakeFiles/LeetCode.dir/Solution496.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution496.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution496.cpp > CMakeFiles/LeetCode.dir/Solution496.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution496.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution496.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution496.cpp -o CMakeFiles/LeetCode.dir/Solution496.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution500.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution500.cpp.o: ../Solution500.cpp
+CMakeFiles/LeetCode.dir/Solution500.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_206) "Building CXX object CMakeFiles/LeetCode.dir/Solution500.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution500.cpp.o -MF CMakeFiles/LeetCode.dir/Solution500.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution500.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution500.cpp
+
+CMakeFiles/LeetCode.dir/Solution500.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution500.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution500.cpp > CMakeFiles/LeetCode.dir/Solution500.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution500.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution500.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution500.cpp -o CMakeFiles/LeetCode.dir/Solution500.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution502.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution502.cpp.o: ../Solution502.cpp
+CMakeFiles/LeetCode.dir/Solution502.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_207) "Building CXX object CMakeFiles/LeetCode.dir/Solution502.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution502.cpp.o -MF CMakeFiles/LeetCode.dir/Solution502.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution502.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution502.cpp
+
+CMakeFiles/LeetCode.dir/Solution502.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution502.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution502.cpp > CMakeFiles/LeetCode.dir/Solution502.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution502.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution502.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution502.cpp -o CMakeFiles/LeetCode.dir/Solution502.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution504.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution504.cpp.o: ../Solution504.cpp
+CMakeFiles/LeetCode.dir/Solution504.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_208) "Building CXX object CMakeFiles/LeetCode.dir/Solution504.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution504.cpp.o -MF CMakeFiles/LeetCode.dir/Solution504.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution504.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution504.cpp
+
+CMakeFiles/LeetCode.dir/Solution504.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution504.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution504.cpp > CMakeFiles/LeetCode.dir/Solution504.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution504.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution504.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution504.cpp -o CMakeFiles/LeetCode.dir/Solution504.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution506.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution506.cpp.o: ../Solution506.cpp
+CMakeFiles/LeetCode.dir/Solution506.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_209) "Building CXX object CMakeFiles/LeetCode.dir/Solution506.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution506.cpp.o -MF CMakeFiles/LeetCode.dir/Solution506.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution506.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution506.cpp
+
+CMakeFiles/LeetCode.dir/Solution506.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution506.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution506.cpp > CMakeFiles/LeetCode.dir/Solution506.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution506.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution506.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution506.cpp -o CMakeFiles/LeetCode.dir/Solution506.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution507.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution507.cpp.o: ../Solution507.cpp
+CMakeFiles/LeetCode.dir/Solution507.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_210) "Building CXX object CMakeFiles/LeetCode.dir/Solution507.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution507.cpp.o -MF CMakeFiles/LeetCode.dir/Solution507.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution507.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution507.cpp
+
+CMakeFiles/LeetCode.dir/Solution507.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution507.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution507.cpp > CMakeFiles/LeetCode.dir/Solution507.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution507.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution507.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution507.cpp -o CMakeFiles/LeetCode.dir/Solution507.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution508.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution508.cpp.o: ../Solution508.cpp
+CMakeFiles/LeetCode.dir/Solution508.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_211) "Building CXX object CMakeFiles/LeetCode.dir/Solution508.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution508.cpp.o -MF CMakeFiles/LeetCode.dir/Solution508.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution508.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution508.cpp
+
+CMakeFiles/LeetCode.dir/Solution508.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution508.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution508.cpp > CMakeFiles/LeetCode.dir/Solution508.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution508.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution508.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution508.cpp -o CMakeFiles/LeetCode.dir/Solution508.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution516.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution516.cpp.o: ../Solution516.cpp
+CMakeFiles/LeetCode.dir/Solution516.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_212) "Building CXX object CMakeFiles/LeetCode.dir/Solution516.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution516.cpp.o -MF CMakeFiles/LeetCode.dir/Solution516.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution516.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution516.cpp
+
+CMakeFiles/LeetCode.dir/Solution516.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution516.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution516.cpp > CMakeFiles/LeetCode.dir/Solution516.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution516.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution516.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution516.cpp -o CMakeFiles/LeetCode.dir/Solution516.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution520.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution520.cpp.o: ../Solution520.cpp
+CMakeFiles/LeetCode.dir/Solution520.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_213) "Building CXX object CMakeFiles/LeetCode.dir/Solution520.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution520.cpp.o -MF CMakeFiles/LeetCode.dir/Solution520.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution520.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution520.cpp
+
+CMakeFiles/LeetCode.dir/Solution520.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution520.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution520.cpp > CMakeFiles/LeetCode.dir/Solution520.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution520.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution520.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution520.cpp -o CMakeFiles/LeetCode.dir/Solution520.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution521.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution521.cpp.o: ../Solution521.cpp
+CMakeFiles/LeetCode.dir/Solution521.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_214) "Building CXX object CMakeFiles/LeetCode.dir/Solution521.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution521.cpp.o -MF CMakeFiles/LeetCode.dir/Solution521.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution521.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution521.cpp
+
+CMakeFiles/LeetCode.dir/Solution521.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution521.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution521.cpp > CMakeFiles/LeetCode.dir/Solution521.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution521.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution521.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution521.cpp -o CMakeFiles/LeetCode.dir/Solution521.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution523.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution523.cpp.o: ../Solution523.cpp
+CMakeFiles/LeetCode.dir/Solution523.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_215) "Building CXX object CMakeFiles/LeetCode.dir/Solution523.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution523.cpp.o -MF CMakeFiles/LeetCode.dir/Solution523.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution523.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution523.cpp
+
+CMakeFiles/LeetCode.dir/Solution523.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution523.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution523.cpp > CMakeFiles/LeetCode.dir/Solution523.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution523.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution523.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution523.cpp -o CMakeFiles/LeetCode.dir/Solution523.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution524.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution524.cpp.o: ../Solution524.cpp
+CMakeFiles/LeetCode.dir/Solution524.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_216) "Building CXX object CMakeFiles/LeetCode.dir/Solution524.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution524.cpp.o -MF CMakeFiles/LeetCode.dir/Solution524.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution524.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution524.cpp
+
+CMakeFiles/LeetCode.dir/Solution524.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution524.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution524.cpp > CMakeFiles/LeetCode.dir/Solution524.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution524.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution524.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution524.cpp -o CMakeFiles/LeetCode.dir/Solution524.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution525.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution525.cpp.o: ../Solution525.cpp
+CMakeFiles/LeetCode.dir/Solution525.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_217) "Building CXX object CMakeFiles/LeetCode.dir/Solution525.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution525.cpp.o -MF CMakeFiles/LeetCode.dir/Solution525.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution525.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution525.cpp
+
+CMakeFiles/LeetCode.dir/Solution525.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution525.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution525.cpp > CMakeFiles/LeetCode.dir/Solution525.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution525.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution525.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution525.cpp -o CMakeFiles/LeetCode.dir/Solution525.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution526.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution526.cpp.o: ../Solution526.cpp
+CMakeFiles/LeetCode.dir/Solution526.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_218) "Building CXX object CMakeFiles/LeetCode.dir/Solution526.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution526.cpp.o -MF CMakeFiles/LeetCode.dir/Solution526.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution526.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution526.cpp
+
+CMakeFiles/LeetCode.dir/Solution526.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution526.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution526.cpp > CMakeFiles/LeetCode.dir/Solution526.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution526.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution526.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution526.cpp -o CMakeFiles/LeetCode.dir/Solution526.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution528.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution528.cpp.o: ../Solution528.cpp
+CMakeFiles/LeetCode.dir/Solution528.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_219) "Building CXX object CMakeFiles/LeetCode.dir/Solution528.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution528.cpp.o -MF CMakeFiles/LeetCode.dir/Solution528.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution528.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution528.cpp
+
+CMakeFiles/LeetCode.dir/Solution528.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution528.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution528.cpp > CMakeFiles/LeetCode.dir/Solution528.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution528.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution528.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution528.cpp -o CMakeFiles/LeetCode.dir/Solution528.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution539.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution539.cpp.o: ../Solution539.cpp
+CMakeFiles/LeetCode.dir/Solution539.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_220) "Building CXX object CMakeFiles/LeetCode.dir/Solution539.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution539.cpp.o -MF CMakeFiles/LeetCode.dir/Solution539.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution539.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution539.cpp
+
+CMakeFiles/LeetCode.dir/Solution539.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution539.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution539.cpp > CMakeFiles/LeetCode.dir/Solution539.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution539.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution539.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution539.cpp -o CMakeFiles/LeetCode.dir/Solution539.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution540.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution540.cpp.o: ../Solution540.cpp
+CMakeFiles/LeetCode.dir/Solution540.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_221) "Building CXX object CMakeFiles/LeetCode.dir/Solution540.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution540.cpp.o -MF CMakeFiles/LeetCode.dir/Solution540.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution540.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution540.cpp
+
+CMakeFiles/LeetCode.dir/Solution540.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution540.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution540.cpp > CMakeFiles/LeetCode.dir/Solution540.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution540.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution540.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution540.cpp -o CMakeFiles/LeetCode.dir/Solution540.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution541.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution541.cpp.o: ../Solution541.cpp
+CMakeFiles/LeetCode.dir/Solution541.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_222) "Building CXX object CMakeFiles/LeetCode.dir/Solution541.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution541.cpp.o -MF CMakeFiles/LeetCode.dir/Solution541.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution541.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution541.cpp
+
+CMakeFiles/LeetCode.dir/Solution541.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution541.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution541.cpp > CMakeFiles/LeetCode.dir/Solution541.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution541.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution541.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution541.cpp -o CMakeFiles/LeetCode.dir/Solution541.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution551.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution551.cpp.o: ../Solution551.cpp
+CMakeFiles/LeetCode.dir/Solution551.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_223) "Building CXX object CMakeFiles/LeetCode.dir/Solution551.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution551.cpp.o -MF CMakeFiles/LeetCode.dir/Solution551.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution551.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution551.cpp
+
+CMakeFiles/LeetCode.dir/Solution551.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution551.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution551.cpp > CMakeFiles/LeetCode.dir/Solution551.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution551.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution551.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution551.cpp -o CMakeFiles/LeetCode.dir/Solution551.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution552.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution552.cpp.o: ../Solution552.cpp
+CMakeFiles/LeetCode.dir/Solution552.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_224) "Building CXX object CMakeFiles/LeetCode.dir/Solution552.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution552.cpp.o -MF CMakeFiles/LeetCode.dir/Solution552.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution552.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution552.cpp
+
+CMakeFiles/LeetCode.dir/Solution552.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution552.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution552.cpp > CMakeFiles/LeetCode.dir/Solution552.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution552.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution552.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution552.cpp -o CMakeFiles/LeetCode.dir/Solution552.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution559.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution559.cpp.o: ../Solution559.cpp
+CMakeFiles/LeetCode.dir/Solution559.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_225) "Building CXX object CMakeFiles/LeetCode.dir/Solution559.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution559.cpp.o -MF CMakeFiles/LeetCode.dir/Solution559.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution559.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution559.cpp
+
+CMakeFiles/LeetCode.dir/Solution559.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution559.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution559.cpp > CMakeFiles/LeetCode.dir/Solution559.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution559.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution559.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution559.cpp -o CMakeFiles/LeetCode.dir/Solution559.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution563.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution563.cpp.o: ../Solution563.cpp
+CMakeFiles/LeetCode.dir/Solution563.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_226) "Building CXX object CMakeFiles/LeetCode.dir/Solution563.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution563.cpp.o -MF CMakeFiles/LeetCode.dir/Solution563.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution563.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution563.cpp
+
+CMakeFiles/LeetCode.dir/Solution563.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution563.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution563.cpp > CMakeFiles/LeetCode.dir/Solution563.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution563.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution563.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution563.cpp -o CMakeFiles/LeetCode.dir/Solution563.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution575.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution575.cpp.o: ../Solution575.cpp
+CMakeFiles/LeetCode.dir/Solution575.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_227) "Building CXX object CMakeFiles/LeetCode.dir/Solution575.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution575.cpp.o -MF CMakeFiles/LeetCode.dir/Solution575.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution575.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution575.cpp
+
+CMakeFiles/LeetCode.dir/Solution575.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution575.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution575.cpp > CMakeFiles/LeetCode.dir/Solution575.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution575.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution575.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution575.cpp -o CMakeFiles/LeetCode.dir/Solution575.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution576.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution576.cpp.o: ../Solution576.cpp
+CMakeFiles/LeetCode.dir/Solution576.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_228) "Building CXX object CMakeFiles/LeetCode.dir/Solution576.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution576.cpp.o -MF CMakeFiles/LeetCode.dir/Solution576.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution576.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution576.cpp
+
+CMakeFiles/LeetCode.dir/Solution576.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution576.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution576.cpp > CMakeFiles/LeetCode.dir/Solution576.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution576.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution576.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution576.cpp -o CMakeFiles/LeetCode.dir/Solution576.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution58.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution58.cpp.o: ../Solution58.cpp
+CMakeFiles/LeetCode.dir/Solution58.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_229) "Building CXX object CMakeFiles/LeetCode.dir/Solution58.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution58.cpp.o -MF CMakeFiles/LeetCode.dir/Solution58.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution58.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution58.cpp
+
+CMakeFiles/LeetCode.dir/Solution58.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution58.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution58.cpp > CMakeFiles/LeetCode.dir/Solution58.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution58.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution58.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution58.cpp -o CMakeFiles/LeetCode.dir/Solution58.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution581.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution581.cpp.o: ../Solution581.cpp
+CMakeFiles/LeetCode.dir/Solution581.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_230) "Building CXX object CMakeFiles/LeetCode.dir/Solution581.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution581.cpp.o -MF CMakeFiles/LeetCode.dir/Solution581.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution581.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution581.cpp
+
+CMakeFiles/LeetCode.dir/Solution581.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution581.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution581.cpp > CMakeFiles/LeetCode.dir/Solution581.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution581.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution581.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution581.cpp -o CMakeFiles/LeetCode.dir/Solution581.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution583.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution583.cpp.o: ../Solution583.cpp
+CMakeFiles/LeetCode.dir/Solution583.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_231) "Building CXX object CMakeFiles/LeetCode.dir/Solution583.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution583.cpp.o -MF CMakeFiles/LeetCode.dir/Solution583.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution583.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution583.cpp
+
+CMakeFiles/LeetCode.dir/Solution583.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution583.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution583.cpp > CMakeFiles/LeetCode.dir/Solution583.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution583.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution583.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution583.cpp -o CMakeFiles/LeetCode.dir/Solution583.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution594.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution594.cpp.o: ../Solution594.cpp
+CMakeFiles/LeetCode.dir/Solution594.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_232) "Building CXX object CMakeFiles/LeetCode.dir/Solution594.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution594.cpp.o -MF CMakeFiles/LeetCode.dir/Solution594.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution594.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution594.cpp
+
+CMakeFiles/LeetCode.dir/Solution594.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution594.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution594.cpp > CMakeFiles/LeetCode.dir/Solution594.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution594.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution594.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution594.cpp -o CMakeFiles/LeetCode.dir/Solution594.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution599.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution599.cpp.o: ../Solution599.cpp
+CMakeFiles/LeetCode.dir/Solution599.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_233) "Building CXX object CMakeFiles/LeetCode.dir/Solution599.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution599.cpp.o -MF CMakeFiles/LeetCode.dir/Solution599.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution599.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution599.cpp
+
+CMakeFiles/LeetCode.dir/Solution599.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution599.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution599.cpp > CMakeFiles/LeetCode.dir/Solution599.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution599.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution599.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution599.cpp -o CMakeFiles/LeetCode.dir/Solution599.cpp.s
+
 CMakeFiles/LeetCode.dir/Solution61.cpp.o: CMakeFiles/LeetCode.dir/flags.make
 CMakeFiles/LeetCode.dir/Solution61.cpp.o: ../Solution61.cpp
 CMakeFiles/LeetCode.dir/Solution61.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/LeetCode.dir/Solution61.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_234) "Building CXX object CMakeFiles/LeetCode.dir/Solution61.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution61.cpp.o -MF CMakeFiles/LeetCode.dir/Solution61.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution61.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution61.cpp
 
 CMakeFiles/LeetCode.dir/Solution61.cpp.i: cmake_force
@@ -209,10 +3345,360 @@ CMakeFiles/LeetCode.dir/Solution61.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution61.cpp.s"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution61.cpp -o CMakeFiles/LeetCode.dir/Solution61.cpp.s
 
+CMakeFiles/LeetCode.dir/Solution611.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution611.cpp.o: ../Solution611.cpp
+CMakeFiles/LeetCode.dir/Solution611.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_235) "Building CXX object CMakeFiles/LeetCode.dir/Solution611.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution611.cpp.o -MF CMakeFiles/LeetCode.dir/Solution611.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution611.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution611.cpp
+
+CMakeFiles/LeetCode.dir/Solution611.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution611.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution611.cpp > CMakeFiles/LeetCode.dir/Solution611.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution611.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution611.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution611.cpp -o CMakeFiles/LeetCode.dir/Solution611.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution629.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution629.cpp.o: ../Solution629.cpp
+CMakeFiles/LeetCode.dir/Solution629.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_236) "Building CXX object CMakeFiles/LeetCode.dir/Solution629.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution629.cpp.o -MF CMakeFiles/LeetCode.dir/Solution629.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution629.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution629.cpp
+
+CMakeFiles/LeetCode.dir/Solution629.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution629.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution629.cpp > CMakeFiles/LeetCode.dir/Solution629.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution629.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution629.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution629.cpp -o CMakeFiles/LeetCode.dir/Solution629.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution630.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution630.cpp.o: ../Solution630.cpp
+CMakeFiles/LeetCode.dir/Solution630.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_237) "Building CXX object CMakeFiles/LeetCode.dir/Solution630.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution630.cpp.o -MF CMakeFiles/LeetCode.dir/Solution630.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution630.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution630.cpp
+
+CMakeFiles/LeetCode.dir/Solution630.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution630.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution630.cpp > CMakeFiles/LeetCode.dir/Solution630.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution630.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution630.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution630.cpp -o CMakeFiles/LeetCode.dir/Solution630.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution633.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution633.cpp.o: ../Solution633.cpp
+CMakeFiles/LeetCode.dir/Solution633.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_238) "Building CXX object CMakeFiles/LeetCode.dir/Solution633.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution633.cpp.o -MF CMakeFiles/LeetCode.dir/Solution633.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution633.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution633.cpp
+
+CMakeFiles/LeetCode.dir/Solution633.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution633.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution633.cpp > CMakeFiles/LeetCode.dir/Solution633.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution633.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution633.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution633.cpp -o CMakeFiles/LeetCode.dir/Solution633.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution638.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution638.cpp.o: ../Solution638.cpp
+CMakeFiles/LeetCode.dir/Solution638.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_239) "Building CXX object CMakeFiles/LeetCode.dir/Solution638.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution638.cpp.o -MF CMakeFiles/LeetCode.dir/Solution638.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution638.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution638.cpp
+
+CMakeFiles/LeetCode.dir/Solution638.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution638.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution638.cpp > CMakeFiles/LeetCode.dir/Solution638.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution638.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution638.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution638.cpp -o CMakeFiles/LeetCode.dir/Solution638.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution645.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution645.cpp.o: ../Solution645.cpp
+CMakeFiles/LeetCode.dir/Solution645.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_240) "Building CXX object CMakeFiles/LeetCode.dir/Solution645.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution645.cpp.o -MF CMakeFiles/LeetCode.dir/Solution645.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution645.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution645.cpp
+
+CMakeFiles/LeetCode.dir/Solution645.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution645.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution645.cpp > CMakeFiles/LeetCode.dir/Solution645.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution645.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution645.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution645.cpp -o CMakeFiles/LeetCode.dir/Solution645.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution65.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution65.cpp.o: ../Solution65.cpp
+CMakeFiles/LeetCode.dir/Solution65.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_241) "Building CXX object CMakeFiles/LeetCode.dir/Solution65.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution65.cpp.o -MF CMakeFiles/LeetCode.dir/Solution65.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution65.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution65.cpp
+
+CMakeFiles/LeetCode.dir/Solution65.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution65.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution65.cpp > CMakeFiles/LeetCode.dir/Solution65.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution65.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution65.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution65.cpp -o CMakeFiles/LeetCode.dir/Solution65.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution650.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution650.cpp.o: ../Solution650.cpp
+CMakeFiles/LeetCode.dir/Solution650.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_242) "Building CXX object CMakeFiles/LeetCode.dir/Solution650.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution650.cpp.o -MF CMakeFiles/LeetCode.dir/Solution650.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution650.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution650.cpp
+
+CMakeFiles/LeetCode.dir/Solution650.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution650.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution650.cpp > CMakeFiles/LeetCode.dir/Solution650.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution650.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution650.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution650.cpp -o CMakeFiles/LeetCode.dir/Solution650.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution66.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution66.cpp.o: ../Solution66.cpp
+CMakeFiles/LeetCode.dir/Solution66.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_243) "Building CXX object CMakeFiles/LeetCode.dir/Solution66.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution66.cpp.o -MF CMakeFiles/LeetCode.dir/Solution66.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution66.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution66.cpp
+
+CMakeFiles/LeetCode.dir/Solution66.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution66.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution66.cpp > CMakeFiles/LeetCode.dir/Solution66.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution66.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution66.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution66.cpp -o CMakeFiles/LeetCode.dir/Solution66.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution664.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution664.cpp.o: ../Solution664.cpp
+CMakeFiles/LeetCode.dir/Solution664.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_244) "Building CXX object CMakeFiles/LeetCode.dir/Solution664.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution664.cpp.o -MF CMakeFiles/LeetCode.dir/Solution664.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution664.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution664.cpp
+
+CMakeFiles/LeetCode.dir/Solution664.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution664.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution664.cpp > CMakeFiles/LeetCode.dir/Solution664.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution664.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution664.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution664.cpp -o CMakeFiles/LeetCode.dir/Solution664.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution671.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution671.cpp.o: ../Solution671.cpp
+CMakeFiles/LeetCode.dir/Solution671.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_245) "Building CXX object CMakeFiles/LeetCode.dir/Solution671.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution671.cpp.o -MF CMakeFiles/LeetCode.dir/Solution671.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution671.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution671.cpp
+
+CMakeFiles/LeetCode.dir/Solution671.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution671.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution671.cpp > CMakeFiles/LeetCode.dir/Solution671.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution671.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution671.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution671.cpp -o CMakeFiles/LeetCode.dir/Solution671.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution673.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution673.cpp.o: ../Solution673.cpp
+CMakeFiles/LeetCode.dir/Solution673.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_246) "Building CXX object CMakeFiles/LeetCode.dir/Solution673.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution673.cpp.o -MF CMakeFiles/LeetCode.dir/Solution673.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution673.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution673.cpp
+
+CMakeFiles/LeetCode.dir/Solution673.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution673.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution673.cpp > CMakeFiles/LeetCode.dir/Solution673.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution673.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution673.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution673.cpp -o CMakeFiles/LeetCode.dir/Solution673.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution677.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution677.cpp.o: ../Solution677.cpp
+CMakeFiles/LeetCode.dir/Solution677.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_247) "Building CXX object CMakeFiles/LeetCode.dir/Solution677.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution677.cpp.o -MF CMakeFiles/LeetCode.dir/Solution677.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution677.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution677.cpp
+
+CMakeFiles/LeetCode.dir/Solution677.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution677.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution677.cpp > CMakeFiles/LeetCode.dir/Solution677.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution677.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution677.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution677.cpp -o CMakeFiles/LeetCode.dir/Solution677.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution678.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution678.cpp.o: ../Solution678.cpp
+CMakeFiles/LeetCode.dir/Solution678.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_248) "Building CXX object CMakeFiles/LeetCode.dir/Solution678.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution678.cpp.o -MF CMakeFiles/LeetCode.dir/Solution678.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution678.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution678.cpp
+
+CMakeFiles/LeetCode.dir/Solution678.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution678.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution678.cpp > CMakeFiles/LeetCode.dir/Solution678.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution678.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution678.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution678.cpp -o CMakeFiles/LeetCode.dir/Solution678.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution68.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution68.cpp.o: ../Solution68.cpp
+CMakeFiles/LeetCode.dir/Solution68.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_249) "Building CXX object CMakeFiles/LeetCode.dir/Solution68.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution68.cpp.o -MF CMakeFiles/LeetCode.dir/Solution68.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution68.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution68.cpp
+
+CMakeFiles/LeetCode.dir/Solution68.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution68.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution68.cpp > CMakeFiles/LeetCode.dir/Solution68.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution68.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution68.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution68.cpp -o CMakeFiles/LeetCode.dir/Solution68.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution688.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution688.cpp.o: ../Solution688.cpp
+CMakeFiles/LeetCode.dir/Solution688.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_250) "Building CXX object CMakeFiles/LeetCode.dir/Solution688.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution688.cpp.o -MF CMakeFiles/LeetCode.dir/Solution688.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution688.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution688.cpp
+
+CMakeFiles/LeetCode.dir/Solution688.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution688.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution688.cpp > CMakeFiles/LeetCode.dir/Solution688.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution688.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution688.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution688.cpp -o CMakeFiles/LeetCode.dir/Solution688.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution689.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution689.cpp.o: ../Solution689.cpp
+CMakeFiles/LeetCode.dir/Solution689.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_251) "Building CXX object CMakeFiles/LeetCode.dir/Solution689.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution689.cpp.o -MF CMakeFiles/LeetCode.dir/Solution689.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution689.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution689.cpp
+
+CMakeFiles/LeetCode.dir/Solution689.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution689.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution689.cpp > CMakeFiles/LeetCode.dir/Solution689.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution689.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution689.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution689.cpp -o CMakeFiles/LeetCode.dir/Solution689.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution692.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution692.cpp.o: ../Solution692.cpp
+CMakeFiles/LeetCode.dir/Solution692.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_252) "Building CXX object CMakeFiles/LeetCode.dir/Solution692.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution692.cpp.o -MF CMakeFiles/LeetCode.dir/Solution692.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution692.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution692.cpp
+
+CMakeFiles/LeetCode.dir/Solution692.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution692.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution692.cpp > CMakeFiles/LeetCode.dir/Solution692.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution692.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution692.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution692.cpp -o CMakeFiles/LeetCode.dir/Solution692.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution700.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution700.cpp.o: ../Solution700.cpp
+CMakeFiles/LeetCode.dir/Solution700.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_253) "Building CXX object CMakeFiles/LeetCode.dir/Solution700.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution700.cpp.o -MF CMakeFiles/LeetCode.dir/Solution700.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution700.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution700.cpp
+
+CMakeFiles/LeetCode.dir/Solution700.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution700.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution700.cpp > CMakeFiles/LeetCode.dir/Solution700.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution700.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution700.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution700.cpp -o CMakeFiles/LeetCode.dir/Solution700.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution704.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution704.cpp.o: ../Solution704.cpp
+CMakeFiles/LeetCode.dir/Solution704.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_254) "Building CXX object CMakeFiles/LeetCode.dir/Solution704.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution704.cpp.o -MF CMakeFiles/LeetCode.dir/Solution704.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution704.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution704.cpp
+
+CMakeFiles/LeetCode.dir/Solution704.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution704.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution704.cpp > CMakeFiles/LeetCode.dir/Solution704.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution704.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution704.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution704.cpp -o CMakeFiles/LeetCode.dir/Solution704.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution709.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution709.cpp.o: ../Solution709.cpp
+CMakeFiles/LeetCode.dir/Solution709.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_255) "Building CXX object CMakeFiles/LeetCode.dir/Solution709.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution709.cpp.o -MF CMakeFiles/LeetCode.dir/Solution709.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution709.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution709.cpp
+
+CMakeFiles/LeetCode.dir/Solution709.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution709.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution709.cpp > CMakeFiles/LeetCode.dir/Solution709.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution709.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution709.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution709.cpp -o CMakeFiles/LeetCode.dir/Solution709.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution71.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution71.cpp.o: ../Solution71.cpp
+CMakeFiles/LeetCode.dir/Solution71.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_256) "Building CXX object CMakeFiles/LeetCode.dir/Solution71.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution71.cpp.o -MF CMakeFiles/LeetCode.dir/Solution71.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution71.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution71.cpp
+
+CMakeFiles/LeetCode.dir/Solution71.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution71.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution71.cpp > CMakeFiles/LeetCode.dir/Solution71.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution71.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution71.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution71.cpp -o CMakeFiles/LeetCode.dir/Solution71.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution717.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution717.cpp.o: ../Solution717.cpp
+CMakeFiles/LeetCode.dir/Solution717.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_257) "Building CXX object CMakeFiles/LeetCode.dir/Solution717.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution717.cpp.o -MF CMakeFiles/LeetCode.dir/Solution717.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution717.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution717.cpp
+
+CMakeFiles/LeetCode.dir/Solution717.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution717.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution717.cpp > CMakeFiles/LeetCode.dir/Solution717.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution717.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution717.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution717.cpp -o CMakeFiles/LeetCode.dir/Solution717.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution725.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution725.cpp.o: ../Solution725.cpp
+CMakeFiles/LeetCode.dir/Solution725.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_258) "Building CXX object CMakeFiles/LeetCode.dir/Solution725.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution725.cpp.o -MF CMakeFiles/LeetCode.dir/Solution725.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution725.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution725.cpp
+
+CMakeFiles/LeetCode.dir/Solution725.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution725.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution725.cpp > CMakeFiles/LeetCode.dir/Solution725.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution725.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution725.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution725.cpp -o CMakeFiles/LeetCode.dir/Solution725.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution726.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution726.cpp.o: ../Solution726.cpp
+CMakeFiles/LeetCode.dir/Solution726.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_259) "Building CXX object CMakeFiles/LeetCode.dir/Solution726.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution726.cpp.o -MF CMakeFiles/LeetCode.dir/Solution726.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution726.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution726.cpp
+
+CMakeFiles/LeetCode.dir/Solution726.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution726.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution726.cpp > CMakeFiles/LeetCode.dir/Solution726.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution726.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution726.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution726.cpp -o CMakeFiles/LeetCode.dir/Solution726.cpp.s
+
 CMakeFiles/LeetCode.dir/Solution73.cpp.o: CMakeFiles/LeetCode.dir/flags.make
 CMakeFiles/LeetCode.dir/Solution73.cpp.o: ../Solution73.cpp
 CMakeFiles/LeetCode.dir/Solution73.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/LeetCode.dir/Solution73.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_260) "Building CXX object CMakeFiles/LeetCode.dir/Solution73.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution73.cpp.o -MF CMakeFiles/LeetCode.dir/Solution73.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution73.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution73.cpp
 
 CMakeFiles/LeetCode.dir/Solution73.cpp.i: cmake_force
@@ -223,10 +3709,248 @@ CMakeFiles/LeetCode.dir/Solution73.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution73.cpp.s"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution73.cpp -o CMakeFiles/LeetCode.dir/Solution73.cpp.s
 
+CMakeFiles/LeetCode.dir/Solution74.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution74.cpp.o: ../Solution74.cpp
+CMakeFiles/LeetCode.dir/Solution74.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_261) "Building CXX object CMakeFiles/LeetCode.dir/Solution74.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution74.cpp.o -MF CMakeFiles/LeetCode.dir/Solution74.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution74.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution74.cpp
+
+CMakeFiles/LeetCode.dir/Solution74.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution74.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution74.cpp > CMakeFiles/LeetCode.dir/Solution74.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution74.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution74.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution74.cpp -o CMakeFiles/LeetCode.dir/Solution74.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution743.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution743.cpp.o: ../Solution743.cpp
+CMakeFiles/LeetCode.dir/Solution743.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_262) "Building CXX object CMakeFiles/LeetCode.dir/Solution743.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution743.cpp.o -MF CMakeFiles/LeetCode.dir/Solution743.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution743.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution743.cpp
+
+CMakeFiles/LeetCode.dir/Solution743.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution743.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution743.cpp > CMakeFiles/LeetCode.dir/Solution743.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution743.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution743.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution743.cpp -o CMakeFiles/LeetCode.dir/Solution743.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution747.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution747.cpp.o: ../Solution747.cpp
+CMakeFiles/LeetCode.dir/Solution747.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_263) "Building CXX object CMakeFiles/LeetCode.dir/Solution747.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution747.cpp.o -MF CMakeFiles/LeetCode.dir/Solution747.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution747.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution747.cpp
+
+CMakeFiles/LeetCode.dir/Solution747.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution747.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution747.cpp > CMakeFiles/LeetCode.dir/Solution747.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution747.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution747.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution747.cpp -o CMakeFiles/LeetCode.dir/Solution747.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution748.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution748.cpp.o: ../Solution748.cpp
+CMakeFiles/LeetCode.dir/Solution748.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_264) "Building CXX object CMakeFiles/LeetCode.dir/Solution748.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution748.cpp.o -MF CMakeFiles/LeetCode.dir/Solution748.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution748.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution748.cpp
+
+CMakeFiles/LeetCode.dir/Solution748.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution748.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution748.cpp > CMakeFiles/LeetCode.dir/Solution748.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution748.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution748.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution748.cpp -o CMakeFiles/LeetCode.dir/Solution748.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution781.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution781.cpp.o: ../Solution781.cpp
+CMakeFiles/LeetCode.dir/Solution781.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_265) "Building CXX object CMakeFiles/LeetCode.dir/Solution781.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution781.cpp.o -MF CMakeFiles/LeetCode.dir/Solution781.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution781.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution781.cpp
+
+CMakeFiles/LeetCode.dir/Solution781.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution781.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution781.cpp > CMakeFiles/LeetCode.dir/Solution781.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution781.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution781.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution781.cpp -o CMakeFiles/LeetCode.dir/Solution781.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution783.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution783.cpp.o: ../Solution783.cpp
+CMakeFiles/LeetCode.dir/Solution783.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_266) "Building CXX object CMakeFiles/LeetCode.dir/Solution783.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution783.cpp.o -MF CMakeFiles/LeetCode.dir/Solution783.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution783.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution783.cpp
+
+CMakeFiles/LeetCode.dir/Solution783.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution783.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution783.cpp > CMakeFiles/LeetCode.dir/Solution783.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution783.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution783.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution783.cpp -o CMakeFiles/LeetCode.dir/Solution783.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution786.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution786.cpp.o: ../Solution786.cpp
+CMakeFiles/LeetCode.dir/Solution786.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_267) "Building CXX object CMakeFiles/LeetCode.dir/Solution786.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution786.cpp.o -MF CMakeFiles/LeetCode.dir/Solution786.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution786.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution786.cpp
+
+CMakeFiles/LeetCode.dir/Solution786.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution786.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution786.cpp > CMakeFiles/LeetCode.dir/Solution786.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution786.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution786.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution786.cpp -o CMakeFiles/LeetCode.dir/Solution786.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution787.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution787.cpp.o: ../Solution787.cpp
+CMakeFiles/LeetCode.dir/Solution787.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_268) "Building CXX object CMakeFiles/LeetCode.dir/Solution787.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution787.cpp.o -MF CMakeFiles/LeetCode.dir/Solution787.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution787.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution787.cpp
+
+CMakeFiles/LeetCode.dir/Solution787.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution787.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution787.cpp > CMakeFiles/LeetCode.dir/Solution787.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution787.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution787.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution787.cpp -o CMakeFiles/LeetCode.dir/Solution787.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution789.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution789.cpp.o: ../Solution789.cpp
+CMakeFiles/LeetCode.dir/Solution789.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_269) "Building CXX object CMakeFiles/LeetCode.dir/Solution789.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution789.cpp.o -MF CMakeFiles/LeetCode.dir/Solution789.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution789.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution789.cpp
+
+CMakeFiles/LeetCode.dir/Solution789.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution789.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution789.cpp > CMakeFiles/LeetCode.dir/Solution789.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution789.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution789.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution789.cpp -o CMakeFiles/LeetCode.dir/Solution789.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution794.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution794.cpp.o: ../Solution794.cpp
+CMakeFiles/LeetCode.dir/Solution794.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_270) "Building CXX object CMakeFiles/LeetCode.dir/Solution794.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution794.cpp.o -MF CMakeFiles/LeetCode.dir/Solution794.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution794.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution794.cpp
+
+CMakeFiles/LeetCode.dir/Solution794.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution794.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution794.cpp > CMakeFiles/LeetCode.dir/Solution794.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution794.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution794.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution794.cpp -o CMakeFiles/LeetCode.dir/Solution794.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution797.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution797.cpp.o: ../Solution797.cpp
+CMakeFiles/LeetCode.dir/Solution797.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_271) "Building CXX object CMakeFiles/LeetCode.dir/Solution797.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution797.cpp.o -MF CMakeFiles/LeetCode.dir/Solution797.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution797.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution797.cpp
+
+CMakeFiles/LeetCode.dir/Solution797.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution797.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution797.cpp > CMakeFiles/LeetCode.dir/Solution797.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution797.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution797.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution797.cpp -o CMakeFiles/LeetCode.dir/Solution797.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution80.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution80.cpp.o: ../Solution80.cpp
+CMakeFiles/LeetCode.dir/Solution80.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_272) "Building CXX object CMakeFiles/LeetCode.dir/Solution80.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution80.cpp.o -MF CMakeFiles/LeetCode.dir/Solution80.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution80.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution80.cpp
+
+CMakeFiles/LeetCode.dir/Solution80.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution80.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution80.cpp > CMakeFiles/LeetCode.dir/Solution80.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution80.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution80.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution80.cpp -o CMakeFiles/LeetCode.dir/Solution80.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution802.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution802.cpp.o: ../Solution802.cpp
+CMakeFiles/LeetCode.dir/Solution802.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_273) "Building CXX object CMakeFiles/LeetCode.dir/Solution802.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution802.cpp.o -MF CMakeFiles/LeetCode.dir/Solution802.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution802.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution802.cpp
+
+CMakeFiles/LeetCode.dir/Solution802.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution802.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution802.cpp > CMakeFiles/LeetCode.dir/Solution802.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution802.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution802.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution802.cpp -o CMakeFiles/LeetCode.dir/Solution802.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution807.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution807.cpp.o: ../Solution807.cpp
+CMakeFiles/LeetCode.dir/Solution807.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_274) "Building CXX object CMakeFiles/LeetCode.dir/Solution807.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution807.cpp.o -MF CMakeFiles/LeetCode.dir/Solution807.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution807.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution807.cpp
+
+CMakeFiles/LeetCode.dir/Solution807.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution807.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution807.cpp > CMakeFiles/LeetCode.dir/Solution807.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution807.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution807.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution807.cpp -o CMakeFiles/LeetCode.dir/Solution807.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution81.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution81.cpp.o: ../Solution81.cpp
+CMakeFiles/LeetCode.dir/Solution81.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_275) "Building CXX object CMakeFiles/LeetCode.dir/Solution81.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution81.cpp.o -MF CMakeFiles/LeetCode.dir/Solution81.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution81.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution81.cpp
+
+CMakeFiles/LeetCode.dir/Solution81.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution81.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution81.cpp > CMakeFiles/LeetCode.dir/Solution81.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution81.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution81.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution81.cpp -o CMakeFiles/LeetCode.dir/Solution81.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution815.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution815.cpp.o: ../Solution815.cpp
+CMakeFiles/LeetCode.dir/Solution815.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_276) "Building CXX object CMakeFiles/LeetCode.dir/Solution815.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution815.cpp.o -MF CMakeFiles/LeetCode.dir/Solution815.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution815.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution815.cpp
+
+CMakeFiles/LeetCode.dir/Solution815.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution815.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution815.cpp > CMakeFiles/LeetCode.dir/Solution815.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution815.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution815.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution815.cpp -o CMakeFiles/LeetCode.dir/Solution815.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution825.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution825.cpp.o: ../Solution825.cpp
+CMakeFiles/LeetCode.dir/Solution825.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_277) "Building CXX object CMakeFiles/LeetCode.dir/Solution825.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution825.cpp.o -MF CMakeFiles/LeetCode.dir/Solution825.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution825.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution825.cpp
+
+CMakeFiles/LeetCode.dir/Solution825.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution825.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution825.cpp > CMakeFiles/LeetCode.dir/Solution825.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution825.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution825.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution825.cpp -o CMakeFiles/LeetCode.dir/Solution825.cpp.s
+
 CMakeFiles/LeetCode.dir/Solution83.cpp.o: CMakeFiles/LeetCode.dir/flags.make
 CMakeFiles/LeetCode.dir/Solution83.cpp.o: ../Solution83.cpp
 CMakeFiles/LeetCode.dir/Solution83.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/LeetCode.dir/Solution83.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_278) "Building CXX object CMakeFiles/LeetCode.dir/Solution83.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution83.cpp.o -MF CMakeFiles/LeetCode.dir/Solution83.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution83.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution83.cpp
 
 CMakeFiles/LeetCode.dir/Solution83.cpp.i: cmake_force
@@ -237,10 +3961,248 @@ CMakeFiles/LeetCode.dir/Solution83.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution83.cpp.s"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution83.cpp -o CMakeFiles/LeetCode.dir/Solution83.cpp.s
 
+CMakeFiles/LeetCode.dir/Solution846.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution846.cpp.o: ../Solution846.cpp
+CMakeFiles/LeetCode.dir/Solution846.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_279) "Building CXX object CMakeFiles/LeetCode.dir/Solution846.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution846.cpp.o -MF CMakeFiles/LeetCode.dir/Solution846.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution846.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution846.cpp
+
+CMakeFiles/LeetCode.dir/Solution846.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution846.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution846.cpp > CMakeFiles/LeetCode.dir/Solution846.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution846.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution846.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution846.cpp -o CMakeFiles/LeetCode.dir/Solution846.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution851.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution851.cpp.o: ../Solution851.cpp
+CMakeFiles/LeetCode.dir/Solution851.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_280) "Building CXX object CMakeFiles/LeetCode.dir/Solution851.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution851.cpp.o -MF CMakeFiles/LeetCode.dir/Solution851.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution851.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution851.cpp
+
+CMakeFiles/LeetCode.dir/Solution851.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution851.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution851.cpp > CMakeFiles/LeetCode.dir/Solution851.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution851.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution851.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution851.cpp -o CMakeFiles/LeetCode.dir/Solution851.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution852.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution852.cpp.o: ../Solution852.cpp
+CMakeFiles/LeetCode.dir/Solution852.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_281) "Building CXX object CMakeFiles/LeetCode.dir/Solution852.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution852.cpp.o -MF CMakeFiles/LeetCode.dir/Solution852.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution852.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution852.cpp
+
+CMakeFiles/LeetCode.dir/Solution852.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution852.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution852.cpp > CMakeFiles/LeetCode.dir/Solution852.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution852.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution852.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution852.cpp -o CMakeFiles/LeetCode.dir/Solution852.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution859.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution859.cpp.o: ../Solution859.cpp
+CMakeFiles/LeetCode.dir/Solution859.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_282) "Building CXX object CMakeFiles/LeetCode.dir/Solution859.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution859.cpp.o -MF CMakeFiles/LeetCode.dir/Solution859.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution859.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution859.cpp
+
+CMakeFiles/LeetCode.dir/Solution859.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution859.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution859.cpp > CMakeFiles/LeetCode.dir/Solution859.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution859.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution859.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution859.cpp -o CMakeFiles/LeetCode.dir/Solution859.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution863.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution863.cpp.o: ../Solution863.cpp
+CMakeFiles/LeetCode.dir/Solution863.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_283) "Building CXX object CMakeFiles/LeetCode.dir/Solution863.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution863.cpp.o -MF CMakeFiles/LeetCode.dir/Solution863.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution863.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution863.cpp
+
+CMakeFiles/LeetCode.dir/Solution863.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution863.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution863.cpp > CMakeFiles/LeetCode.dir/Solution863.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution863.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution863.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution863.cpp -o CMakeFiles/LeetCode.dir/Solution863.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution869.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution869.cpp.o: ../Solution869.cpp
+CMakeFiles/LeetCode.dir/Solution869.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_284) "Building CXX object CMakeFiles/LeetCode.dir/Solution869.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution869.cpp.o -MF CMakeFiles/LeetCode.dir/Solution869.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution869.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution869.cpp
+
+CMakeFiles/LeetCode.dir/Solution869.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution869.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution869.cpp > CMakeFiles/LeetCode.dir/Solution869.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution869.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution869.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution869.cpp -o CMakeFiles/LeetCode.dir/Solution869.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution872.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution872.cpp.o: ../Solution872.cpp
+CMakeFiles/LeetCode.dir/Solution872.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_285) "Building CXX object CMakeFiles/LeetCode.dir/Solution872.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution872.cpp.o -MF CMakeFiles/LeetCode.dir/Solution872.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution872.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution872.cpp
+
+CMakeFiles/LeetCode.dir/Solution872.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution872.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution872.cpp > CMakeFiles/LeetCode.dir/Solution872.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution872.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution872.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution872.cpp -o CMakeFiles/LeetCode.dir/Solution872.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution877.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution877.cpp.o: ../Solution877.cpp
+CMakeFiles/LeetCode.dir/Solution877.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_286) "Building CXX object CMakeFiles/LeetCode.dir/Solution877.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution877.cpp.o -MF CMakeFiles/LeetCode.dir/Solution877.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution877.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution877.cpp
+
+CMakeFiles/LeetCode.dir/Solution877.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution877.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution877.cpp > CMakeFiles/LeetCode.dir/Solution877.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution877.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution877.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution877.cpp -o CMakeFiles/LeetCode.dir/Solution877.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution879.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution879.cpp.o: ../Solution879.cpp
+CMakeFiles/LeetCode.dir/Solution879.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_287) "Building CXX object CMakeFiles/LeetCode.dir/Solution879.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution879.cpp.o -MF CMakeFiles/LeetCode.dir/Solution879.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution879.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution879.cpp
+
+CMakeFiles/LeetCode.dir/Solution879.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution879.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution879.cpp > CMakeFiles/LeetCode.dir/Solution879.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution879.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution879.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution879.cpp -o CMakeFiles/LeetCode.dir/Solution879.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution88.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution88.cpp.o: ../Solution88.cpp
+CMakeFiles/LeetCode.dir/Solution88.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_288) "Building CXX object CMakeFiles/LeetCode.dir/Solution88.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution88.cpp.o -MF CMakeFiles/LeetCode.dir/Solution88.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution88.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution88.cpp
+
+CMakeFiles/LeetCode.dir/Solution88.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution88.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution88.cpp > CMakeFiles/LeetCode.dir/Solution88.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution88.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution88.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution88.cpp -o CMakeFiles/LeetCode.dir/Solution88.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution884.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution884.cpp.o: ../Solution884.cpp
+CMakeFiles/LeetCode.dir/Solution884.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_289) "Building CXX object CMakeFiles/LeetCode.dir/Solution884.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution884.cpp.o -MF CMakeFiles/LeetCode.dir/Solution884.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution884.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution884.cpp
+
+CMakeFiles/LeetCode.dir/Solution884.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution884.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution884.cpp > CMakeFiles/LeetCode.dir/Solution884.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution884.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution884.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution884.cpp -o CMakeFiles/LeetCode.dir/Solution884.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution89.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution89.cpp.o: ../Solution89.cpp
+CMakeFiles/LeetCode.dir/Solution89.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_290) "Building CXX object CMakeFiles/LeetCode.dir/Solution89.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution89.cpp.o -MF CMakeFiles/LeetCode.dir/Solution89.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution89.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution89.cpp
+
+CMakeFiles/LeetCode.dir/Solution89.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution89.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution89.cpp > CMakeFiles/LeetCode.dir/Solution89.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution89.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution89.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution89.cpp -o CMakeFiles/LeetCode.dir/Solution89.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution897.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution897.cpp.o: ../Solution897.cpp
+CMakeFiles/LeetCode.dir/Solution897.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_291) "Building CXX object CMakeFiles/LeetCode.dir/Solution897.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution897.cpp.o -MF CMakeFiles/LeetCode.dir/Solution897.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution897.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution897.cpp
+
+CMakeFiles/LeetCode.dir/Solution897.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution897.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution897.cpp > CMakeFiles/LeetCode.dir/Solution897.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution897.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution897.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution897.cpp -o CMakeFiles/LeetCode.dir/Solution897.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution909.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution909.cpp.o: ../Solution909.cpp
+CMakeFiles/LeetCode.dir/Solution909.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_292) "Building CXX object CMakeFiles/LeetCode.dir/Solution909.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution909.cpp.o -MF CMakeFiles/LeetCode.dir/Solution909.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution909.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution909.cpp
+
+CMakeFiles/LeetCode.dir/Solution909.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution909.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution909.cpp > CMakeFiles/LeetCode.dir/Solution909.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution909.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution909.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution909.cpp -o CMakeFiles/LeetCode.dir/Solution909.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution91.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution91.cpp.o: ../Solution91.cpp
+CMakeFiles/LeetCode.dir/Solution91.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_293) "Building CXX object CMakeFiles/LeetCode.dir/Solution91.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution91.cpp.o -MF CMakeFiles/LeetCode.dir/Solution91.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution91.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution91.cpp
+
+CMakeFiles/LeetCode.dir/Solution91.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution91.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution91.cpp > CMakeFiles/LeetCode.dir/Solution91.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution91.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution91.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution91.cpp -o CMakeFiles/LeetCode.dir/Solution91.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution911.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution911.cpp.o: ../Solution911.cpp
+CMakeFiles/LeetCode.dir/Solution911.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_294) "Building CXX object CMakeFiles/LeetCode.dir/Solution911.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution911.cpp.o -MF CMakeFiles/LeetCode.dir/Solution911.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution911.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution911.cpp
+
+CMakeFiles/LeetCode.dir/Solution911.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution911.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution911.cpp > CMakeFiles/LeetCode.dir/Solution911.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution911.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution911.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution911.cpp -o CMakeFiles/LeetCode.dir/Solution911.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution917.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution917.cpp.o: ../Solution917.cpp
+CMakeFiles/LeetCode.dir/Solution917.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_295) "Building CXX object CMakeFiles/LeetCode.dir/Solution917.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution917.cpp.o -MF CMakeFiles/LeetCode.dir/Solution917.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution917.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution917.cpp
+
+CMakeFiles/LeetCode.dir/Solution917.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution917.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution917.cpp > CMakeFiles/LeetCode.dir/Solution917.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution917.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution917.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution917.cpp -o CMakeFiles/LeetCode.dir/Solution917.cpp.s
+
 CMakeFiles/LeetCode.dir/Solution92.cpp.o: CMakeFiles/LeetCode.dir/flags.make
 CMakeFiles/LeetCode.dir/Solution92.cpp.o: ../Solution92.cpp
 CMakeFiles/LeetCode.dir/Solution92.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/LeetCode.dir/Solution92.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_296) "Building CXX object CMakeFiles/LeetCode.dir/Solution92.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution92.cpp.o -MF CMakeFiles/LeetCode.dir/Solution92.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution92.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution92.cpp
 
 CMakeFiles/LeetCode.dir/Solution92.cpp.i: cmake_force
@@ -251,10 +4213,276 @@ CMakeFiles/LeetCode.dir/Solution92.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution92.cpp.s"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution92.cpp -o CMakeFiles/LeetCode.dir/Solution92.cpp.s
 
+CMakeFiles/LeetCode.dir/Solution930.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution930.cpp.o: ../Solution930.cpp
+CMakeFiles/LeetCode.dir/Solution930.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_297) "Building CXX object CMakeFiles/LeetCode.dir/Solution930.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution930.cpp.o -MF CMakeFiles/LeetCode.dir/Solution930.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution930.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution930.cpp
+
+CMakeFiles/LeetCode.dir/Solution930.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution930.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution930.cpp > CMakeFiles/LeetCode.dir/Solution930.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution930.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution930.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution930.cpp -o CMakeFiles/LeetCode.dir/Solution930.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution938.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution938.cpp.o: ../Solution938.cpp
+CMakeFiles/LeetCode.dir/Solution938.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_298) "Building CXX object CMakeFiles/LeetCode.dir/Solution938.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution938.cpp.o -MF CMakeFiles/LeetCode.dir/Solution938.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution938.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution938.cpp
+
+CMakeFiles/LeetCode.dir/Solution938.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution938.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution938.cpp > CMakeFiles/LeetCode.dir/Solution938.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution938.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution938.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution938.cpp -o CMakeFiles/LeetCode.dir/Solution938.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution969.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution969.cpp.o: ../Solution969.cpp
+CMakeFiles/LeetCode.dir/Solution969.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_299) "Building CXX object CMakeFiles/LeetCode.dir/Solution969.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution969.cpp.o -MF CMakeFiles/LeetCode.dir/Solution969.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution969.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution969.cpp
+
+CMakeFiles/LeetCode.dir/Solution969.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution969.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution969.cpp > CMakeFiles/LeetCode.dir/Solution969.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution969.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution969.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution969.cpp -o CMakeFiles/LeetCode.dir/Solution969.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution981.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution981.cpp.o: ../Solution981.cpp
+CMakeFiles/LeetCode.dir/Solution981.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_300) "Building CXX object CMakeFiles/LeetCode.dir/Solution981.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution981.cpp.o -MF CMakeFiles/LeetCode.dir/Solution981.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution981.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution981.cpp
+
+CMakeFiles/LeetCode.dir/Solution981.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution981.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution981.cpp > CMakeFiles/LeetCode.dir/Solution981.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution981.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution981.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution981.cpp -o CMakeFiles/LeetCode.dir/Solution981.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution993.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution993.cpp.o: ../Solution993.cpp
+CMakeFiles/LeetCode.dir/Solution993.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_301) "Building CXX object CMakeFiles/LeetCode.dir/Solution993.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution993.cpp.o -MF CMakeFiles/LeetCode.dir/Solution993.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution993.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution993.cpp
+
+CMakeFiles/LeetCode.dir/Solution993.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution993.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution993.cpp > CMakeFiles/LeetCode.dir/Solution993.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution993.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution993.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution993.cpp -o CMakeFiles/LeetCode.dir/Solution993.cpp.s
+
+CMakeFiles/LeetCode.dir/Solution997.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Solution997.cpp.o: ../Solution997.cpp
+CMakeFiles/LeetCode.dir/Solution997.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_302) "Building CXX object CMakeFiles/LeetCode.dir/Solution997.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Solution997.cpp.o -MF CMakeFiles/LeetCode.dir/Solution997.cpp.o.d -o CMakeFiles/LeetCode.dir/Solution997.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution997.cpp
+
+CMakeFiles/LeetCode.dir/Solution997.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Solution997.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Solution997.cpp > CMakeFiles/LeetCode.dir/Solution997.cpp.i
+
+CMakeFiles/LeetCode.dir/Solution997.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Solution997.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Solution997.cpp -o CMakeFiles/LeetCode.dir/Solution997.cpp.s
+
+CMakeFiles/LeetCode.dir/SolutionLCP07.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/SolutionLCP07.cpp.o: ../SolutionLCP07.cpp
+CMakeFiles/LeetCode.dir/SolutionLCP07.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_303) "Building CXX object CMakeFiles/LeetCode.dir/SolutionLCP07.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/SolutionLCP07.cpp.o -MF CMakeFiles/LeetCode.dir/SolutionLCP07.cpp.o.d -o CMakeFiles/LeetCode.dir/SolutionLCP07.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionLCP07.cpp
+
+CMakeFiles/LeetCode.dir/SolutionLCP07.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/SolutionLCP07.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionLCP07.cpp > CMakeFiles/LeetCode.dir/SolutionLCP07.cpp.i
+
+CMakeFiles/LeetCode.dir/SolutionLCP07.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/SolutionLCP07.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionLCP07.cpp -o CMakeFiles/LeetCode.dir/SolutionLCP07.cpp.s
+
+CMakeFiles/LeetCode.dir/SolutionMian10_02.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/SolutionMian10_02.cpp.o: ../SolutionMian10_02.cpp
+CMakeFiles/LeetCode.dir/SolutionMian10_02.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_304) "Building CXX object CMakeFiles/LeetCode.dir/SolutionMian10_02.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/SolutionMian10_02.cpp.o -MF CMakeFiles/LeetCode.dir/SolutionMian10_02.cpp.o.d -o CMakeFiles/LeetCode.dir/SolutionMian10_02.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionMian10_02.cpp
+
+CMakeFiles/LeetCode.dir/SolutionMian10_02.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/SolutionMian10_02.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionMian10_02.cpp > CMakeFiles/LeetCode.dir/SolutionMian10_02.cpp.i
+
+CMakeFiles/LeetCode.dir/SolutionMian10_02.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/SolutionMian10_02.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionMian10_02.cpp -o CMakeFiles/LeetCode.dir/SolutionMian10_02.cpp.s
+
+CMakeFiles/LeetCode.dir/SolutionMian17_14.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/SolutionMian17_14.cpp.o: ../SolutionMian17_14.cpp
+CMakeFiles/LeetCode.dir/SolutionMian17_14.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_305) "Building CXX object CMakeFiles/LeetCode.dir/SolutionMian17_14.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/SolutionMian17_14.cpp.o -MF CMakeFiles/LeetCode.dir/SolutionMian17_14.cpp.o.d -o CMakeFiles/LeetCode.dir/SolutionMian17_14.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionMian17_14.cpp
+
+CMakeFiles/LeetCode.dir/SolutionMian17_14.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/SolutionMian17_14.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionMian17_14.cpp > CMakeFiles/LeetCode.dir/SolutionMian17_14.cpp.i
+
+CMakeFiles/LeetCode.dir/SolutionMian17_14.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/SolutionMian17_14.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionMian17_14.cpp -o CMakeFiles/LeetCode.dir/SolutionMian17_14.cpp.s
+
+CMakeFiles/LeetCode.dir/SolutionOffer069.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/SolutionOffer069.cpp.o: ../SolutionOffer069.cpp
+CMakeFiles/LeetCode.dir/SolutionOffer069.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_306) "Building CXX object CMakeFiles/LeetCode.dir/SolutionOffer069.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/SolutionOffer069.cpp.o -MF CMakeFiles/LeetCode.dir/SolutionOffer069.cpp.o.d -o CMakeFiles/LeetCode.dir/SolutionOffer069.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer069.cpp
+
+CMakeFiles/LeetCode.dir/SolutionOffer069.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/SolutionOffer069.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer069.cpp > CMakeFiles/LeetCode.dir/SolutionOffer069.cpp.i
+
+CMakeFiles/LeetCode.dir/SolutionOffer069.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/SolutionOffer069.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer069.cpp -o CMakeFiles/LeetCode.dir/SolutionOffer069.cpp.s
+
+CMakeFiles/LeetCode.dir/SolutionOffer10_1.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/SolutionOffer10_1.cpp.o: ../SolutionOffer10_1.cpp
+CMakeFiles/LeetCode.dir/SolutionOffer10_1.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_307) "Building CXX object CMakeFiles/LeetCode.dir/SolutionOffer10_1.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/SolutionOffer10_1.cpp.o -MF CMakeFiles/LeetCode.dir/SolutionOffer10_1.cpp.o.d -o CMakeFiles/LeetCode.dir/SolutionOffer10_1.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer10_1.cpp
+
+CMakeFiles/LeetCode.dir/SolutionOffer10_1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/SolutionOffer10_1.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer10_1.cpp > CMakeFiles/LeetCode.dir/SolutionOffer10_1.cpp.i
+
+CMakeFiles/LeetCode.dir/SolutionOffer10_1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/SolutionOffer10_1.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer10_1.cpp -o CMakeFiles/LeetCode.dir/SolutionOffer10_1.cpp.s
+
+CMakeFiles/LeetCode.dir/SolutionOffer15.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/SolutionOffer15.cpp.o: ../SolutionOffer15.cpp
+CMakeFiles/LeetCode.dir/SolutionOffer15.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_308) "Building CXX object CMakeFiles/LeetCode.dir/SolutionOffer15.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/SolutionOffer15.cpp.o -MF CMakeFiles/LeetCode.dir/SolutionOffer15.cpp.o.d -o CMakeFiles/LeetCode.dir/SolutionOffer15.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer15.cpp
+
+CMakeFiles/LeetCode.dir/SolutionOffer15.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/SolutionOffer15.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer15.cpp > CMakeFiles/LeetCode.dir/SolutionOffer15.cpp.i
+
+CMakeFiles/LeetCode.dir/SolutionOffer15.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/SolutionOffer15.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer15.cpp -o CMakeFiles/LeetCode.dir/SolutionOffer15.cpp.s
+
+CMakeFiles/LeetCode.dir/SolutionOffer37.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/SolutionOffer37.cpp.o: ../SolutionOffer37.cpp
+CMakeFiles/LeetCode.dir/SolutionOffer37.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_309) "Building CXX object CMakeFiles/LeetCode.dir/SolutionOffer37.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/SolutionOffer37.cpp.o -MF CMakeFiles/LeetCode.dir/SolutionOffer37.cpp.o.d -o CMakeFiles/LeetCode.dir/SolutionOffer37.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer37.cpp
+
+CMakeFiles/LeetCode.dir/SolutionOffer37.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/SolutionOffer37.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer37.cpp > CMakeFiles/LeetCode.dir/SolutionOffer37.cpp.i
+
+CMakeFiles/LeetCode.dir/SolutionOffer37.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/SolutionOffer37.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer37.cpp -o CMakeFiles/LeetCode.dir/SolutionOffer37.cpp.s
+
+CMakeFiles/LeetCode.dir/SolutionOffer38.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/SolutionOffer38.cpp.o: ../SolutionOffer38.cpp
+CMakeFiles/LeetCode.dir/SolutionOffer38.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_310) "Building CXX object CMakeFiles/LeetCode.dir/SolutionOffer38.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/SolutionOffer38.cpp.o -MF CMakeFiles/LeetCode.dir/SolutionOffer38.cpp.o.d -o CMakeFiles/LeetCode.dir/SolutionOffer38.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer38.cpp
+
+CMakeFiles/LeetCode.dir/SolutionOffer38.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/SolutionOffer38.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer38.cpp > CMakeFiles/LeetCode.dir/SolutionOffer38.cpp.i
+
+CMakeFiles/LeetCode.dir/SolutionOffer38.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/SolutionOffer38.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer38.cpp -o CMakeFiles/LeetCode.dir/SolutionOffer38.cpp.s
+
+CMakeFiles/LeetCode.dir/SolutionOffer42.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/SolutionOffer42.cpp.o: ../SolutionOffer42.cpp
+CMakeFiles/LeetCode.dir/SolutionOffer42.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_311) "Building CXX object CMakeFiles/LeetCode.dir/SolutionOffer42.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/SolutionOffer42.cpp.o -MF CMakeFiles/LeetCode.dir/SolutionOffer42.cpp.o.d -o CMakeFiles/LeetCode.dir/SolutionOffer42.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer42.cpp
+
+CMakeFiles/LeetCode.dir/SolutionOffer42.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/SolutionOffer42.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer42.cpp > CMakeFiles/LeetCode.dir/SolutionOffer42.cpp.i
+
+CMakeFiles/LeetCode.dir/SolutionOffer42.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/SolutionOffer42.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer42.cpp -o CMakeFiles/LeetCode.dir/SolutionOffer42.cpp.s
+
+CMakeFiles/LeetCode.dir/SolutionOffer52.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/SolutionOffer52.cpp.o: ../SolutionOffer52.cpp
+CMakeFiles/LeetCode.dir/SolutionOffer52.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_312) "Building CXX object CMakeFiles/LeetCode.dir/SolutionOffer52.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/SolutionOffer52.cpp.o -MF CMakeFiles/LeetCode.dir/SolutionOffer52.cpp.o.d -o CMakeFiles/LeetCode.dir/SolutionOffer52.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer52.cpp
+
+CMakeFiles/LeetCode.dir/SolutionOffer52.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/SolutionOffer52.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer52.cpp > CMakeFiles/LeetCode.dir/SolutionOffer52.cpp.i
+
+CMakeFiles/LeetCode.dir/SolutionOffer52.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/SolutionOffer52.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer52.cpp -o CMakeFiles/LeetCode.dir/SolutionOffer52.cpp.s
+
+CMakeFiles/LeetCode.dir/SolutionOffer53_I.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/SolutionOffer53_I.cpp.o: ../SolutionOffer53_I.cpp
+CMakeFiles/LeetCode.dir/SolutionOffer53_I.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_313) "Building CXX object CMakeFiles/LeetCode.dir/SolutionOffer53_I.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/SolutionOffer53_I.cpp.o -MF CMakeFiles/LeetCode.dir/SolutionOffer53_I.cpp.o.d -o CMakeFiles/LeetCode.dir/SolutionOffer53_I.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer53_I.cpp
+
+CMakeFiles/LeetCode.dir/SolutionOffer53_I.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/SolutionOffer53_I.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer53_I.cpp > CMakeFiles/LeetCode.dir/SolutionOffer53_I.cpp.i
+
+CMakeFiles/LeetCode.dir/SolutionOffer53_I.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/SolutionOffer53_I.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer53_I.cpp -o CMakeFiles/LeetCode.dir/SolutionOffer53_I.cpp.s
+
+CMakeFiles/LeetCode.dir/Tire.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Tire.cpp.o: ../Tire.cpp
+CMakeFiles/LeetCode.dir/Tire.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_314) "Building CXX object CMakeFiles/LeetCode.dir/Tire.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/Tire.cpp.o -MF CMakeFiles/LeetCode.dir/Tire.cpp.o.d -o CMakeFiles/LeetCode.dir/Tire.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Tire.cpp
+
+CMakeFiles/LeetCode.dir/Tire.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Tire.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/Tire.cpp > CMakeFiles/LeetCode.dir/Tire.cpp.i
+
+CMakeFiles/LeetCode.dir/Tire.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Tire.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/Tire.cpp -o CMakeFiles/LeetCode.dir/Tire.cpp.s
+
+CMakeFiles/LeetCode.dir/UnionFind.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/UnionFind.cpp.o: ../UnionFind.cpp
+CMakeFiles/LeetCode.dir/UnionFind.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_315) "Building CXX object CMakeFiles/LeetCode.dir/UnionFind.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/UnionFind.cpp.o -MF CMakeFiles/LeetCode.dir/UnionFind.cpp.o.d -o CMakeFiles/LeetCode.dir/UnionFind.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/UnionFind.cpp
+
+CMakeFiles/LeetCode.dir/UnionFind.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/UnionFind.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zehui.lzh/CLionProjects/LeetCode1/UnionFind.cpp > CMakeFiles/LeetCode.dir/UnionFind.cpp.i
+
+CMakeFiles/LeetCode.dir/UnionFind.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/UnionFind.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zehui.lzh/CLionProjects/LeetCode1/UnionFind.cpp -o CMakeFiles/LeetCode.dir/UnionFind.cpp.s
+
 CMakeFiles/LeetCode.dir/main.cpp.o: CMakeFiles/LeetCode.dir/flags.make
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 CMakeFiles/LeetCode.dir/main.cpp.o: CMakeFiles/LeetCode.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/LeetCode.dir/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_316) "Building CXX object CMakeFiles/LeetCode.dir/main.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LeetCode.dir/main.cpp.o -MF CMakeFiles/LeetCode.dir/main.cpp.o.d -o CMakeFiles/LeetCode.dir/main.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/main.cpp
 
 CMakeFiles/LeetCode.dir/main.cpp.i: cmake_force
@@ -267,41 +4495,645 @@ CMakeFiles/LeetCode.dir/main.cpp.s: cmake_force
 
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
+"CMakeFiles/LeetCode.dir/HUAWEI0.cpp.o" \
+"CMakeFiles/LeetCode.dir/HUAWEI1.cpp.o" \
+"CMakeFiles/LeetCode.dir/HUAWEI2.cpp.o" \
+"CMakeFiles/LeetCode.dir/HUAWEI3.cpp.o" \
+"CMakeFiles/LeetCode.dir/HUAWEI4.cpp.o" \
+"CMakeFiles/LeetCode.dir/LeetCode121.cpp.o" \
+"CMakeFiles/LeetCode.dir/LeetCode172.cpp.o" \
+"CMakeFiles/LeetCode.dir/LeetCode2038.cpp.o" \
+"CMakeFiles/LeetCode.dir/LeetCode2043.cpp.o" \
+"CMakeFiles/LeetCode.dir/LeetCode2044.cpp.o" \
+"CMakeFiles/LeetCode.dir/LeetCode2049.cpp.o" \
+"CMakeFiles/LeetCode.dir/LeetCode432.cpp.o" \
+"CMakeFiles/LeetCode.dir/LeetCode589.cpp.o" \
+"CMakeFiles/LeetCode.dir/LeetCode590.cpp.o" \
+"CMakeFiles/LeetCode.dir/LeetCode599.cpp.o" \
+"CMakeFiles/LeetCode.dir/LeetCode653.cpp.o" \
+"CMakeFiles/LeetCode.dir/LeetCode661.cpp.o" \
+"CMakeFiles/LeetCode.dir/LeetCode693.cpp.o" \
+"CMakeFiles/LeetCode.dir/LeetCode720.cpp.o" \
+"CMakeFiles/LeetCode.dir/LeetCode798.cpp.o" \
 "CMakeFiles/LeetCode.dir/Solution.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1001.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1005.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1006.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1011.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1020.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1034.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1035.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1036.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1078.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1104.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1137.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1143.cpp.o" \
 "CMakeFiles/LeetCode.dir/Solution115.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1154.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1185.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1190.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution12.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1218.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1221.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1239.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1269.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution13.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1310.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1337.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1342.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1345.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution137.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution138.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1380.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1405.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1418.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1442.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1446.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1447.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1480.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1486.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution149.cpp.o" \
 "CMakeFiles/LeetCode.dir/Solution150.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1518.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution153.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1576.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1583.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1588.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution160.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1600.cpp.o" \
 "CMakeFiles/LeetCode.dir/Solution1603.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1609.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1614.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution162.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1629.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1646.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution165.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution168.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1688.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1705.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1706.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1707.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution171.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1711.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1713.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1716.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1720.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1725.cpp.o" \
 "CMakeFiles/LeetCode.dir/Solution173.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1734.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1736.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1738.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1743.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1744.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1748.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1763.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1765.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution179.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1791.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution17_10.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution17_21.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1816.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1818.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1833.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1838.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1842.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1846.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution187.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1877.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1893.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1894.cpp.o" \
 "CMakeFiles/LeetCode.dir/Solution191.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1984.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1995.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution1996.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution2000.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution2006.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution2013.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution2022.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution2029.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution203.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution2047.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution2055.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution208.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution2100.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution211.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution213.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution219.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution220.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution223.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution229.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution230.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution231_2.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution237.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution26.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution260.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution264.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution268.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution27.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution273.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution274.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution278.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution28.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution284.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution292.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution295.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution299.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution301.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution306.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution313.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution318.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution319.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution326.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution334.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution335.cpp.o" \
 "CMakeFiles/LeetCode.dir/Solution341.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution342_4.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution345.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution352.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution36.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution363.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution367.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution371.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution372.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution374.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution375.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution378.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution38.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution382.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution383.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution384.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution390.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution391.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution397.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution400.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution401.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution403.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution405.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution407.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution412.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution413.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution414.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution419.cpp.o" \
 "CMakeFiles/LeetCode.dir/Solution42.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution421.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution430.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution434.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution437.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution441.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution446.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution447.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution451.cpp.o" \
 "CMakeFiles/LeetCode.dir/Solution456.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution457.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution458.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution461.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution470.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution472.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution474.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution475.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution476.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution477.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution482.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution483.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution485.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution492.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution494.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution495.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution496.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution500.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution502.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution504.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution506.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution507.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution508.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution516.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution520.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution521.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution523.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution524.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution525.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution526.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution528.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution539.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution540.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution541.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution551.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution552.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution559.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution563.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution575.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution576.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution58.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution581.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution583.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution594.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution599.cpp.o" \
 "CMakeFiles/LeetCode.dir/Solution61.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution611.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution629.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution630.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution633.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution638.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution645.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution65.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution650.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution66.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution664.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution671.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution673.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution677.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution678.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution68.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution688.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution689.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution692.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution700.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution704.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution709.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution71.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution717.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution725.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution726.cpp.o" \
 "CMakeFiles/LeetCode.dir/Solution73.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution74.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution743.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution747.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution748.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution781.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution783.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution786.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution787.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution789.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution794.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution797.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution80.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution802.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution807.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution81.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution815.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution825.cpp.o" \
 "CMakeFiles/LeetCode.dir/Solution83.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution846.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution851.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution852.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution859.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution863.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution869.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution872.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution877.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution879.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution88.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution884.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution89.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution897.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution909.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution91.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution911.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution917.cpp.o" \
 "CMakeFiles/LeetCode.dir/Solution92.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution930.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution938.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution969.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution981.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution993.cpp.o" \
+"CMakeFiles/LeetCode.dir/Solution997.cpp.o" \
+"CMakeFiles/LeetCode.dir/SolutionLCP07.cpp.o" \
+"CMakeFiles/LeetCode.dir/SolutionMian10_02.cpp.o" \
+"CMakeFiles/LeetCode.dir/SolutionMian17_14.cpp.o" \
+"CMakeFiles/LeetCode.dir/SolutionOffer069.cpp.o" \
+"CMakeFiles/LeetCode.dir/SolutionOffer10_1.cpp.o" \
+"CMakeFiles/LeetCode.dir/SolutionOffer15.cpp.o" \
+"CMakeFiles/LeetCode.dir/SolutionOffer37.cpp.o" \
+"CMakeFiles/LeetCode.dir/SolutionOffer38.cpp.o" \
+"CMakeFiles/LeetCode.dir/SolutionOffer42.cpp.o" \
+"CMakeFiles/LeetCode.dir/SolutionOffer52.cpp.o" \
+"CMakeFiles/LeetCode.dir/SolutionOffer53_I.cpp.o" \
+"CMakeFiles/LeetCode.dir/Tire.cpp.o" \
+"CMakeFiles/LeetCode.dir/UnionFind.cpp.o" \
 "CMakeFiles/LeetCode.dir/main.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
 
+LeetCode: CMakeFiles/LeetCode.dir/HUAWEI0.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/HUAWEI1.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/HUAWEI2.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/HUAWEI3.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/HUAWEI4.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/LeetCode121.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/LeetCode172.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/LeetCode2038.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/LeetCode2043.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/LeetCode2044.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/LeetCode2049.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/LeetCode432.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/LeetCode589.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/LeetCode590.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/LeetCode599.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/LeetCode653.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/LeetCode661.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/LeetCode693.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/LeetCode720.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/LeetCode798.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/Solution.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1001.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1005.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1006.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1011.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1020.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1034.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1035.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1036.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1078.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1104.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1137.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1143.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/Solution115.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1154.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1185.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1190.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution12.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1218.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1221.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1239.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1269.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution13.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1310.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1337.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1342.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1345.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution137.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution138.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1380.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1405.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1418.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1442.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1446.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1447.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1480.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1486.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution149.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/Solution150.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1518.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution153.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1576.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1583.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1588.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution160.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1600.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/Solution1603.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1609.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1614.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution162.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1629.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1646.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution165.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution168.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1688.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1705.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1706.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1707.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution171.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1711.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1713.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1716.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1720.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1725.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/Solution173.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1734.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1736.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1738.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1743.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1744.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1748.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1763.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1765.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution179.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1791.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution17_10.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution17_21.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1816.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1818.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1833.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1838.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1842.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1846.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution187.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1877.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1893.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1894.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/Solution191.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1984.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1995.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution1996.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution2000.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution2006.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution2013.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution2022.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution2029.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution203.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution2047.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution2055.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution208.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution2100.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution211.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution213.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution219.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution220.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution223.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution229.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution230.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution231_2.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution237.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution26.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution260.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution264.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution268.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution27.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution273.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution274.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution278.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution28.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution284.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution292.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution295.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution299.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution301.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution306.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution313.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution318.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution319.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution326.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution334.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution335.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/Solution341.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution342_4.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution345.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution352.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution36.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution363.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution367.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution371.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution372.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution374.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution375.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution378.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution38.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution382.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution383.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution384.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution390.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution391.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution397.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution400.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution401.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution403.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution405.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution407.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution412.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution413.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution414.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution419.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/Solution42.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution421.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution430.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution434.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution437.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution441.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution446.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution447.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution451.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/Solution456.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution457.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution458.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution461.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution470.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution472.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution474.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution475.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution476.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution477.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution482.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution483.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution485.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution492.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution494.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution495.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution496.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution500.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution502.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution504.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution506.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution507.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution508.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution516.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution520.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution521.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution523.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution524.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution525.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution526.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution528.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution539.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution540.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution541.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution551.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution552.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution559.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution563.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution575.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution576.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution58.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution581.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution583.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution594.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution599.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/Solution61.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution611.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution629.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution630.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution633.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution638.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution645.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution65.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution650.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution66.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution664.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution671.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution673.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution677.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution678.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution68.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution688.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution689.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution692.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution700.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution704.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution709.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution71.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution717.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution725.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution726.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/Solution73.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution74.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution743.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution747.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution748.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution781.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution783.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution786.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution787.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution789.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution794.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution797.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution80.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution802.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution807.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution81.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution815.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution825.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/Solution83.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution846.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution851.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution852.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution859.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution863.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution869.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution872.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution877.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution879.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution88.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution884.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution89.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution897.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution909.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution91.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution911.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution917.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/Solution92.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution930.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution938.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution969.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution981.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution993.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Solution997.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/SolutionLCP07.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/SolutionMian10_02.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/SolutionMian17_14.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/SolutionOffer069.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/SolutionOffer10_1.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/SolutionOffer15.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/SolutionOffer37.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/SolutionOffer38.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/SolutionOffer42.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/SolutionOffer52.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/SolutionOffer53_I.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Tire.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/UnionFind.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/main.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/zehui.lzh/CLionProjects/LeetCode1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_317) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

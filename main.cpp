@@ -141,6 +141,11 @@
 #include "Solution2055.h"
 #include "LeetCode798.h"
 #include "LeetCode2049.h"
+#include "LeetCode599.h"
+#include "LeetCode2044.h"
+#include "LeetCode720.h"
+#include "LeetCode653.h"
+#include "LeetCode693.h"
 
 using namespace std;
 
@@ -917,5 +922,28 @@ int main() {
     LeetCode2049 leetCode2049;
     arr = {-1, 2, 0, 2, 0};
     cout << leetCode2049.countHighestScoreNodes(arr) << endl;
+
+
+    LeetCode599 leetCode599;
+    vector<string> s1 = {"Shogun","Tapioca Express","Burger King","KFC"};
+    vector<string> s2 = {"KFC","Burger King","Tapioca Express","Shogun"};
+    leetCode599.findRestaurant(s1, s2);
+
+    arr = {2, 2, 2};
+    LeetCode2044 leetCode2044;
+    cout << leetCode2044.countMaxOrSubsets(arr) << endl;
+
+    LeetCode720 leetCode720;
+    strs = {"a", "banana", "app", "appl", "ap", "apply", "apple"};
+    cout << leetCode720.longestWord(strs) << endl;
+
+    LeetCode653 leetCode653;
+    root = new TreeNode(2);
+    root->left = new TreeNode(1);
+    root->right = new TreeNode(3);
+    cout << leetCode653.findTarget(root, 4);
+
+    LeetCode693 leetCode693;
+    cout << leetCode693.hasAlternatingBits(10) << endl;
     return 0;
 }

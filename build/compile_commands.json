@@ -1,8 +1,168 @@
 [
 {
   "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/HUAWEI0.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI0.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI0.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/HUAWEI1.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI1.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI1.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/HUAWEI2.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI2.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI2.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/HUAWEI3.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI3.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI3.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/HUAWEI4.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI4.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/HUAWEI4.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/LeetCode121.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode121.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode121.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/LeetCode172.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode172.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode172.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/LeetCode2038.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode2038.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode2038.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/LeetCode2043.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode2043.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode2043.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/LeetCode2044.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode2044.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode2044.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/LeetCode2049.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode2049.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode2049.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/LeetCode432.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode432.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode432.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/LeetCode589.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode589.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode589.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/LeetCode590.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode590.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode590.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/LeetCode599.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode599.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode599.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/LeetCode653.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode653.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode653.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/LeetCode661.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode661.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode661.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/LeetCode693.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode693.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode693.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/LeetCode720.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode720.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode720.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/LeetCode798.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode798.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/LeetCode798.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
   "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution.cpp",
   "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1001.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1001.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1001.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1005.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1005.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1005.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1006.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1006.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1006.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1011.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1011.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1011.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1020.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1020.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1020.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1034.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1034.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1034.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1035.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1035.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1035.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1036.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1036.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1036.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1078.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1078.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1078.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1104.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1104.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1104.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1137.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1137.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1137.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1143.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1143.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1143.cpp"
 },
 {
   "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
@@ -11,8 +171,163 @@
 },
 {
   "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1154.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1154.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1154.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1185.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1185.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1185.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1190.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1190.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1190.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution12.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution12.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution12.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1218.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1218.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1218.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1221.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1221.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1221.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1239.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1239.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1239.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1269.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1269.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1269.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution13.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution13.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution13.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1310.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1310.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1310.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1337.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1337.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1337.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1342.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1342.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1342.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1345.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1345.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1345.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution137.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution137.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution137.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution138.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution138.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution138.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1380.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1380.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1380.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1405.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1405.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1405.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1418.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1418.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1418.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1442.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1442.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1442.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1446.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1446.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1446.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1447.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1447.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1447.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1480.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1480.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1480.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1486.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1486.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1486.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution149.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution149.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution149.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
   "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution150.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution150.cpp",
   "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution150.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1518.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1518.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1518.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution153.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution153.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution153.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1576.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1576.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1576.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1583.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1583.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1583.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1588.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1588.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1588.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution160.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution160.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution160.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1600.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1600.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1600.cpp"
 },
 {
   "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
@@ -21,8 +336,203 @@
 },
 {
   "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1609.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1609.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1609.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1614.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1614.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1614.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution162.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution162.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution162.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1629.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1629.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1629.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1646.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1646.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1646.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution165.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution165.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution165.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution168.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution168.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution168.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1688.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1688.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1688.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1705.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1705.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1705.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1706.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1706.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1706.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1707.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1707.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1707.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution171.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution171.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution171.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1711.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1711.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1711.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1713.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1713.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1713.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1716.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1716.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1716.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1720.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1720.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1720.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1725.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1725.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1725.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
   "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution173.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution173.cpp",
   "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution173.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1734.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1734.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1734.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1736.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1736.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1736.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1738.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1738.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1738.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1743.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1743.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1743.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1744.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1744.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1744.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1748.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1748.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1748.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1763.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1763.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1763.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1765.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1765.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1765.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution179.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution179.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution179.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1791.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1791.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1791.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution17_10.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution17_10.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution17_10.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution17_21.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution17_21.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution17_21.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1816.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1816.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1816.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1818.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1818.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1818.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1833.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1833.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1833.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1838.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1838.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1838.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1842.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1842.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1842.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1846.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1846.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1846.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution187.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution187.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution187.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1877.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1877.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1877.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1893.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1893.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1893.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1894.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1894.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1894.cpp"
 },
 {
   "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
@@ -31,8 +541,358 @@
 },
 {
   "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1984.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1984.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1984.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1995.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1995.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1995.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution1996.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution1996.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution1996.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution2000.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2000.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution2000.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution2006.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2006.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution2006.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution2013.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2013.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution2013.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution2022.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2022.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution2022.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution2029.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2029.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution2029.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution203.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution203.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution203.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution2047.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2047.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution2047.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution2055.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2055.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution2055.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution208.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution208.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution208.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution2100.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution2100.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution2100.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution211.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution211.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution211.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution213.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution213.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution213.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution219.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution219.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution219.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution220.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution220.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution220.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution223.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution223.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution223.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution229.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution229.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution229.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution230.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution230.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution230.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution231_2.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution231_2.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution231_2.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution237.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution237.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution237.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution26.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution26.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution26.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution260.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution260.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution260.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution264.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution264.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution264.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution268.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution268.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution268.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution27.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution27.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution27.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution273.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution273.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution273.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution274.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution274.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution274.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution278.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution278.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution278.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution28.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution28.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution28.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution284.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution284.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution284.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution292.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution292.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution292.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution295.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution295.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution295.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution299.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution299.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution299.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution301.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution301.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution301.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution306.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution306.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution306.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution313.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution313.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution313.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution318.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution318.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution318.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution319.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution319.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution319.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution326.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution326.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution326.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution334.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution334.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution334.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution335.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution335.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution335.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
   "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution341.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution341.cpp",
   "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution341.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution342_4.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution342_4.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution342_4.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution345.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution345.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution345.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution352.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution352.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution352.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution36.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution36.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution36.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution363.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution363.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution363.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution367.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution367.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution367.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution371.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution371.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution371.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution372.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution372.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution372.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution374.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution374.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution374.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution375.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution375.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution375.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution378.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution378.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution378.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution38.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution38.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution38.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution382.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution382.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution382.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution383.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution383.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution383.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution384.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution384.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution384.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution390.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution390.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution390.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution391.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution391.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution391.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution397.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution397.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution397.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution400.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution400.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution400.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution401.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution401.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution401.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution403.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution403.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution403.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution405.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution405.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution405.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution407.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution407.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution407.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution412.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution412.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution412.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution413.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution413.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution413.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution414.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution414.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution414.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution419.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution419.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution419.cpp"
 },
 {
   "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
@@ -41,8 +901,268 @@
 },
 {
   "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution421.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution421.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution421.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution430.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution430.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution430.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution434.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution434.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution434.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution437.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution437.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution437.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution441.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution441.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution441.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution446.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution446.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution446.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution447.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution447.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution447.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution451.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution451.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution451.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
   "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution456.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution456.cpp",
   "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution456.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution457.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution457.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution457.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution458.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution458.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution458.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution461.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution461.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution461.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution470.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution470.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution470.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution472.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution472.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution472.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution474.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution474.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution474.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution475.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution475.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution475.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution476.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution476.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution476.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution477.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution477.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution477.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution482.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution482.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution482.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution483.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution483.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution483.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution485.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution485.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution485.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution492.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution492.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution492.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution494.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution494.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution494.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution495.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution495.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution495.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution496.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution496.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution496.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution500.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution500.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution500.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution502.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution502.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution502.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution504.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution504.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution504.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution506.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution506.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution506.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution507.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution507.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution507.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution508.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution508.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution508.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution516.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution516.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution516.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution520.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution520.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution520.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution521.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution521.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution521.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution523.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution523.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution523.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution524.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution524.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution524.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution525.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution525.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution525.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution526.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution526.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution526.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution528.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution528.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution528.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution539.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution539.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution539.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution540.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution540.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution540.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution541.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution541.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution541.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution551.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution551.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution551.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution552.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution552.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution552.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution559.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution559.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution559.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution563.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution563.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution563.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution575.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution575.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution575.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution576.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution576.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution576.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution58.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution58.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution58.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution581.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution581.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution581.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution583.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution583.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution583.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution594.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution594.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution594.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution599.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution599.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution599.cpp"
 },
 {
   "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
@@ -51,8 +1171,218 @@
 },
 {
   "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution611.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution611.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution611.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution629.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution629.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution629.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution630.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution630.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution630.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution633.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution633.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution633.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution638.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution638.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution638.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution645.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution645.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution645.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution65.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution65.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution65.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution650.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution650.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution650.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution66.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution66.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution66.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution664.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution664.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution664.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution671.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution671.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution671.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution673.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution673.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution673.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution677.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution677.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution677.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution678.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution678.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution678.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution68.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution68.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution68.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution688.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution688.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution688.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution689.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution689.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution689.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution692.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution692.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution692.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution700.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution700.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution700.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution704.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution704.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution704.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution709.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution709.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution709.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution71.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution71.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution71.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution717.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution717.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution717.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution725.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution725.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution725.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution726.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution726.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution726.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
   "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution73.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution73.cpp",
   "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution73.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution74.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution74.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution74.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution743.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution743.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution743.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution747.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution747.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution747.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution748.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution748.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution748.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution781.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution781.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution781.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution783.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution783.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution783.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution786.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution786.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution786.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution787.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution787.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution787.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution789.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution789.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution789.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution794.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution794.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution794.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution797.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution797.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution797.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution80.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution80.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution80.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution802.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution802.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution802.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution807.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution807.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution807.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution81.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution81.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution81.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution815.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution815.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution815.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution825.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution825.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution825.cpp"
 },
 {
   "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
@@ -61,8 +1391,188 @@
 },
 {
   "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution846.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution846.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution846.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution851.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution851.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution851.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution852.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution852.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution852.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution859.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution859.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution859.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution863.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution863.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution863.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution869.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution869.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution869.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution872.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution872.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution872.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution877.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution877.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution877.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution879.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution879.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution879.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution88.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution88.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution88.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution884.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution884.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution884.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution89.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution89.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution89.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution897.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution897.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution897.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution909.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution909.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution909.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution91.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution91.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution91.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution911.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution911.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution911.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution917.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution917.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution917.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
   "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution92.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution92.cpp",
   "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution92.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution930.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution930.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution930.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution938.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution938.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution938.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution969.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution969.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution969.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution981.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution981.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution981.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution993.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution993.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution993.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Solution997.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Solution997.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Solution997.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/SolutionLCP07.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionLCP07.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/SolutionLCP07.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/SolutionMian10_02.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionMian10_02.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/SolutionMian10_02.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/SolutionMian17_14.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionMian17_14.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/SolutionMian17_14.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/SolutionOffer069.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer069.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer069.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/SolutionOffer10_1.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer10_1.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer10_1.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/SolutionOffer15.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer15.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer15.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/SolutionOffer37.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer37.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer37.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/SolutionOffer38.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer38.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer38.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/SolutionOffer42.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer42.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer42.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/SolutionOffer52.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer52.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer52.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/SolutionOffer53_I.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer53_I.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/SolutionOffer53_I.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/Tire.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/Tire.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/Tire.cpp"
+},
+{
+  "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
+  "command": "/usr/bin/clang++    -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o CMakeFiles/LeetCode.dir/UnionFind.cpp.o -c /Users/zehui.lzh/CLionProjects/LeetCode1/UnionFind.cpp",
+  "file": "/Users/zehui.lzh/CLionProjects/LeetCode1/UnionFind.cpp"
 },
 {
   "directory": "/Users/zehui.lzh/CLionProjects/LeetCode1/build",
