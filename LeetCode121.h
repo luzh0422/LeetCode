@@ -1,5 +1,5 @@
 //
-// Created by luzh on 2022/3/14.
+// Created by 陆泽辉 on 2023/10/1.
 //
 
 #ifndef LEETCODE_LEETCODE121_H
@@ -10,7 +10,6 @@
 using namespace std;
 
 class LeetCode121 {
-public:
     int maxProfit(vector<int>& prices);
 };
 

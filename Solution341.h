@@ -17,9 +17,15 @@ public:
     NestedInteger(vector<NestedInteger> nums);
     bool isInteger() const;
 
+    // Set this NestedInteger to hold a single integer.
+    void setInteger(int value);
+
     // Return the single integer that this NestedInteger holds, if it holds a single integer
     // The result is undefined if this NestedInteger holds a nested list
     int getInteger() const;
+
+    // Set this NestedInteger to hold a nested list and adds a nested integer to it.
+    void add(const NestedInteger &ni);
 
     // Return the nested list that this NestedInteger holds, if it holds a nested list
     // The result is undefined if this NestedInteger holds a single integer

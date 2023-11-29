@@ -7,7 +7,7 @@
 
 int Solution378::kthSmallest(vector<vector<int>> &matrix, int k) {
     int n = matrix.size();
-    auto cmp = [&matrix, n](int num1, int num2) -> bool {
+    std::function<bool(int, int)> cmp = [&matrix, n](int num1, int num2) -> bool {
         int row1 = num1 / n;
         int column1 = num1 % n;
         int row2 = num2 / n;

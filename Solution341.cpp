@@ -21,8 +21,16 @@ NestedInteger::NestedInteger(vector<NestedInteger> nums) {
     mIsInteger = false;
 }
 
+void NestedInteger::setInteger(int value) {
+    mNum = value;
+}
+
 int NestedInteger::getInteger() const {
     return mNum;
+}
+
+void NestedInteger::add(const NestedInteger &ni) {
+    mNums.push_back(ni);
 }
 
 const vector<NestedInteger> & NestedInteger::getList() const {

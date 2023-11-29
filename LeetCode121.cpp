@@ -1,19 +1,17 @@
 //
-// Created by luzh on 2022/3/14.
+// Created by 陆泽辉 on 2023/10/1.
 //
 
 #include "LeetCode121.h"
 
 int LeetCode121::maxProfit(vector<int> &prices) {
-    int n = prices.size();
-    int currMin = prices[0];
-    int ret = 0;
-    for (int i = 1; i < n; i++) {
-        if (prices[i] < currMin) {
-            currMin = prices[i];
+    int minPrice = INT_MAX, maxProfit = 0;
+    for (int i = 0; i < prices.size(); i++) {
+        if (prices[i] < minPrice) {
+            minPrice = prices[i];
         } else {
-            ret = max(ret, prices[i] - currMin);
+            maxProfit = max(maxProfit, prices[i] - minPrice);
         }
     }
-    return ret;
+    return maxProfit;
 }
