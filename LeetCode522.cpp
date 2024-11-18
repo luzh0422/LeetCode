@@ -29,6 +29,9 @@ int LeetCode522::findLUSlength(vector<string> &strs) {
             return true;
         }
     };
+    std::sort(strs.begin(), strs.end(), [&](string& str1, string& str2) -> bool {
+        return str1.size() > str2.size();
+    });
     int n = strs.size();
     int ret = -1;
     for (int i = 0; i < n; i++) {
@@ -40,7 +43,7 @@ int LeetCode522::findLUSlength(vector<string> &strs) {
             }
         }
         if (check) {
-            ret = max(ret, static_cast<int>(strs[i].size()));
+            return strs[i].size();
         }
     }
     return ret;

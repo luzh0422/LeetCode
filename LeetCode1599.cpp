@@ -25,6 +25,7 @@ int LeetCode1599::minOperationsMaxProfit(vector<int> &customers, int boardingCos
             res = i + 1;
             maxVal = curr;
         }
+        i++;
     }
     return res;
 }

@@ -25,3 +25,4 @@ vector<vector<int>> LeetCode661::imageSmoother(vector<vector<int>> &img) {
     }
     return ret;
 }
+

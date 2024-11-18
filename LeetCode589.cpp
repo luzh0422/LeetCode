@@ -11,6 +11,8 @@ vector<int> LeetCode589::preorder(Node *root) {
 }
 
 void LeetCode589::preorder(Node *root, vector<int> &arr) {
+    if (!root)
+        return;
     arr.push_back(root->val);
     auto children = root->children;
     for (int i = 0; i < children.size(); i++) {

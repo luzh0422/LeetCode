@@ -13,7 +13,6 @@ void MagicDictionary::buildDict(vector<string> dictionary) {
 }
 
 bool MagicDictionary::search(string searchWord) {
-    bool ret = false;
     for (string& dict: mDictionary) {
         if (dict.size() != searchWord.size()) {
             continue;
@@ -26,10 +25,9 @@ bool MagicDictionary::search(string searchWord) {
             }
         }
         if (count == 1) {
-            ret = true;
-            break;
+            return true;
         }
     }
-    return ret;
+    return false;
 }
 
