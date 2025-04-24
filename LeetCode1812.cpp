@@ -7,5 +7,5 @@
 bool LeetCode1812::squareIsWhite(string coordinates) {
     int col = coordinates[0] - 'a';
     int row = coordinates[1] - '1';
-    return col % 2 != row % 2;
+    return ((row & 1) ^ (col & 1)) != 0;
 }

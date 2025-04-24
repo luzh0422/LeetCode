@@ -11,7 +11,7 @@ using namespace std;
 
 class LeetCode3240 {
 public:
-    int minFlips(vector<vector<int>>& grid)
+    int minFlips(vector<vector<int>>& grid);
 };
 
 

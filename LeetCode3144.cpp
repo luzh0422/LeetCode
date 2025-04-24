@@ -3,6 +3,7 @@
 //
 
 #include "LeetCode3144.h"
+#include <vector>
 
 int LeetCode3144::minimumSubstringsInPartition(std::string s) {
     int n = s.size();

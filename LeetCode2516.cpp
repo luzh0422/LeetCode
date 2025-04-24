@@ -3,6 +3,7 @@
 //
 
 #include "LeetCode2516.h"
+#include <vector>
 
 int LeetCode2516::takeCharacters(std::string s, int k) {
     int n = s.size();

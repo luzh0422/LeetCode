@@ -31,7 +31,7 @@ int ExamRoom::seat() {
     auto iter = _seated.begin();
     advance(iter, 1);
     while (iter != _seated.end()) {
-        int position2 = *iter;
+        int position2 = *iter++;
         int temp = (position1 + position2) / 2;
         int currDistance = min(temp - position1, position2 - temp);
         if (currDistance > distance) {
